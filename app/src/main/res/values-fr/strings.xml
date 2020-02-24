@@ -1,0 +1,2006 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Aggone</string>
+    <string name="splash_name">AGGONE</string>
+    <string name="splash_desc">Reveal your potential Revolutionize your sport</string>
+    <string name="access">Évaluer</string>
+    <string name="activity">Activité</string>
+    <string name="add">Ajouter</string>
+    <string name="add_description">Ajouter une description</string>
+    <string name="add_more_prize">Ajouter des trophées</string>
+    <string name="add_more_prize_description">Vous pouvez ajouter des prix légitimes que vous avez reçus tout au long de votre carrière</string>
+    <string name="add_stats">Ajouter des stats</string>
+    <string name="advanced_stats">Stats avancées</string>
+    <string name="age">âge</string>
+    <string name="american_football">Am Football</string>
+    <string name="athletics">Athlétisme</string>
+    <string name="badminton">Badminton</string>
+    <string name="baseball">Baseball</string>
+    <string name="basketball">Basketball</string>
+    <string name="boxing">Boxe</string>
+    <string name="climbing">Escalade</string>
+    <string name="cricket">Cricket</string>
+    <string name="cycling">Cyclisme</string>
+    <string name="dance">Danse</string>
+    <string name="equestrianism">Équitation</string>
+    <string name="fencing">Escrime</string>
+    <string name="football">Football</string>
+    <string name="golf">Golf</string>
+    <string name="gymnastic">Gymnastique</string>
+    <string name="handball">Handball</string>
+    <string name="judo">Judo</string>
+    <string name="martial_art">Art martial</string>
+    <string name="rugby">Rugby</string>
+    <string name="skiing">Ski</string>
+    <string name="snowboarding">Surf des neiges</string>
+    <string name="squash">Squash</string>
+    <string name="swimming">Natation</string>
+    <string name="table_tennis">Tennis de table</string>
+    <string name="tennis">Tennis</string>
+    <string name="volleyball">Volley-ball</string>
+    <string name="water_sports">Sports nautiques</string>
+    <string name="wrestling">Lutte</string>
+    <string name="ice_hockey">Hockey sur glace</string>
+    <string name="field_hockey">Hockey sur le terrain</string>
+    <string name="mma">MMA</string>
+    <string name="kick_boxing">Kick Boxe</string>
+    <string name="water_polo">Water-polo</string>
+    <string name="auto_racing">Course automobile</string>
+    <string name="moto_racing">Moto Racing</string>
+    <string name="polo_sport">Polo Sport</string>
+    <string name="softball">Softball</string>
+    <string name="sepak_takraw">Sepak Takraw</string>
+    <string name="korfball">Korfball</string>
+    <string name="floorball">Floorball</string>
+    <string name="mountaineering">Alpinisme</string>
+    <string name="canyoning">Canyonisme</string>
+    <string name="trail">Sentier</string>
+    <string name="triathlon">Triatlón</string>
+    <string name="ice_skating">Patinage</string>
+    <string name="petanque">Pétanque</string>
+    <string name="skate_board">Skateboard</string>
+    <string name="weightlifting">Haltérophilie</string>
+    <string name="crossfit_fitness">Crossfit&amp;Fitness</string>
+    <string name="surf">Surf</string>
+    <string name="sailing">Voile</string>
+    <string name="canoeing">Canoë-kayak</string>
+    <string name="rowing">Aviron</string>
+    <string name="air_sports">Sports aériens</string>
+    <string name="winter_sports">Sports d’hiver</string>
+    <string name="bowling">Bowling</string>
+
+    <string name="add_description_description">C\'est un excellent moyen de se montrer joueur</string>
+    <string name="apply">Appliquer</string>
+    <string name="as_coach">Entraîneur</string>
+    <string name="as_player">Joueur</string>
+    <string name="block">Bloqué</string>
+    <string name="blocked">Bloqué</string>
+    <string name="blocked_user">Utilisateur bloqué</string>
+    <string name="bookmark">Enregistrés</string>
+    <string name="cancel">Annuler</string>
+    <string name="career">Carrière</string>
+    <string name="career_roadmap">Carrière</string>
+    <string name="career_roadmap_description">Vous pouvez ajouter tous les clubs et événements spéciaux que vous souhaitez montrer au monde.</string>
+    <string name="category">Catégorie</string>
+    <string name="change_password">Changer le mot de passe</string>
+    <string name="change_photo">Changer la photo</string>
+    <string name="chat_hint">Tapez un message ici ...</string>
+    <string name="chats">Chats</string>
+    <string name="city">Ville</string>
+    <string name="club">Club</string>
+    <string name="club_name">Nom du club</string>
+    <string name="coach">Entraîneur</string>
+    <string name="confirm_password">Confirmer votre mot de passe</string>
+    <string name="contact_us">Contactez nous</string>
+    <string name="contract">Contrat</string>
+    <string name="create_ad">Créer une annonce</string>
+    <string name="create_ad_description">Informez le monde sur vos besoins</string>
+    <string name="day">Jour</string>
+    <string name="delete">Effacer</string>
+    <string name="delete_message">Êtes-vous sûr de vouloir supprimer ceci</string>
+    <string name="description">Description</string>
+    <string name="discard">Abandonner</string>
+    <string name="edit_description">Éditer la description</string>
+    <string name="edit_profile">Editer le profil</string>
+    <string name="edit_stats">Modifier les stats</string>
+    <string name="email">Email</string>
+    <string name="forgot_password">Mot de passe oublié?</string>
+    <string name="forgot_password_title">Mot de passe oublié</string>
+    <string name="from">De</string>
+    <string name="game_played">Matchs joués</string>
+    <string name="graphs">Graphs</string>
+    <string name="height">La taille</string>
+    <string name="home">Accueil</string>
+    <string name="location">Ville</string>
+    <string name="logo_description">Ajoutez toutes les images pertinentes ici</string>
+    <string name="looking_club">Je recherche un club</string>
+    <string name="looking_player">Je recherche un joueur</string>
+    <string name="looking_club_description">Je recherche un club</string>
+    <string name="looking_player_description">Je recherche un joueur</string>
+    <string name="lookup">Recherche</string>
+    <string name="match">Match</string>
+    <string name="match_win_percent">Matchs gagnés %</string>
+    <string name="message">Messages</string>
+    <string name="modify_profile">Modifier le profil</string>
+    <string name="month">Mois</string>
+    <string name="my">Mon</string>
+    <string name="my_news">Mon Fil d\'actualité</string>
+    <string name="my_subscribers">Mes abonnés</string>
+    <string name="my_subscription">Mes abonnements</string>
+    <string name="name">Nom</string>
+    <string name="news">Fil d\'actualité</string>
+    <string name="notification">Notification</string>
+    <string name="password">Mot de passe</string>
+    <string name="performance">Performance</string>
+    <string name="player">joueur</string>
+    <string name="position">Position</string>
+    <string name="pref_indicator">Indicateur de perf</string>
+    <string name="prizes">Trophées</string>
+    <string name="profile">Profil</string>
+    <string name="ratio">Ratio</string>
+    <string name="recorded">Enregistré</string>
+    <string name="remove">Retirer</string>
+    <string name="report">Signaler</string>
+    <string name="search">Chercher</string>
+    <string name="search_hint">Recherche...</string>
+    <string name="select_icon">Sélectionnez l\'icône</string>
+    <string name="select_sport">Sélectionnez un sport</string>
+    <string name="send">Envoyer</string>
+    <string name="sign_out">Déconnexion</string>
+    <string name="source">source</string>
+    <string name="sport">sport</string>
+    <string name="stars">Étoiles</string>
+    <string name="statistics">Statistiques</string>
+    <string name="stats">Stats</string>
+
+    <string name="submit">Soumettre</string>
+    <string name="subscribe_back">Abonnez-vous retour</string>
+    <string name="subscribed">Abonné</string>
+    <string name="terms_conditions">Conditions d’utilisation</string>
+    <string name="terms_text">Accepter nos conditions générales</string>
+    <string name="the_filter">Filtre</string>
+    <string name="the_filter_description">Recherche avancée</string>
+    <string name="title">Titre</string>
+    <string name="to">À</string>
+    <string name="to_description">(laissez ceci si vous êtes actuellement dans ce club)</string>
+    <string name="total">Total</string>
+    <string name="unblock">Débloquer</string>
+    <string name="upload">Télécharger</string>
+    <string name="upload_video">Télécharger une vidéo</string>
+    <string name="upload_video_description">Vous pouvez télécharger une vidéo directement ou via une URL youtube</string>
+    <string name="url">Lien Youtube</string>
+    <string name="videos">Vidéos</string>
+    <string name="views">Vues</string>
+    <string name="weight">poids</string>
+    <string name="world">monde</string>
+    <string name="world_news">Fil d\'actualité monde</string>
+    <string name="year">Année</string>
+    <string name="you_are_here">Vous cherchez:</string>
+    <string name="unfollow">ne plus suivre</string>
+    <string name="skills">Compétences</string>
+    <string name="reset">Réinitialiser</string>
+    <string name="following">Se désabonner</string>
+    <string name="follow">s\'abonner</string>
+    <string name="description_1">Vitesse</string>
+    <string name="description_2">Force</string>
+    <string name="description_3">Explosivité</string>
+    <string name="description_4">Accélération</string>
+    <string name="description_5">Endurance</string>
+    <string name="description_6">Coordination</string>
+    <string name="description_7">Force/frappe</string>
+    <string name="description_8">Contrôle</string>
+    <string name="description_9">Défensive</string>
+    <string name="description_10">Offensives</string>
+    <string name="description_11">Précision</string>
+    <string name="description_12">Finition</string>
+    <string name="description_13">Motivation</string>
+    <string name="description_14">Concentration</string>
+    <string name="description_15">Réflexion</string>
+    <string name="description_16">Adaptation</string>
+    <string name="description_17">Mental</string>
+    <string name="description_18">Communication</string>
+    <string name="description_19">Intelligence/jeu</string>
+    <string name="description_20">Esprit d\'équipe</string>
+    <string name="description_21">Créativité</string>
+    <string name="description_22">Construction/jeu</string>
+    <string name="description_23">Prise/décision</string>
+    <string name="description_24">Exécution</string>
+    <string name="cdescription_1">Technique</string>
+    <string name="cdescription_10">identifier progrès</string>
+    <string name="cdescription_2">tactique</string>
+    <string name="cdescription_3">Physiologie</string>
+    <string name="cdescription_4">Psychologie</string>
+    <string name="cdescription_5">Organiser/jeu</string>
+    <string name="cdescription_6">Construction/jeu</string>
+    <string name="cdescription_7">Former/athlètes</string>
+    <string name="cdescription_8">Coacher joueurs</string>
+    <string name="cdescription_9">Evaluer sportifs</string>
+    <string name="cdescription_11">Pédagogie</string>
+    <string name="cdescription_12">Expliquer</string>
+    <string name="cdescription_13">Gérer forces</string>
+    <string name="cdescription_14">Gérer faiblesses</string>
+    <string name="cdescription_15">Analyser match</string>
+    <string name="cdescription_16">Communication</string>
+    <string name="cdescription_17">Règles/sécurité</string>
+    <string name="cdescription_18">Administrative</string>
+    <string name="cdescription_19">Meneur d’hommes</string>
+    <string name="cdescription_20">Force/caractère</string>
+    <string name="cdescription_21">Esprit d\'équipe</string>
+    <string name="cdescription_22">Persuasif</string>
+    <string name="cdescription_23">Dynamique</string>
+    <string name="cdescription_24">Observateur</string>
+    <string name="skill1">Physique</string>
+    <string name="skill2">Technique</string>
+    <string name="skill3">Psychologique</string>
+    <string name="skill4">Tactique</string>
+    <string name="cskill1">Connaissances</string>
+    <string name="cskill2">Technique</string>
+    <string name="cskill3">Managérial</string>
+    <string name="cskill4">Qualités</string>
+    <string name="notification_follow">Cette personne vous a suivi</string>
+    <string name="notification_like">Cette personne a aimé votre vidéo</string>
+    <string name="notification_chat">Cette personne vous a envoyé un message</string>
+    <string name="full_name">Nom et Prénom</string>
+    <string name="nationality">Nationalité</string>
+    <string name="gender">Sexe</string>
+    <string name="team_club">Équipe/Club</string>
+    <string name="agent">Agent</string>
+    <string name="staff">Personnel</string>
+    <string name="company">Société</string>
+    <string name="company_desc">Marque/Sponsor/Médias...</string>
+
+    <string name="people">Personnes</string>
+    <string name="country">Pays</string>
+    <string name="gender_man">Homme</string>
+    <string name="gender_woman">Femme</string>
+    <string name="gender_other">Autres</string>
+    <string name="advertisment">Annonce</string>
+    <string name="stats_disable_noti">Vous ne pouvez pas accéder à cette page</string>
+    <string name="stats_disable_desc">Cette page n’est pas accessible pour votre type de compte. Vous pouvez modifier le type de compte à partir des paramètres.</string>
+    <string name="current_password">Mot de passe actuel</string>
+    <string name="new_password">Nouveau mot de passe</string>
+    <string name="retype_password">Mot de passe Retype</string>
+    <string name="btn_confirm">Confirmer</string>
+    <string name="add_resume">Ajouter le RÉSUMÉ</string>
+    <string name="download">Télécharger</string>
+    <string name="summary">Résumé</string>
+
+    <string name="profile_news">Nouvelles</string>
+    <string name="profile_trophies">Trophées</string>
+    <string name="profile_team">Équipe</string>
+    <string name="prifile_history">Histoire</string>
+    <string name="history_desc">Écrivez votre Bio...</string>
+    <string name="details">Détails</string>
+    <string name="phone">Téléphone</string>
+    <string name="website">Website</string>
+    <string name="specialty">Spécialité</string>
+    <string name="strengths">Forces</string>
+    <string name="make_private">Rendre privé</string>
+    <string name="make_public">Rendre public</string>
+
+    <string name="add_more_news">Ajouter plus de nouvelles</string>
+    <string name="add_more_news_description">Vous pouvez ajouter toutes les nouvelles tendances nouvelles sur votre club ici.</string>
+    <string name="add_history">Ajouter/Modifier l’historique</string>
+    <string name="add_history_description">Écrivez votre biographie</string>
+    <string name="attachable_description">0/3 Pièces jointes disponibles</string>
+    <string name="stories">Histoires</string>
+    <string name="recommendations">Recommandé</string>
+    <string name="forward">Avant</string>
+    <string name="private_account">Compte privé</string>
+    <string name="available_clubs">Disponible pour les clubs</string>
+    <string name="profile_audience">Public</string>
+    <string name="audience_story_views">Vues d’histoires</string>
+    <string name="audience_today">Aujourd\'hui</string>
+    <string name="audience_week">Semaine</string>
+    <string name="audience_month">Mois</string>
+    <string name="audience_visitors">Visiteurs</string>
+    <string name="audience_total_profile">Profil total</string>
+    <string name="audience_visits">Visites</string>
+    <string name="audience_total_views">Vues totales</string>
+    <string name="audience_view_video">Vues sur la vidéo</string>
+    <string name="audience_star_video">Stars on Video</string>
+    <string name="audience_views_suffix">Affichage</string>
+    <string name="team_category">Catégorie d’équipe</string>
+    <string name="txt_victory">Victoire</string>
+    <string name="txt_defeat">Défaite</string>
+    <string name="txt_draw">Nul</string>
+
+    <!-- Month name-->
+    <string name="txt_jan">Jan</string>
+    <string name="txt_feb">Fév</string>
+    <string name="txt_mar">Mar</string>
+    <string name="txt_apr">Avr</string>
+    <string name="txt_may">Mai</string>
+    <string name="txt_jun">Jui</string>
+    <string name="txt_jul">Jul</string>
+    <string name="txt_aug">Aoû</string>
+    <string name="txt_sep">Sep</string>
+    <string name="txt_oct">Oct</string>
+    <string name="txt_nov">Nov</string>
+    <string name="txt_dec">Déc</string>
+
+    <string-array name="months_array">
+        <item>Jan</item>
+        <item>Fév</item>
+        <item>Mar</item>
+        <item>Avr</item>
+        <item>Mai</item>
+        <item>Jui</item>
+        <item>Jul</item>
+        <item>Aoû</item>
+        <item>Sep</item>
+        <item>Oct</item>
+        <item>Nov</item>
+        <item>Déc</item>
+    </string-array>
+
+    <string-array name="month_name_array">
+        <item> </item>
+        <item>Janvier</item>
+        <item>Février</item>
+        <item>Mars</item>
+        <item>Avril</item>
+        <item>Mai</item>
+        <item>Juin</item>
+        <item>Juillet</item>
+        <item>Août</item>
+        <item>Septembre</item>
+        <item>Octobre</item>
+        <item>Novembre</item>
+        <item>Décembre</item>
+    </string-array>
+
+    <string-array name="week_day_array">
+        <item>Dim</item>
+        <item>Lun</item>
+        <item>Mar</item>
+        <item>Mer</item>
+        <item>jeu</item>
+        <item>Ven</item>
+        <item>Sam</item>
+    </string-array>
+
+    <string-array name="weeks_array">
+        <item>1e semaine</item>
+        <item>2e semaine</item>
+        <item>3e semaine</item>
+        <item>4e semaine</item>
+    </string-array>
+
+    <!-- String Array-->
+    <string-array name="strength_football">
+        <item>Dribble</item>
+        <item>Protection de balle</item>
+        <item>Vitesse</item>
+        <item>Duels aériens</item>
+        <item>Endurance</item>
+        <item>Création d\'opportunités</item>
+        <item>Jeu de construction</item>
+        <item>Pénétration</item>
+        <item>Récupération</item>
+        <item>Conservation du ballon</item>
+        <item>Jouer dans l\'Intervalles </item>
+        <item>Marquage</item>
+        <item>Interceptions</item>
+        <item>Tacles</item>
+        <item>Jeu de tête</item>
+        <item>Tirer</item>
+        <item>Contrôle</item>
+        <item>Centre</item>
+        <item>Finition</item>
+        <item>Passe profonde</item>
+        <item>Passe courte</item>
+        <item>Longue passe</item>
+        <item>Jeu long</item>
+        <item>Jeu rapide</item>
+        <item>Combativité</item>
+        <item>Concentration</item>
+        <item>Un contre un</item>
+        <item>Jeu de passes</item>
+        <item>Arrêt</item>
+        <item>Sortie de but</item>
+        <item>La relance</item>
+        <item>Coups francs</item>
+        <item>centres</item>
+        <item>Marquage</item>
+        <item>Agressivité</item>
+        <item>Anticipation</item>
+        <item>Agilité</item>
+    </string-array>
+    <string-array name="strength_basketball">
+        <item>Course</item>
+        <item>Passe</item>
+        <item>Tir</item>
+        <item>Bloquer</item>
+        <item>Rebond</item>
+        <item>Attaque</item>
+        <item>Défense</item>
+        <item>Se déplacer</item>
+        <item>Violations</item>
+        <item>Passe decisive</item>
+        <item>Faute</item>
+    </string-array>
+    <string-array name="strength_american_football">
+        <item>Course</item>
+        <item>Passe</item>
+        <item>Blocage </item>
+        <item>Catching</item>
+        <item>Rush</item>
+        <item>Garde</item>
+        <item>Triple menace</item>
+        <item>Fullback</item>
+        <item>H-back</item>
+        <item>Slotback</item>
+        <item>End Cornerback</item>
+        <item>sécurité</item>
+        <item>Halfback</item>
+        <item>Nickelback</item>
+        <item>Dimeback </item>
+        <item>Field goal</item>
+        <item>Punts and Kicks</item>
+        <item>Long snapper</item>
+        <item>Punt returner</item>
+        <item>Kick returner</item>
+        <item>Jammer</item>
+        <item>Upman Gunner</item>
+        <item>Upback</item>
+        <item>Utility</item>
+    </string-array>
+    <string-array name="strength_cricket">
+        <item>Fielding</item>
+        <item>Fonctionnement</item>
+        <item>Position</item>
+        <item>Frappeur</item>
+        <item>Backlift</item>
+        <item>Avant et arrière</item>
+        <item>Laisser</item>
+        <item>Tir défensif</item>
+        <item>Conduire</item>
+        <item>feuilleter</item>
+        <item>Couper</item>
+        <item>Entraînement carré</item>
+        <item>Tirez et accrochez</item>
+        <item>Bosser</item>
+        <item>Balayage de slog</item>
+        <item>Coupe supérieure</item>
+        <item>Changer de coup</item>
+        <item>Pelle / rampe</item>
+        <item>Hélicoptère abattu</item>
+        <item>Bowling rapide</item>
+        <item>Spin bowling</item>
+        <item>Livraison rapide de Bowler</item>
+        <item>Livraisons Spin Bowler</item>
+    </string-array>
+    <string-array name="strength_tennis">
+        <item>Explosivité</item>
+        <item>Équilibré</item>
+        <item>Coordination œil-main</item>
+        <item>Jugement de balle</item>
+        <item>Motivation</item>
+        <item>Concentration</item>
+        <item>Coup droit</item>
+        <item>Revers</item>
+        <item>Un service</item>
+        <item>Jeu de pied</item>
+        <item>Anticipation</item>
+        <item>Volleying</item>
+    </string-array>
+    <string-array name="strength_rugby">
+        <item>Course</item>
+        <item>Passe</item>
+        <item>Contagieux</item>
+        <item>S\'attaquer</item>
+        <item>Coup de pied</item>
+        <item>Compétences positionnelles</item>
+        <item>Les règles</item>
+        <item>Travail en équipe</item>
+        <item>Ruck / Mauls</item>
+        <item>Jouissance</item>
+        <item>Ramasser la balle</item>
+        <item>Poignée boule</item>
+        <item>Recevez un pass</item>
+        <item>Bouge avec ballon</item>
+        <item>Se déplacer sans ballon</item>
+        <item>Tacle</item>
+        <item>coup de pied</item>
+        <item>Échapper aux tacles</item>
+        <item>La persévérance</item>
+        <item>Travailler en équipe</item>
+        <item>Courage</item>
+        <item>Calme</item>
+        <item>Vision</item>
+        <item>Endurance</item>
+    </string-array>
+    <string-array name="strength_golf">
+        <item>Poignée</item>
+        <item>Position</item>
+        <item>Balançoire</item>
+        <item>Stratégies</item>
+    </string-array>
+    <string-array name="strength_baseball">
+        <item>Frappe</item>
+        <item>Mouche</item>
+        <item>Marquage</item>
+        <item>Alignement</item>
+        <item>Lancement</item>
+        <item>Catching</item>
+        <item>Coordination œil-main</item>
+        <item>Bases en cours d\'exécution</item>
+        <item>Les pichets couvrent en premier</item>
+        <item>Sacrifiez les cavités</item>
+        <item>Squeeze bunts</item>
+        <item>Délabré toutes les bases</item>
+        <item>Délit de fuite</item>
+        <item>Bunt and run</item>
+        <item>Double braguette</item>
+        <item>Relais</item>
+        <item>garder les coureurs de base</item>
+        <item>Les prélèvements</item>
+    </string-array>
+    <string-array name="strength_ice_hockey">
+        <item>Manipulation de la rondelle</item>
+        <item>Qui passe</item>
+        <item>Tournage</item>
+        <item>Dribble</item>
+        <item>Contrôle de la rondelle</item>
+        <item>Manipulation du bâton</item>
+        <item>Agilité</item>
+        <item>Équilibre</item>
+        <item>Contrôle des bords</item>
+        <item>Patinage avant</item>
+        <item>Patinage arrière</item>
+        <item>Tournant</item>
+        <item>Crossovers</item>
+        <item>Transition</item>
+        <item>Pieds rapides</item>
+        <item>Gardien de but</item>
+    </string-array>
+    <string-array name="strength_field_hockey">
+        <item>Manipulation de la rondelle</item>
+        <item>Qui passe</item>
+        <item>Tournage</item>
+        <item>Dribble</item>
+        <item>Contrôle de la rondelle</item>
+        <item>Manipulation du bâton</item>
+        <item>Agilité</item>
+        <item>Équilibre</item>
+        <item>Contrôle des bords</item>
+        <item>Marche avant</item>
+        <item>Marche arrière</item>
+        <item>Tournant</item>
+        <item>Crossovers</item>
+        <item>Transition</item>
+        <item>Pieds rapides</item>
+        <item>Gardien de but</item>
+    </string-array>
+    <string-array name="strength_volley">
+        <item>Portion</item>
+        <item>Qui passe</item>
+        <item>Réglage</item>
+        <item>Frappe</item>
+        <item>Creusement</item>
+        <item>Blocage</item>
+    </string-array>
+    <string-array name="strength_handball">
+        <item>frappe</item>
+        <item>Dribble</item>
+        <item>Protection contre les balles</item>
+        <item>La vitesse</item>
+        <item>Duels aériens</item>
+        <item>Endurance</item>
+        <item>Création d\'opportunités</item>
+        <item>Jeu de construction</item>
+        <item>Pénétration</item>
+        <item>Récupération</item>
+        <item>Conservation du ballon</item>
+        <item>Jouez par intervalles</item>
+        <item>Nettoyage à sec</item>
+        <item>Marquage</item>
+        <item>Interceptions</item>
+        <item>Tirer</item>
+        <item>Contrôle</item>
+        <item>Centre</item>
+        <item>terminer</item>
+        <item>Passe profonde</item>
+        <item>Passe courte</item>
+        <item>Longue passe</item>
+        <item>Jeu long</item>
+        <item>Jeu rapide</item>
+        <item>Coups de pied arrêtés</item>
+        <item>Direction</item>
+        <item>Plagiat</item>
+        <item>la communication</item>
+        <item>Combativité</item>
+        <item>Concentration</item>
+        <item>Un contre un</item>
+        <item>Arrêtez</item>
+        <item>Sortie de but</item>
+        <item>La relance</item>
+    </string-array>
+    <string-array name="strength_badminton">
+        <item>Poignée</item>
+        <item>Gouttes</item>
+        <item>Lobs</item>
+        <item>Se vante</item>
+        <item>Disques</item>
+        <item>Mécanique Swing</item>
+        <item>Mouvements judiciaires</item>
+        <item>Contrôle</item>
+        <item>Déplacer votre adversaire</item>
+        <item>Coup droit</item>
+        <item>Revers</item>
+        <item>Aérien</item>
+        <item>Arbitrage</item>
+        <item>Règles et marquage</item>
+        <item>Sert</item>
+        <item>Coups</item>
+        <item>Fracasser</item>
+    </string-array>
+    <string-array name="strength_squash">
+        <item>Poignée</item>
+        <item>Gouttes</item>
+        <item>Lobs</item>
+        <item>Se vante</item>
+        <item>Disques</item>
+        <item>Mécanique Swing</item>
+        <item>Mouvements judiciaires</item>
+        <item>Contrôle</item>
+        <item>Déplacer votre adversaire</item>
+        <item>Coup droit</item>
+        <item>Revers</item>
+        <item>Aérien</item>
+        <item>Arbitrage</item>
+        <item>Règles et marquage</item>
+        <item> Sert</item>
+    </string-array>
+    <string-array name="strength_table_tennis">
+        <item>Coup droit</item>
+        <item>Service rapide</item>
+        <item>Coup droit</item>
+        <item>poussée du revers</item>
+        <item>Coup droit coup droit.</item>
+        <item>Coup de revers.</item>
+        <item>Boucle de revers</item>
+        <item>Attaque coup droit</item>
+        <item>Coup droit</item>
+        <item>Service revers</item>
+    </string-array>
+    <string-array name="strength_boxing">
+        <item>Coup</item>
+        <item>Traverser</item>
+        <item>Crochet</item>
+        <item>Uppercut</item>
+        <item>Position de boxe</item>
+        <item>Jeu de jambes de boxe</item>
+        <item>Coup de poing</item>
+        <item>Mouvement de la tête</item>
+    </string-array>
+    <string-array name="strength_martial_art">
+        <item>Concentrer</item>
+        <item>La discipline</item>
+        <item>Mémorisation</item>
+        <item>Effort</item>
+        <item>Buts</item>
+        <item>jeu de jambes</item>
+        <item>Le respect.</item>
+        <item>Confiance</item>
+        <item>L\'initiative</item>
+        <item>The Dodge</item>
+        <item>L\'attaque</item>
+        <item>La parade</item>
+        <item>Le tir</item>
+        <item>Le jet</item>
+    </string-array>
+    <string-array name="strength_mma">
+        <item>lutte</item>
+        <item>Gaidojutsu</item>
+        <item>Muay thai</item>
+        <item>Jabs</item>
+        <item>Uppercuts</item>
+        <item>Étalement et bagarre</item>
+        <item>Combat au corps à corps</item>
+        <item>Terrain et livre</item>
+        <item>Soumission aux prises</item>
+        <item>renversements</item>
+        <item>Takedowns</item>
+        <item>Soumissions</item>
+    </string-array>
+    <string-array name="strength_kick_boxing">
+        <item>Distanciation</item>
+        <item>La défense</item>
+        <item>Parer</item>
+        <item>Bloquer</item>
+        <item>Esquive</item>
+        <item>Revenir</item>
+        <item>Rolling the Punch</item>
+        <item>Éviter</item>
+        <item>Feinting</item>
+        <item>Horaire</item>
+        <item>Mouvement de la tête</item>
+        <item>Teep</item>
+        <item>Garde fort</item>
+        <item>Coups de poing</item>
+        <item>coups de pied</item>
+        <item>Le genou</item>
+        <item>Coups de coude</item>
+        <item>Balayage</item>
+        <item> Équité</item>
+        <item>La contre-attaque</item>
+    </string-array>
+    <string-array name="strength_wrestling">
+        <item>Attaques</item>
+        <item>Jette</item>
+        <item>Mouvements de transition</item>
+        <item>Position</item>
+        <item> Mouvement</item>
+        <item>Changement de niveau</item>
+        <item>Pénétration</item>
+        <item>Levage</item>
+        <item>Pas en arrière</item>
+        <item>Arche arrière</item>
+    </string-array>
+    <string-array name="strength_gymnastic">
+        <item>Acro Skills</item>
+        <item>Rouleau avant</item>
+        <item>Rouleau arrière</item>
+        <item>Se tourne</item>
+        <item>Sauts</item>
+        <item>Bondit</item>
+        <item>Arrondi</item>
+        <item>Salto arrière</item>
+    </string-array>
+    <string-array name="strength_athletics">
+        <item>Les réactions</item>
+        <item>Coordination</item>
+        <item>Équilibre</item>
+        <item>Souplesse</item>
+        <item>Endurance</item>
+        <item>Puissance</item>
+        <item>Force</item>
+        <item>La vitesse</item>
+    </string-array>
+    <string-array name="strength_fencing">
+        <item>Attaque combinée</item>
+        <item>Fente</item>
+        <item>Feinte</item>
+        <item>Parer</item>
+        <item>Riposte</item>
+        <item>Contre-attaque</item>
+        <item>Jeu de jambes</item>
+        <item>Roue tactique</item>
+        <item>Coup droit</item>
+        <item>dégagement</item>
+        <item>Coupé</item>
+        <item>Actions défensives</item>
+        <item>Retraite</item>
+    </string-array>
+    <string-array name="strength_judo">
+        <item>Attaque</item>
+        <item>Défendre</item>
+        <item>Saisir l\'adversaire</item>
+        <item>Contrôler l\'adversaire</item>
+        <item>Utilisez le déséquilibre</item>
+        <item>Laissez tomber</item>
+        <item>Mettre à terre</item>
+        <item>immobiliser</item>
+        <item>Désengager l\'immobilisation</item>
+        <item>Coup de pied libre</item>
+    </string-array>
+    <string-array name="strength_swimming">
+        <item>La brasse</item>
+        <item>Le papillon</item>
+        <item>Le crawl</item>
+        <item>Retour rampant</item>
+        <item>Confort de l\'eau</item>
+        <item>Contrôle de la respiration</item>
+        <item>Flottant</item>
+        <item>Coup de pied</item>
+        <item>AVC</item>
+        <item>Technique respiratoire</item>
+        <item>Rotation du corps</item>
+        <item>Technique de traction</item>
+        <item>Taux de course</item>
+        <item>longueurs de course</item>
+        <item>Coup de pied libre</item>
+    </string-array>
+    <string-array name="strength_water_sports">
+        <item>Technique respiratoire</item>
+        <item>Rotation du corps</item>
+        <item>Fort</item>
+        <item>Noyau étiré</item>
+        <item>Entrée manuelle</item>
+        <item>Technique de capture</item>
+        <item>Technique de traction</item>
+        <item>Taux de course</item>
+        <item>Longueurs de course</item>
+    </string-array>
+    <string-array name="strength_water_polo">
+        <item>Endurance</item>
+        <item>Travail en équipe</item>
+        <item>Lancement</item>
+        <item>Contagieux</item>
+        <item>Qui passe</item>
+        <item>Jeu de tête</item>
+        <item>Tirer</item>
+        <item>Contrôle</item>
+        <item>Finition centrale</item>
+        <item>Passe profonde</item>
+        <item>Passe courte</item>
+        <item>Longue passe</item>
+        <item>Jeu long</item>
+        <item>Jeu rapide</item>
+    </string-array>
+    <string-array name="strength_autoracing">
+        <item>Concentration</item>
+        <item>La vitesse</item>
+        <item>Anticipation</item>
+        <item>Calme</item>
+        <item>Réflexe</item>
+        <item>Réactif</item>
+        <item>Résistant</item>
+        <item>règles de sécurité.</item>
+        <item>Travail d\'équipe</item>
+        <item>Pilotage de la maîtrise</item>
+        <item>Tour</item>
+        <item>Freinage</item>
+        <item>Vue</item>
+    </string-array>
+    <string-array name="strength_motoracing">
+        <item>Concentration</item>
+        <item>La vitesse</item>
+        <item>Anticipation</item>
+        <item>Calme</item>
+        <item>Réflexe</item>
+        <item>Réactif</item>
+        <item>Résistant</item>
+        <item>règles de sécurité.</item>
+        <item>Travail d\'équipe</item>
+        <item>Pilotage de la maîtrise</item>
+        <item>Tour</item>
+        <item>Freinage</item>
+        <item>Vue</item>
+    </string-array>
+    <string-array name="strength_cycling">
+        <item>Concentration</item>
+        <item>La vitesse</item>
+        <item>Anticipation</item>
+        <item>Calme</item>
+        <item>Réflexe</item>
+        <item>Réactif</item>
+        <item>Résistant</item>
+        <item>règles de sécurité.</item>
+        <item>Travail d\'équipe</item>
+        <item>Pilotage de la maîtrise</item>
+        <item>Tour</item>
+        <item>Freinage</item>
+        <item>Vue</item>
+        <item>équilibre</item>
+        <item>Déplacement</item>
+        <item>Pédaler</item>
+        <item>Descendant</item>
+    </string-array>
+    <string-array name="strength_equestrian">
+        <item>Dressage</item>
+        <item>Equitation d\'endurance</item>
+        <item>Eventing</item>
+        <item>Reining</item>
+        <item>jumping</item>
+        <item>Piquage Ent</item>
+        <item>Voûte</item>
+        <item>Courses hippiques</item>
+        <item>Conduite</item>
+        <item>Rodeo</item>
+    </string-array>
+    <string-array name="strength_polo">
+        <item> Balle de maîtrise</item>
+        <item>Maillet de maîtrise</item>
+        <item>Dressage</item>
+        <item>Equitation d\'endurance</item>
+        <item>Eventing</item>
+        <item>Reining</item>
+        <item>jumping</item>
+        <item>Piquage Ent</item>
+        <item>Voûte</item>
+        <item>Courses hippiques</item>
+        <item>Conduite</item>
+        <item>Rodeo</item>
+        <item>Double vol</item>
+    </string-array>
+    <string-array name="strength_dance">
+        <item>Mouvements</item>
+        <item>Rythme</item>
+        <item>Espace corporel</item>
+        <item>Temps</item>
+        <item>Énergie</item>
+        <item>Relations avec les partenaires</item>
+        <item>Engagement émotionnel</item>
+    </string-array>
+    <string-array name="strength_softball">
+        <item>Baserunning</item>
+        <item>Marquage des coureurs</item>
+        <item>Pitching</item>
+        <item>Lancement</item>
+        <item>Frappe</item>
+        <item>Glissement</item>
+        <item>Fielding flyballs</item>
+        <item>Des balles au sol</item>
+        <item>Bruant</item>
+        <item>Attraper le ballon</item>
+        <item>Jeu de jambes</item>
+        <item>Baserunning</item>
+        <item>Voler la défense</item>
+        <item>Bruant</item>
+        <item>Défense anti-carie</item>
+        <item>Double jeu</item>
+        <item>La Coupe</item>
+    </string-array>
+    <string-array name="strength_sepak_takraw">
+        <item>Coup de pied intérieur</item>
+        <item>Coup de pied extérieur</item>
+        <item>AVC au genou</item>
+        <item>entête</item>
+        <item>Un service</item>
+        <item>Sunback Spike</item>
+        <item>Point de roulement</item>
+    </string-array>
+    <string-array name="strength_korfball">
+        <item>Équilibre</item>
+        <item>Direction du corps</item>
+        <item>Mouvement de synchronisation</item>
+        <item>Mouvement</item>
+        <item>Manipulation du ballon</item>
+        <item>Boule d\'espacement</item>
+        <item>lancer la balle</item>
+        <item>Tournage</item>
+        <item>En mouvement</item>
+        <item>Fonctionnement</item>
+        <item>Mono korfball</item>
+    </string-array>
+    <string-array name="strength_floorball">
+        <item>Technique individuelle</item>
+        <item> Qui passe</item>
+        <item>Réception</item>
+        <item>Tournage</item>
+        <item>Dribble</item>
+        <item>Tactiques individuelles</item>
+        <item> Rôles de jeu</item>
+        <item>En mouvement</item>
+    </string-array>
+    <string-array name="strength_climbing">
+        <item>Exercices de jeu de jambes</item>
+        <item>Position du corps</item>
+        <item>Marquage</item>
+        <item> Claques</item>
+        <item> Couper en vrac</item>
+        <item>Utilisation de volumes</item>
+        <item>Slopers</item>
+        <item>Démarrages</item>
+        <item>Lecture d\'itinéraire</item>
+    </string-array>
+
+    <string-array name="strength_mountaineering">
+        <item>Réaction</item>
+        <item>Coordination</item>
+        <item>Équilibre</item>
+        <item>Souplesse</item>
+        <item>Endurance</item>
+        <item>Puissance</item>
+        <item>Force</item>
+        <item>Vitesse</item>
+        <item>Sécurité</item>
+    </string-array>
+    <string-array name="strength_canyoning">
+        <item>Nécessite de la force.</item>
+        <item>Force d\'esprit</item>
+        <item>Concentrer</item>
+        <item>Évitez la complaisance</item>
+        <item>Corps de force</item>
+        <item>Équilibre</item>
+        <item>Variété de formes.</item>
+    </string-array>
+    <string-array name="strength_trail">
+        <item>Endurance</item>
+        <item>Stimulation</item>
+        <item>Sprint</item>
+        <item>Récupération</item>
+        <item>Les réactions</item>
+        <item>Coordination</item>
+        <item>Équilibre</item>
+        <item>Souplesse</item>
+        <item>Endurance</item>
+        <item>Puissance</item>
+        <item>Force</item>
+        <item>La vitesse</item>
+        <item>Rythm</item>
+    </string-array>
+    <string-array name="strength_triathlon">
+        <item>Départ</item>
+        <item>Arrêt</item>
+        <item> Virage</item>
+        <item>Manipulation</item>
+        <item>Trafic</item>
+        <item>Déplacement</item>
+        <item>Cadence</item>
+        <item>Escalade</item>
+        <item>Descendant</item>
+        <item>Equitation de groupe</item>
+    </string-array>
+    <string-array name="strength_archery">
+        <item>Concentrer</item>
+        <item>Concentration</item>
+        <item>Muscle de patience</item>
+        <item>Coordination</item>
+        <item>Équilibre</item>
+        <item>La stabilité. ...</item>
+        <item>Capacités de distance</item>
+        <item>Objectif</item>
+        <item>Vue</item>
+        <item>Vue de tir</item>
+    </string-array>
+    <string-array name="strength_snowboarding">
+        <item>Équilibre avant / arrière. ...</item>
+        <item>indépendance du corps</item>
+        <item>Amplitude de mouvement</item>
+        <item>Prendre le relais</item>
+        <item>Rester stable</item>
+        <item>Plantez vos poteaux.</item>
+        <item>Bords de maîtrise</item>
+        <item>Tackle Deep</item>
+        <item>Poudre fraîche</item>
+    </string-array>
+    <string-array name="strength_skiing">
+        <item>Équilibre avant / arrière. ...</item>
+        <item>indépendance du corps</item>
+        <item>Amplitude de mouvement</item>
+        <item>Prendre le relais</item>
+        <item>Rester stable</item>
+        <item>Plantez vos poteaux.</item>
+        <item>Bords de maîtrise</item>
+        <item>Tackle Deep</item>
+        <item>Poudre fraîche</item>
+        <item>Sculpture</item>
+    </string-array>
+    <string-array name="strength_ice_skating">
+        <item>Assis sur la glace</item>
+        <item>Debout sur la glace</item>
+        <item>Glissement vers l\'avant</item>
+        <item>Dip</item>
+        <item>Swizzles vers l\'avant</item>
+        <item>Remous en arrière</item>
+        <item>chasse-neige</item>
+        <item>Vers l\'avant</item>
+        <item>Reculer</item>
+        <item>Caresser en arrière</item>
+        <item>rotation d\'un pied</item>
+        <item>T-stops</item>
+    </string-array>
+    <string-array name="strength_bowls">
+        <item>Point</item>
+        <item>Tirer</item>
+        <item>lancement</item>
+        <item>Précision</item>
+        <item>Jeux de trajectoire</item>
+        <item>Debout ou accroupi</item>
+        <item>Glissement</item>
+        <item>La demi-portée</item>
+        <item>Le viseur</item>
+        <item>Tirer</item>
+        <item>Le radeau</item>
+        <item>Le fer</item>
+    </string-array>
+    <string-array name="strength_skateborard">
+        <item>Kickflip</item>
+        <item>Des trucs</item>
+        <item>180 °</item>
+        <item>360 °</item>
+        <item>Coulissement</item>
+        <item>Non conforme</item>
+        <item>Sans os</item>
+        <item>Bigspin</item>
+        <item>Bigflip</item>
+        <item>Caveman P</item>
+        <item>Support à main</item>
+        <item>Ollie</item>
+        <item>Grabs</item>
+    </string-array>
+    <string-array name="strength_crossfit_fitness">
+        <item>Puissance</item>
+        <item>La vitesse</item>
+        <item>Agilité</item>
+        <item>Coordination main-œil-pied</item>
+        <item>Équilibré</item>
+        <item>Temps de réaction</item>
+        <item>Forme cardiovasculaire</item>
+        <item>La composition corporelle</item>
+        <item>Sauter</item>
+        <item>pivotant</item>
+        <item>Mobilité</item>
+        <item>Force</item>
+    </string-array>
+    <string-array name="strength_weightlifting">
+        <item>Puissance</item>
+        <item>La vitesse</item>
+        <item>Agilité</item>
+        <item>Coordination main-œil-pied</item>
+        <item>Équilibré</item>
+        <item>Temps de réaction</item>
+        <item>Forme cardiovasculaire</item>
+        <item>La composition corporelle</item>
+        <item>Sauter</item>
+        <item>pivotant</item>
+        <item>Mobilité</item>
+        <item>Force</item>
+    </string-array>
+    <string-array name="strength_surf">
+        <item>Sculpture</item>
+        <item>Garniture</item>
+        <item>sabrer</item>
+        <item>Roundhouse Cutback</item>
+        <item>Off-the-Lip</item>
+        <item>Foam Climb</item>
+        <item>Flotteur</item>
+        <item>Glissière de queue</item>
+        <item>Noseriding</item>
+        <item>Variations</item>
+        <item>Changer de position</item>
+        <item>360</item>
+        <item>Kickflip</item>
+        <item>Ride Tube</item>
+        <item>Air / aérien</item>
+        <item>Alley-oop</item>
+        <item>Flip de rodéo</item>
+        <item>Kerrupt Flip</item>
+        <item>Flynnstone Flip</item>
+        <item>Rouleau de Sushi</item>
+    </string-array>
+    <string-array name="strength_sailing">
+        <item>Pilotage des voiles.</item>
+        <item>Atteindre (hors-bord) le plomb</item>
+        <item>Mettez vos voiles d\'air lourd</item>
+        <item>Poteau moustache</item>
+        <item>Réglage de la voile</item>
+        <item>Balance du bateau</item>
+        <item>Talonnage</item>
+        <item>Garniture avant</item>
+        <item>Garniture arrière</item>
+        <item>Position</item>
+        <item>Tacking</item>
+    </string-array>
+    <string-array name="strength_canoeing">
+        <item>Poignée</item>
+        <item>Bonne posture</item>
+        <item>Contrôle de la lame</item>
+        <item>Timing</item>
+        <item>Équilibre</item>
+        <item>Rythme</item>
+        <item>Efficacité</item>
+        <item> Application de puissance</item>
+        <item>Rameurs</item>
+        <item> Compétences en aviron.</item>
+        <item>AVC</item>
+        <item>Draw Stroke</item>
+        <item>Cross Draw Stroke</item>
+        <item>Stern Pry Stroke</item>
+        <item>J Stroke</item>
+    </string-array>
+    <string-array name="strength_rowing">
+        <item>Poignée</item>
+        <item>Bonne posture</item>
+        <item>Contrôle de la lame</item>
+        <item>Timing</item>
+        <item>Équilibre</item>
+        <item>Rythme</item>
+        <item>Efficacité</item>
+        <item>Application de puissance</item>
+        <item>Rameurs</item>
+        <item>Compétences en aviron</item>
+        <item>Orward Stroke</item>
+        <item>Draw Stroke</item>
+        <item>Cross Draw Stroke</item>
+        <item>Stern Pry Stroke</item>
+        <item>J Stroke</item>
+    </string-array>
+    <string-array name="strength_winter_sport">
+        <item>Réaction</item>
+        <item>Coordination</item>
+        <item>Équilibre</item>
+        <item>Souplesse</item>
+        <item>Endurance</item>
+        <item>Puissance</item>
+        <item>Force</item>
+        <item>Vitesse</item>
+        <item>Saut</item>
+    </string-array>
+    <string-array name="strength_air_sport">
+        <item>Réaction</item>
+        <item>Coordination</item>
+        <item>Équilibre</item>
+        <item>Souplesse</item>
+        <item>Endurance</item>
+        <item>Puissance</item>
+        <item>Force</item>
+        <item>Vitesse</item>
+        <item>Saut</item>
+    </string-array>
+
+    <!--    stats arrays-->
+    <string-array name="stat_american_football_key">
+        <item>Games_played</item>
+        <item>Victories</item>
+        <item>Defeats</item>
+        <item>Draws</item>
+        <item>Points_scored</item>
+        <item>Touchdowns</item>
+        <item>Attempts</item>
+        <item>Yards</item>
+        <item>Assist</item>
+        <item>successful_races</item>
+        <item>Interceptions</item>
+        <item>Tackle</item>
+        <item>Completions</item>
+        <item>Sack</item>
+        <item>First_Down</item>
+        <item>Fumble</item>
+        <item>Reception</item>
+        <item>Blocked</item>
+    </string-array>
+    <string-array name="stat_american_football">
+        <item>Parties jouées</item>
+        <item>Victoires</item>
+        <item>Défaite</item>
+        <item>Nuls</item>
+        <item>Points marqués</item>
+        <item>Touchdowns</item>
+        <item>Tentatives</item>
+        <item>Yards</item>
+        <item>Passes décisives</item>
+        <item>Courses réussies</item>
+        <item>Interceptions</item>
+        <item>Plaquage</item>
+        <item>Achèvements</item>
+        <item>Sack</item>
+        <item>First Down</item>
+        <item>Fumble</item>
+        <item>Réceptions</item>
+        <item>Blocage</item>
+    </string-array>
+    <string-array name="stat_american_football_s">
+        <item>P.J</item>
+        <item>V</item>
+        <item>D</item>
+        <item>N</item>
+        <item>Pts.M</item>
+        <item>Tds</item>
+        <item>T</item>
+        <item>Yds</item>
+        <item>P.D</item>
+        <item>C.R</item>
+        <item>Int</item>
+        <item>P</item>
+        <item>Ach</item>
+        <item>Sck</item>
+        <item>F.D</item>
+        <item>Fum</item>
+        <item>Rec</item>
+        <item>Blc</item>
+    </string-array>
+
+    <string-array name="stat_basketball_key">
+        <item>Games_played</item>
+        <item>Victories</item>
+        <item>Defeats</item>
+        <item>Draws</item>
+        <item>Points</item>
+        <item>Rebounds</item>
+        <item>Assists</item>
+        <item>Blocks</item>
+        <item>Steals</item>
+    </string-array>
+    <string-array name="stat_basketball">
+        <item>Parties jouées</item>
+        <item>Victoires</item>
+        <item>Défaite</item>
+        <item>Nuls</item>
+        <item>Points</item>
+        <item>Rebonds</item>
+        <item>Passes décisives</item>
+        <item>Contres</item>
+        <item>Interceptions</item>
+    </string-array>
+    <string-array name="stat_basketball_s">
+        <item>P.J</item>
+        <item>V</item>
+        <item>D</item>
+        <item>N</item>
+        <item>Pts</item>
+        <item>Rbd</item>
+        <item>P.D</item>
+        <item>Ct</item>
+        <item>Int</item>
+    </string-array>
+
+    <string-array name="stat_football_key">
+        <item>Games_played</item>
+        <item>Victories</item>
+        <item>Defeats</item>
+        <item>Draws</item>
+        <item>Goals</item>
+        <item>Assists</item>
+        <item>Successful_passes</item>
+        <item>Interceptions</item>
+        <item>Clean_sheet</item>
+        <item>Goalkeeper_stop</item>
+        <item>Sanctions</item>
+    </string-array>
+    <string-array name="stat_football">
+        <item>Parties jouées</item>
+        <item>Victoires</item>
+        <item>Défaite</item>
+        <item>Nuls</item>
+        <item>Buts</item>
+        <item>Passes décisives</item>
+        <item>Passes réussies</item>
+        <item>Interceptions</item>
+        <item>Clean sheet</item>
+        <item>Arrêt gardien</item>
+        <item>Sanctions</item>
+    </string-array>
+    <string-array name="stat_football_s">
+        <item>P.J</item>
+        <item>V</item>
+        <item>D</item>
+        <item>N</item>
+        <item>B</item>
+        <item>P.D</item>
+        <item>P.R</item>
+        <item>Int</item>
+        <item>C.S</item>
+        <item>A.G</item>
+        <item>S</item>
+    </string-array>
+
+    <string-array name="stat_rugby_key">
+        <item>Games_played</item>
+        <item>Victories</item>
+        <item>Defeats</item>
+        <item>Draws</item>
+        <item>Points</item>
+        <item>Tries</item>
+        <item>Conversion</item>
+        <item>Tackle</item>
+        <item>Drops</item>
+        <item>Penalties</item>
+    </string-array>
+    <string-array name="stat_rugby">
+        <item>Parties jouées</item>
+        <item>Victoires</item>
+        <item>Défaite</item>
+        <item>Nuls</item>
+        <item>Points</item>
+        <item>Essaie</item>
+        <item>Conversion</item>
+        <item>Plaquage</item>
+        <item>Drops</item>
+        <item>Pénalités</item>
+    </string-array>
+    <string-array name="stat_rugby_s">
+        <item>P.J</item>
+        <item>V</item>
+        <item>D</item>
+        <item>N</item>
+        <item>Pts</item>
+        <item>E</item>
+        <item>Cvn</item>
+        <item>P</item>
+        <item>Drp</item>
+        <item>P</item>
+    </string-array>
+
+    <string-array name="stat_cricket_key">
+        <item>Games_played</item>
+        <item>Victories</item>
+        <item>Defeats</item>
+        <item>Draws</item>
+        <item>Runs_scored</item>
+        <item>Batting_average</item>
+        <item>100s_50s</item>
+        <item>Top_score</item>
+        <item>Balls_bowled</item>
+        <item>Wickets</item>
+        <item>Bowling_average</item>
+        <item>5_wickets_in_innings</item>
+        <item>10_wickets_in_match</item>
+        <item>Best_bowling</item>
+        <item>Catches</item>
+        <item>Stumpings</item>
+    </string-array>
+    <string-array name="stat_cricket">
+        <item>Parties jouées</item>
+        <item>Victoires</item>
+        <item>Défaite</item>
+        <item>Nuls</item>
+        <item>Course marqués</item>
+        <item>Moyenne au bâton</item>
+        <item>100s/50s</item>
+        <item>Top score</item>
+        <item>Balls bowled</item>
+        <item>Wickets</item>
+        <item>Bowling average</item>
+        <item>5 wickets in innings</item>
+        <item>10 wickets in match</item>
+        <item>Best bowling</item>
+        <item>Catches</item>
+        <item>Stumpings</item>
+    </string-array>
+    <string-array name="stat_cricket_s">
+        <item>P.J</item>
+        <item>V</item>
+        <item>D</item>
+        <item>N</item>
+        <item>C.M</item>
+        <item>M.B</item>
+        <item>100s/50s</item>
+        <item>T.S</item>
+        <item>B.B</item>
+        <item>Wkt</item>
+        <item>Bow.A</item>
+        <item>Inns</item>
+        <item>10Wkts.M</item>
+        <item>B.B</item>
+        <item>C</item>
+        <item>S</item>
+    </string-array>
+
+    <string-array name="stat_hockey_key">
+        <item>Games_played</item>
+        <item>Victories</item>
+        <item>Defeats</item>
+        <item>Draws</item>
+        <item>Goals</item>
+        <item>Assists</item>
+        <item>Interceptions</item>
+        <item>Successful_stops</item>
+        <item>Penalties</item>
+    </string-array>
+    <string-array name="stat_hockey">
+        <item>Parties jouées</item>
+        <item>Victoires</item>
+        <item>Défaite</item>
+        <item>Nuls</item>
+        <item>Buts</item>
+        <item>Passes décisives</item>
+        <item>Interceptions</item>
+        <item>Arrêts réussis</item>
+        <item>Pénalités</item>
+    </string-array>
+    <string-array name="stat_hockey_s">
+        <item>P.J</item>
+        <item>V</item>
+        <item>D</item>
+        <item>N</item>
+        <item>B</item>
+        <item>P.D</item>
+        <item>Int</item>
+        <item>A.R</item>
+        <item>P</item>
+    </string-array>
+
+    <string-array name="stat_baseball_key">
+        <item>Games_played</item>
+        <item>Victories</item>
+        <item>Defeats</item>
+        <item>Draws</item>
+        <item>Home_Run</item>
+        <item>Hits</item>
+        <item>Runs</item>
+        <item>Bases_on_Balls</item>
+        <item>At_Bats</item>
+        <item>Assists</item>
+        <item>Sacrifice_Flies</item>
+        <item>Strikeouts</item>
+        <item>Hit_by_Pitch</item>
+    </string-array>
+    <string-array name="stat_baseball">
+        <item>Parties jouées</item>
+        <item>Victoires</item>
+        <item>Défaite</item>
+        <item>Nuls</item>
+        <item>Home Run</item>
+        <item>Hits</item>
+        <item>Runs</item>
+        <item>But sur balles</item>
+        <item>At. Bats</item>
+        <item>Passes décisives</item>
+        <item>Sacrifice Flies</item>
+        <item>Retrait sur prises</item>
+        <item>Frappeur atteint</item>
+    </string-array>
+    <string-array name="stat_baseball_s">
+        <item>P.J</item>
+        <item>V</item>
+        <item>D</item>
+        <item>N</item>
+        <item>H.R</item>
+        <item>H</item>
+        <item>R</item>
+        <item>B.B</item>
+        <item>AB</item>
+        <item>P.D</item>
+        <item>S.F</item>
+        <item>R.P</item>
+        <item>F.A</item>
+    </string-array>
+
+    <string-array name="stat_handball_key">
+        <item>Games_played</item>
+        <item>Victories</item>
+        <item>Defeats</item>
+        <item>Draws</item>
+        <item>Goals</item>
+        <item>Assists</item>
+        <item>Successful_passes</item>
+        <item>Interceptions</item>
+        <item>Clean_sheet</item>
+        <item>Goalkeeper_stop</item>
+        <item>Penalties</item>
+    </string-array>
+    <string-array name="stat_handball">
+        <item>Parties jouées</item>
+        <item>Victoires</item>
+        <item>Défaite</item>
+        <item>Nuls</item>
+        <item>Buts</item>
+        <item>Passes décisives</item>
+        <item>Passes réussies</item>
+        <item>Interceptions</item>
+        <item>Clean sheet</item>
+        <item>Arrêt gardien</item>
+        <item>Sanctions</item>
+    </string-array>
+    <string-array name="stat_handball_s">
+        <item>P.J</item>
+        <item>V</item>
+        <item>D</item>
+        <item>N</item>
+        <item>B</item>
+        <item>P.D</item>
+        <item>P.R</item>
+        <item>Int</item>
+        <item>C.S</item>
+        <item>A.G</item>
+        <item>S</item>
+    </string-array>
+
+    <string-array name="stat_volleyball_key">
+        <item>Games_played</item>
+        <item>Victories</item>
+        <item>Defeats</item>
+        <item>Draws</item>
+        <item>Points</item>
+        <item>Assists</item>
+        <item>Successful_services</item>
+        <item>Successful_Receptions</item>
+        <item>Successful_passes</item>
+        <item>Bloc</item>
+    </string-array>
+    <string-array name="stat_volleyball">
+        <item>Parties jouées</item>
+        <item>Victoires</item>
+        <item>Défaite</item>
+        <item>Nuls</item>
+        <item>Points</item>
+        <item>Passes décisives</item>
+        <item>Services réussis</item>
+        <item>Réceptions réussies</item>
+        <item>Passes réussies</item>
+        <item>Contres</item>
+    </string-array>
+    <string-array name="stat_volleyball_s">
+        <item>P.J</item>
+        <item>V</item>
+        <item>D</item>
+        <item>N</item>
+        <item>Pts</item>
+        <item>P.D</item>
+        <item>S.R</item>
+        <item>R.R</item>
+        <item>P.R</item>
+        <item>Ct</item>
+    </string-array>
+
+    <string-array name="stat_tennis_key">
+        <item>Games_played</item>
+        <item>Victories</item>
+        <item>Defeats</item>
+        <item>Draws</item>
+        <item>Points_earned_in_the_service</item>
+        <item>Point_earned_in_Return_of_service</item>
+        <item>Ranking</item>
+        <item>PointsRanking</item>
+    </string-array>
+    <string-array name="stat_tennis">
+        <item>Parties jouées</item>
+        <item>Victoires</item>
+        <item>Défaite</item>
+        <item>Nuls</item>
+        <item>Points gagnés service</item>
+        <item>Points gagnés retour service</item>
+        <item>Classement</item>
+        <item>Points classement</item>
+    </string-array>
+    <string-array name="stat_tennis_s">
+        <item>P.J</item>
+        <item>V</item>
+        <item>D</item>
+        <item>N</item>
+        <item>P.E.S</item>
+        <item>P.E.R.S</item>
+        <item>C</item>
+        <item>P.C</item>
+    </string-array>
+
+    <string-array name="stat_badminton_key">
+        <item>Games_played</item>
+        <item>Victories</item>
+        <item>Defeats</item>
+        <item>Draws</item>
+        <item>Points_earned_in_the_service</item>
+        <item>Point_earned_in_Return_of_service</item>
+        <item>Ranking</item>
+        <item>pointsRanking</item>
+    </string-array>
+    <string-array name="stat_badminton">
+        <item>Parties jouées</item>
+        <item>Victoires</item>
+        <item>Défaite</item>
+        <item>Nuls</item>
+        <item>Points gagnés service</item>
+        <item>Points gagnés retour service</item>
+        <item>Classement</item>
+        <item>Points classement</item>
+    </string-array>
+    <string-array name="stat_badminton_s">
+        <item>P.J</item>
+        <item>V</item>
+        <item>D</item>
+        <item>N</item>
+        <item>P.E.S</item>
+        <item>P.E.R.S</item>
+        <item>C</item>
+        <item>P.C</item>
+    </string-array>
+
+    <string-array name="stat_golf_key">
+        <item>Games_played</item>
+        <item>Victories</item>
+        <item>Defeats</item>
+        <item>Draws</item>
+        <item>Fairway_InRegulation</item>
+        <item>Green_InRegulation</item>
+        <item>Number_of_putts</item>
+        <item>Ranking</item>
+        <item>PointsRanking</item>
+    </string-array>
+    <string-array name="stat_golf">
+        <item>Parties jouées</item>
+        <item>Victoires</item>
+        <item>Défaite</item>
+        <item>Nuls</item>
+        <item>Fairway In Régulation</item>
+        <item>Green In Régulation</item>
+        <item>Nombre de putts</item>
+        <item>Classement</item>
+        <item>Points classement</item>
+    </string-array>
+    <string-array name="stat_golf_s">
+        <item>P.J</item>
+        <item>V</item>
+        <item>D</item>
+        <item>N</item>
+        <item>FIR</item>
+        <item>GIR</item>
+        <item>Putts</item>
+        <item>C</item>
+        <item>P.C</item>
+    </string-array>
+
+    <string-array name="stat_athletics_key">
+        <item>Games_played</item>
+        <item>Victories</item>
+        <item>Defeats</item>
+        <item>Draws</item>
+        <item>Performance</item>
+        <item>Ranking</item>
+        <item>Points_Ranking</item>
+    </string-array>
+    <string-array name="stat_athletics">
+        <item>Parties jouées</item>
+        <item>Victoires</item>
+        <item>Défaite</item>
+        <item>Nuls</item>
+        <item>Performance</item>
+        <item>Classement</item>
+        <item>Points classement</item>
+    </string-array>
+    <string-array name="stat_athletics_s">
+        <item>P.J</item>
+        <item>V</item>
+        <item>D</item>
+        <item>N</item>
+        <item>Perf/Time</item>
+        <item>C</item>
+        <item>P.C</item>
+    </string-array>
+
+    <string-array name="stat_racing_key">
+        <item>Races</item>
+        <item>Victories</item>
+        <item>Defeats</item>
+        <item>Draws</item>
+        <item>Performance</item>
+        <item>Ranking</item>
+        <item>PointsRanking</item>
+    </string-array>
+    <string-array name="stat_racing">
+        <item>Courses</item>
+        <item>Victoires</item>
+        <item>Défaite</item>
+        <item>Nuls</item>
+        <item>Performance</item>
+        <item>Classement</item>
+        <item>Points classement</item>
+    </string-array>
+    <string-array name="stat_racing_s">
+        <item>Courses</item>
+        <item>V</item>
+        <item>D</item>
+        <item>N</item>
+        <item>Perf/Time</item>
+        <item>C</item>
+        <item>P.C</item>
+    </string-array>
+
+    <string-array name="stat_judo_key">
+        <item>Games_played</item>
+        <item>Victories</item>
+        <item>Defeats</item>
+        <item>Draws</item>
+        <item>Ippons</item>
+        <item>Attempts</item>
+        <item>Waza_Ari</item>
+        <item>Ranking</item>
+        <item>PointsRanking</item>
+    </string-array>
+    <string-array name="stat_judo">
+        <item>Parties jouées</item>
+        <item>Victoires</item>
+        <item>Défaite</item>
+        <item>Nuls</item>
+        <item>Ippon</item>
+        <item>Tentatives</item>
+        <item>Waza-Ari</item>
+        <item>Classement</item>
+        <item>Points classement</item>
+    </string-array>
+    <string-array name="stat_judo_s">
+        <item>P.J</item>
+        <item>V</item>
+        <item>D</item>
+        <item>N</item>
+        <item>Ipp</item>
+        <item>T</item>
+        <item>W.A</item>
+        <item>C</item>
+        <item>P.C</item>
+    </string-array>
+
+    <string-array name="stat_korfball_key">
+        <item>Games_played</item>
+        <item>Victories</item>
+        <item>Defeats</item>
+        <item>Draws</item>
+        <item>Points</item>
+        <item>Rebounds</item>
+        <item>Assists</item>
+        <item>Steals</item>
+        <item>Blocks</item>
+    </string-array>
+    <string-array name="stat_korfball">
+        <item>Parties jouées</item>
+        <item>Victoires</item>
+        <item>Défaite</item>
+        <item>Nuls</item>
+        <item>Points</item>
+        <item>Rebonds</item>
+        <item>Passes décisives</item>
+        <item>Interceptions</item>
+        <item>Contres</item>
+    </string-array>
+    <string-array name="stat_korfball_s">
+        <item>P.J</item>
+        <item>V</item>
+        <item>D</item>
+        <item>N</item>
+        <item>Pts</item>
+        <item>Rbd</item>
+        <item>P.D</item>
+        <item>Int</item>
+        <item>Contres</item>
+    </string-array>
+
+    <string-array name="stat_softball_key">
+        <item>Games_played</item>
+        <item>Victories</item>
+        <item>Defeats</item>
+        <item>Draws</item>
+        <item>Home_Run</item>
+        <item>Hits</item>
+        <item>Runs</item>
+        <item>Bases_on_Balls</item>
+        <item>At_Bats</item>
+        <item>Assists</item>
+        <item>Sacrifice_Flies</item>
+        <item>Strikeouts</item>
+        <item>Hit_by_Pitch</item>
+    </string-array>
+    <string-array name="stat_softball">
+        <item>Parties jouées</item>
+        <item>Victoires</item>
+        <item>Défaite</item>
+        <item>Nuls</item>
+        <item>Home Run</item>
+        <item>Hits</item>
+        <item>Runs</item>
+        <item>But sur balles</item>
+        <item>At. Bats</item>
+        <item>Passes décisives</item>
+        <item>Sacrifice Flies</item>
+        <item>Retrait sur prises</item>
+        <item>Frappeur atteint</item>
+    </string-array>
+    <string-array name="stat_softball_s">
+        <item>P.J</item>
+        <item>V</item>
+        <item>D</item>
+        <item>N</item>
+        <item>H.R</item>
+        <item>H</item>
+        <item>R</item>
+        <item>B.B</item>
+        <item>AB</item>
+        <item>P.D</item>
+        <item>S.F</item>
+        <item>R.P</item>
+        <item>F.A</item>
+    </string-array>
+
+    <string-array name="stat_floorball_key">
+        <item>Games_played</item>
+        <item>Victories</item>
+        <item>Defeats</item>
+        <item>Draws</item>
+        <item>Goals</item>
+        <item>Assists</item>
+        <item>Interceptions</item>
+        <item>Successful_stops</item>
+        <item>Penalties</item>
+    </string-array>
+    <string-array name="stat_floorball">
+        <item>Parties jouées</item>
+        <item>Victoires</item>
+        <item>Défaite</item>
+        <item>Nuls</item>
+        <item>Buts</item>
+        <item>Passes décisives</item>
+        <item>Interceptions</item>
+        <item>Arrêts réussis</item>
+        <item>Pénalités</item>
+    </string-array>
+    <string-array name="stat_floorball_s">
+        <item>P.J</item>
+        <item>V</item>
+        <item>D</item>
+        <item>N</item>
+        <item>B</item>
+        <item>P.D</item>
+        <item>Int</item>
+        <item>A.R</item>
+        <item>P</item>
+    </string-array>
+
+    <string-array name="stat_sepak_takraw_key">
+        <item>Games_played</item>
+        <item>Victories</item>
+        <item>Defeats</item>
+        <item>Draws</item>
+        <item>Points</item>
+        <item>Assists</item>
+        <item>Successful_services</item>
+        <item>Successful_Receptions</item>
+        <item>Successful_passes</item>
+        <item>Bloc</item>
+    </string-array>
+    <string-array name="stat_sepak_takraw">
+        <item>Parties jouées</item>
+        <item>Victoires</item>
+        <item>Défaite</item>
+        <item>Nuls</item>
+        <item>Points</item>
+        <item>Passes décisives</item>
+        <item>Services réussis</item>
+        <item>Réceptions réussies</item>
+        <item>Passes réussies</item>
+        <item>Contres</item>
+    </string-array>
+    <string-array name="stat_sepak_takraw_s">
+        <item>P.J</item>
+        <item>V</item>
+        <item>D</item>
+        <item>N</item>
+        <item>Pts</item>
+        <item>P.D</item>
+        <item>S.R</item>
+        <item>R.R</item>
+        <item>P.R</item>
+        <item>Ct</item>
+    </string-array>
+
+    <string-array name="stat_water_polo_key">
+        <item>Games_played</item>
+        <item>Victories</item>
+        <item>Defeats</item>
+        <item>Draws</item>
+        <item>Goals</item>
+        <item>Assists</item>
+        <item>Interceptions</item>
+        <item>Successful_stops</item>
+        <item>Penalties</item>
+    </string-array>
+    <string-array name="stat_water_polo">
+        <item>Parties jouées</item>
+        <item>Victoires</item>
+        <item>Défaite</item>
+        <item>Nuls</item>
+        <item>Buts</item>
+        <item>Passes décisives</item>
+        <item>Interceptions</item>
+        <item>Arrêts réussis</item>
+        <item>Pénalités</item>
+    </string-array>
+    <string-array name="stat_water_polo_s">
+        <item>P.J</item>
+        <item>V</item>
+        <item>D</item>
+        <item>N</item>
+        <item>B</item>
+        <item>P.D</item>
+        <item>Int</item>
+        <item>A.R</item>
+        <item>P</item>
+    </string-array>
+
+    <string-array name="stat_coach_key">
+        <item>Games_played</item>
+        <item>Victories</item>
+        <item>Defeats</item>
+        <item>Draws</item>
+        <item>Ranking</item>
+        <item>Points_Ranking</item>
+    </string-array>
+    <string-array name="stat_coach">
+        <item>Parties jouées</item>
+        <item>Victoires</item>
+        <item>Défaite</item>
+        <item>Nuls</item>
+        <item>Classement</item>
+        <item>Points classement</item>
+    </string-array>
+    <string-array name="stat_coach_s">
+        <item>P.J</item>
+        <item>V</item>
+        <item>D</item>
+        <item>N</item>
+        <item>C</item>
+        <item>P.C</item>
+    </string-array>
+</resources>

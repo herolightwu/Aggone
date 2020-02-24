@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Activity.Story.PublishStoryActivity"
+    android:background="@android:color/black">
+
+    <ImageView
+        android:id="@+id/img_story"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="60dp"/>
+
+    <RelativeLayout
+        android:id="@+id/layout_top"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:background="#80161B1C">
+        <LinearLayout
+            android:id="@+id/btn_back"
+            android:layout_width="wrap_content"
+            android:layout_marginLeft="16dp"
+            android:layout_marginRight="16dp"
+            android:layout_height="match_parent"
+            android:gravity="center">
+
+            <de.hdodenhof.circleimageview.CircleImageView
+                android:id="@+id/img_photo"
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:src="@mipmap/profile2"/>
+        </LinearLayout>
+        <TextView
+            android:id="@+id/txt_name"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="72dp"
+            android:textSize="14sp"
+            android:textColor="#FFFFFF"
+            android:gravity="center_vertical"
+            android:fontFamily="@font/montserrat_regular"
+            android:text="Kharbouchi Abodeliah"/>
+
+        <ImageView
+            android:id="@+id/btn_tag"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:layout_marginLeft="24dp"
+            android:layout_marginRight="24dp"
+            android:layout_centerVertical="true"
+            android:layout_alignParentRight="true"
+            android:src="@mipmap/ic_video_group"/>
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/btn_publish"
+        android:layout_width="wrap_content"
+        android:layout_height="32dp"
+        android:layout_marginBottom="90dp"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginRight="24dp"
+        android:background="@drawable/rounded_fill_primary_dark">
+        <ImageView
+            android:id="@+id/img_play"
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            android:layout_marginLeft="4dp"
+            android:layout_marginRight="4dp"
+            android:src="@mipmap/ic_play"
+            android:layout_centerVertical="true"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_toRightOf="@+id/img_play"
+            android:layout_marginRight="8dp"
+            android:layout_centerVertical="true"
+            android:fontFamily="@font/montserrat_regular"
+            android:textSize="16sp"
+            android:textColor="@android:color/white"
+            android:text="Publish"/>
+    </RelativeLayout>
+
+<!--    <ImageView-->
+<!--        android:id="@+id/btn_publish"-->
+<!--        android:layout_width="148dp"-->
+<!--        android:layout_height="48dp"-->
+<!--        android:layout_marginBottom="90dp"-->
+<!--        android:layout_alignParentRight="true"-->
+<!--        android:layout_alignParentBottom="true"-->
+<!--        android:src="@mipmap/ic_video_publish"/>-->
+
+    <RelativeLayout
+        android:id="@+id/input_panel"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:visibility="gone">
+        <RelativeLayout
+            android:id="@+id/input_layout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="100dp"
+            android:layout_alignParentBottom="true"
+            android:background="@drawable/half_rounded_gray">
+            <LinearLayout
+                android:id="@+id/tag_layout"
+                android:layout_width="match_parent"
+                android:layout_height="420dp"
+                android:orientation="vertical">
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="30dp"
+                    android:gravity="center_vertical"
+                    android:layout_marginHorizontal="24dp"
+                    android:layout_marginVertical="24dp"
+                    android:background="@mipmap/search_background">
+                    <EditText
+                        android:id="@+id/edit_search"
+                        android:layout_width="0dp"
+                        android:layout_weight="1"
+                        android:layout_height="match_parent"
+                        android:paddingHorizontal="10dp"
+                        android:hint="@string/search"
+                        android:textSize="12sp"
+                        android:textColor="#000000"
+                        android:background="@android:color/transparent"/>
+                    <ImageView
+                        android:id="@+id/btn_search_clear"
+                        android:layout_width="10dp"
+                        android:layout_height="10dp"
+                        android:layout_marginRight="10dp"
+                        android:visibility="gone"
+                        android:src="@mipmap/search_clear"/>
+                </LinearLayout>
+
+                <android.support.v7.widget.RecyclerView
+                    android:id="@+id/recycler_view"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_marginHorizontal="24dp"
+                    android:layout_marginBottom="8dp"/>
+            </LinearLayout>
+
+        </RelativeLayout>
+    </RelativeLayout>
+</RelativeLayout>

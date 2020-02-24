@@ -1,0 +1,2001 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Aggone</string>
+    <string name="splash_name">AGGONE</string>
+    <string name="splash_desc">Reveal your potential Revolutionize your sport</string>
+    <string name="email">Eメール</string>
+    <string name="american_football">アメリカンフットボール</string>
+    <string name="modify_profile">プロファイルを変更</string>
+    <string name="change_password">パスワードを変更する</string>
+    <string name="my_subscription">私のサブスクリプション</string>
+    <string name="my_subscribers">私の購読者</string>
+    <string name="recorded">記録</string>
+    <string name="blocked_user">ユーザをブロックする</string>
+    <string name="terms_conditions">使用条件</string>
+    <string name="contact_us">お問い合わせ</string>
+    <string name="sign_out">サインアウト</string>
+    <string name="block">ブロック</string>
+    <string name="report">報告する</string>
+    <string name="cskill4">資質</string>
+    <string name="cskill3">経営スキル</string>
+    <string name="cskill2">テクニカル</string>
+    <string name="cskill1">知識</string>
+    <string name="skill4">戦術</string>
+    <string name="skill3">心理的</string>
+    <string name="skill2">テクニカル</string>
+    <string name="skill1">物理的</string>
+    <string name="notification_chat">この人はあなたにメッセージを送った</string>
+    <string name="notification_like">この人はあなたのビデオを気に入った</string>
+    <string name="notification_follow">この人はあなたをフォローしました</string>
+    <string name="basketball">バスケットボール</string>
+    <string name="football">フットボール</string>
+    <string name="cricket">クリケット</string>
+    <string name="tennis">テニス</string>
+    <string name="rugby">ラグビー</string>
+    <string name="golf">ゴルフ</string>
+    <string name="baseball">野球</string>
+    <string name="ice_hockey">アイスホッケー</string>
+    <string name="field_hockey">フィールドホッケー</string>
+    <string name="volleyball">バレーボール</string>
+    <string name="handball">ハンドボール</string>
+    <string name="badminton">バドミントン</string>
+    <string name="squash">押しつぶす</string>
+    <string name="table_tennis">卓球</string>
+    <string name="boxing">ボクシング</string>
+    <string name="martial_art">武道</string>
+    <string name="mma">総合格闘技</string>
+    <string name="kick_boxing">キックボクシング</string>
+    <string name="wrestling">レスリング</string>
+    <string name="gymnastic">体操</string>
+    <string name="athletics">陸上競技</string>
+    <string name="fencing">フェンシング</string>
+    <string name="judo">柔道</string>
+    <string name="swimming">水泳</string>
+    <string name="water_sports">ウォータースポーツ</string>
+    <string name="water_polo">水球</string>
+    <string name="auto_racing">自動車レース</string>
+    <string name="moto_racing">モトレーシング</string>
+    <string name="cycling">サイクリング</string>
+    <string name="equestrianism">馬術</string>
+    <string name="polo_sport">ポロ</string>
+    <string name="dance">ダンス</string>
+    <string name="softball">ソフトボール</string>
+    <string name="sepak_takraw">セパタクロー</string>
+    <string name="korfball">コーフボール</string>
+    <string name="floorball">フロアボール</string>
+    <string name="climbing">クライミング</string>
+    <string name="mountaineering">登山</string>
+    <string name="canyoning">キャニオニング</string>
+    <string name="trail">トレイルランニング</string>
+    <string name="triathlon">トライアスロン</string>
+    <string name="snowboarding">スノーボード</string>
+    <string name="skiing">スキー</string>
+    <string name="ice_skating">アイススケート</string>
+    <string name="petanque">ペタンク</string>
+    <string name="skate_board">スケートボード</string>
+    <string name="weightlifting">重量挙げ</string>
+    <string name="crossfit_fitness">フィットネス</string>
+    <string name="surf">サーフ</string>
+    <string name="sailing">セーリング</string>
+    <string name="canoeing">カヌー</string>
+    <string name="rowing">ローイング</string>
+    <string name="air_sports">エアスポーツ</string>
+    <string name="winter_sports">冬のスポーツ</string>
+    <string name="bowling">ボウリング</string>
+    <string name="password">パスワード</string>
+    <string name="name">名前</string>
+    <string name="full_name">フルネーム</string>
+    <string name="day">日</string>
+    <string name="month">月</string>
+    <string name="year">年</string>
+    <string name="nationality">国籍</string>
+    <string name="gender">性別</string>
+    <string name="you_are_here">探している</string>
+    <string name="as_player">プレイヤーとして</string>
+    <string name="as_coach">コーチとして</string>
+    <string name="confirm_password">パスワードを確認してください</string>
+    <string name="forgot_password">パスワードをお忘れですか</string>
+    <string name="forgot_password_title">パスワードをお忘れですか</string>
+    <string name="terms_text">利用規約に同意する</string>
+    <string name="home">ホーム</string>
+    <string name="lookup">調べる</string>
+    <string name="stats">統計</string>
+    <string name="chats">チャット</string>
+    <string name="search_hint">を検索します。</string>
+    <string name="select_sport">スポーツを選択</string>
+    <string name="world">世界</string>
+    <string name="my">私の</string>
+    <string name="views">ビュー</string>
+    <string name="stars">出演者</string>
+    <string name="bookmark">ブックマークする</string>
+    <string name="world_news">世界のニュースフィード</string>
+    <string name="my_news">私のニュースフィード</string>
+    <string name="news">ニュース</string>
+    <string name="the_filter">フィルター</string>
+    <string name="the_filter_description">高度な検索</string>
+    <string name="create_ad">広告を作成する</string>
+    <string name="create_ad_description">要件について世界に知らせる</string>
+    <string name="looking_club">クラブを探しています</string>
+    <string name="looking_club_description">クラブを探しています</string>
+    <string name="looking_player">プレーヤーを探しています</string>
+    <string name="looking_player_description">プレーヤーを探しています</string>
+    <string name="sport">スポーツ</string>
+    <string name="city">市</string>
+    <string name="age">年齢</string>
+    <string name="weight">重量</string>
+    <string name="height">高さ</string>
+    <string name="search">探す</string>
+    <string name="reset">リセット</string>
+    <string name="send">送る</string>
+    <string name="position">ポジション</string>
+    <string name="description">説明</string>
+    <string name="follow">購読</string>
+    <string name="unfollow">Unfollow</string>
+    <string name="following">解除</string>
+    <string name="profile">プロフィール</string>
+    <string name="access">評価</string>
+    <string name="player">プレーヤー</string>
+    <string name="coach">コーチ</string>
+    <string name="team_club">チーム/クラブ</string>
+    <string name="agent">エージェント</string>
+    <string name="staff">スタッフ</string>
+    <string name="company">会社</string>
+    <string name="company_desc">ブランド/スポンサー/メディア…</string>
+    <string name="club">クラブ</string>
+    <string name="category">カテゴリー</string>
+    <string name="videos">ビデオス</string>
+    <string name="prizes">賞品</string>
+    <string name="career">キャリア</string>
+    <string name="edit_profile">プロファイル編集</string>
+    <string name="edit_description">説明の編集</string>
+    <string name="change_photo">写真を変更する</string>
+    <string name="activity">アクティビティ</string>
+    <string name="contract">契約</string>
+    <string name="apply">申し込む</string>
+    <string name="discard">捨てる</string>
+    <string name="subscribed">購読</string>
+    <string name="subscribe_back">購読バック</string>
+    <string name="blocked">ブロック</string>
+    <string name="unblock">解除</string>
+    <string name="pref_indicator">パフォーマンス指標</string>
+    <string name="edit_stats">統計を編集</string>
+    <string name="advanced_stats">高度な統計</string>
+    <string name="add_stats">統計の追加</string>
+    <string name="statistics">統計</string>
+    <string name="graphs">グラフ</string>
+    <string name="match">一致</string>
+    <string name="match_win_percent">マッチ勝利率</string>
+    <string name="game_played">ゲームプレイ</string>
+    <string name="ratio">比</string>
+    <string name="club_name">クラブ名</string>
+    <string name="total">合計</string>
+    <string name="message">メッセージ</string>
+    <string name="notification">通知</string>
+    <string name="chat_hint">ここにメッセージを入力します.</string>
+    <string name="add">追加</string>
+    <string name="upload_video">ビデオをアップロードする</string>
+    <string name="upload_video_description">ビデオを直接またはYouTube経由でアップロードできます</string>
+    <string name="add_more_prize">さらに賞品を追加</string>
+    <string name="add_more_prize_description">キャリアを通じて受け取った正当な賞品を追加できます</string>
+    <string name="career_roadmap">キャリアロードマップ</string>
+    <string name="career_roadmap_description">世界に見せたいクラブや特別なイベントをすべて追加できます</string>
+    <string name="add_description">説明を追加</string>
+    <string name="add_description_description">これは、プレーヤーとして自分自身のケースを示すのに最適な方法です</string>
+    <string name="delete_message">これを削除してもよろしいですか？</string>
+    <string name="add_more_news">さらにNewzを追加</string>
+    <string name="add_more_news_description">クラブに関する新しいトレンドニュースをすべて追加できます</string>
+    <string name="add_history">履歴の追加/編集</string>
+    <string name="add_history_description">ここでクラブ/キャリアの履歴を追加または編集できます</string>
+    <string name="cancel">キャンセル</string>
+    <string name="delete">削除する</string>
+    <string name="remove">削除</string>
+    <string name="upload">アップロードする</string>
+    <string name="url">YouTubeリンク</string>
+    <string name="title">題名</string>
+    <string name="source">ソース</string>
+    <string name="select_icon">アイコンの選択</string>
+    <string name="location">ロケーション</string>
+    <string name="from">から</string>
+    <string name="to">に</string>
+    <string name="to_description">(あなたが現在このクラブにいるなら、これを残してください)</string>
+    <string name="logo_description">ここに関連画像を追加します</string>
+    <string name="submit">参加する</string>
+    <string name="performance">性能</string>
+    <string name="description_1">速度</string>
+    <string name="description_2">力</string>
+    <string name="description_3">爆発性</string>
+    <string name="description_4">加速度</string>
+    <string name="description_5">元気</string>
+    <string name="description_6">コーディネーション</string>
+    <string name="description_7">打撃力</string>
+    <string name="description_8">コントロール</string>
+    <string name="description_9">守備的</string>
+    <string name="description_10">攻撃</string>
+    <string name="description_11">精度</string>
+    <string name="description_12">仕上げ</string>
+    <string name="description_13">動機</string>
+    <string name="description_14">濃度</string>
+    <string name="description_15">反射</string>
+    <string name="description_16">適応</string>
+    <string name="description_17">メンタル</string>
+    <string name="description_18">コミュニケーション</string>
+    <string name="description_19">ゲームインテリジェンス</string>
+    <string name="description_20">チームスピリット</string>
+    <string name="description_21">創造性</string>
+    <string name="description_22">ゲーム構築</string>
+    <string name="description_23">意思決定</string>
+    <string name="description_24">実行</string>
+    <string name="cdescription_1">テクニカル</string>
+    <string name="cdescription_2">戦術</string>
+    <string name="cdescription_3">生理</string>
+    <string name="cdescription_4">心理学</string>
+    <string name="cdescription_5">/ gameを整理する</string>
+    <string name="cdescription_6">ゲーム構築</string>
+    <string name="cdescription_7">アスリートのトレーニング</string>
+    <string name="cdescription_8">コーチ選手</string>
+    <string name="cdescription_9">アスリートを評価する</string>
+    <string name="cdescription_10">進行状況を確認する</string>
+    <string name="cdescription_11">教育学</string>
+    <string name="cdescription_12">説明する</string>
+    <string name="cdescription_13">強みを管理する</string>
+    <string name="cdescription_14">弱点を管理する</string>
+    <string name="cdescription_15">ゲームを分析する</string>
+    <string name="cdescription_16">コミュニケーション</string>
+    <string name="cdescription_17">セキュリティルール</string>
+    <string name="cdescription_18">行政運営</string>
+    <string name="cdescription_19">リーダー男性</string>
+    <string name="cdescription_20">強さ/キャラクター</string>
+    <string name="cdescription_21">チームスピリット</string>
+    <string name="cdescription_22">説得力のある</string>
+    <string name="cdescription_23">動的</string>
+    <string name="cdescription_24">観察者</string>
+    <string name="skills">スキル</string>
+    <string name="people">人</string>
+    <string name="country">国</string>
+    <string name="gender_man">おとこ</string>
+    <string name="gender_woman">女性</string>
+    <string name="gender_other">その他の</string>
+    <string name="advertisment">広告</string>
+    <string name="stats_disable_noti">このページにアクセスできません</string>
+    <string name="stats_disable_desc">このページには、アカウントの種類にアクセスできません。設定からアカウントの種類を変更できます。</string>
+    <string name="current_password">現在のパスワード</string>
+    <string name="new_password">新しいパスワード</string>
+    <string name="retype_password">パスワードを再入力してください</string>
+    <string name="btn_confirm">確認</string>
+    <string name="add_resume">履歴書を追加</string>
+    <string name="download">ダウンロード</string>
+    <string name="summary">概要</string>
+    <string name="profile_news">ニュース</string>
+    <string name="profile_trophies">トロフィー</string>
+    <string name="prifile_history">歴史</string>
+    <string name="profile_team">チーム</string>
+    <string name="history_desc">バイオを書く</string>
+    <string name="details">詳細</string>
+    <string name="phone">電話</string>
+    <string name="website">ウェブサイト</string>
+    <string name="specialty">専門</string>
+    <string name="strengths">強み</string>
+    <string name="make_private">プライベートにする</string>
+    <string name="make_public">公開する</string>
+    <string name="attachable_description">0/3 添付ファイルが利用可能</string>
+    <string name="stories">物語</string>
+    <string name="recommendations">勧告</string>
+    <string name="forward">転送</string>
+    <string name="private_account">プライベートアカウント</string>
+    <string name="available_clubs">クラブで利用可能</string>
+    <string name="profile_audience">観客</string>
+    <string name="audience_story_views">ストーリービュー</string>
+    <string name="audience_today">今日</string>
+    <string name="audience_week">週間</string>
+    <string name="audience_month">月</string>
+    <string name="audience_visitors">訪問者</string>
+    <string name="audience_total_profile">合計プロファイル</string>
+    <string name="audience_visits">訪問</string>
+    <string name="audience_total_views">合計視聴回数</string>
+    <string name="audience_view_video">ビデオで見る</string>
+    <string name="audience_star_video">ビデオ上のスター</string>
+    <string name="audience_views_suffix">表示モード</string>
+    <string name="team_category">チームのカテゴリー</string>
+    <string name="txt_victory">勝利</string>
+    <string name="txt_defeat">敗北</string>
+    <string name="txt_draw">引き分け</string>
+
+    <!-- Month name-->
+    <string name="txt_jan">1月</string>
+    <string name="txt_feb">2月</string>
+    <string name="txt_mar">3月</string>
+    <string name="txt_apr">4月</string>
+    <string name="txt_may">五月</string>
+    <string name="txt_jun">六月</string>
+    <string name="txt_jul">七月</string>
+    <string name="txt_aug">八月</string>
+    <string name="txt_sep">九月</string>
+    <string name="txt_oct">10月</string>
+    <string name="txt_nov">11月</string>
+    <string name="txt_dec">12月</string>
+
+    <string-array name="months_array">
+        <item>1月</item>
+        <item>2月</item>
+        <item>3月</item>
+        <item>4月</item>
+        <item>五月</item>
+        <item>六月</item>
+        <item>七月</item>
+        <item>八月</item>
+        <item>九月</item>
+        <item>10月</item>
+        <item>11月</item>
+        <item>12月</item>
+    </string-array>
+
+    <string-array name="month_name_array">
+        <item> </item>
+        <item>1月</item>
+        <item>2月</item>
+        <item>3月</item>
+        <item>4月</item>
+        <item>五月</item>
+        <item>六月</item>
+        <item>七月</item>
+        <item>八月</item>
+        <item>九月</item>
+        <item>10月</item>
+        <item>11月</item>
+        <item>12月</item>
+    </string-array>
+
+    <string-array name="week_day_array">
+        <item>日曜日</item>
+        <item>月曜日</item>
+        <item>火曜日</item>
+        <item>水曜日</item>
+        <item>木曜日</item>
+        <item>金曜日</item>
+        <item>土曜日</item>
+    </string-array>
+
+    <string-array name="weeks_array">
+        <item>第1週目</item>
+        <item>第2週目</item>
+        <item>第3週目</item>
+        <item>第4週目</item>
+    </string-array>
+
+    <!-- String Array-->
+    <string-array name="strength_football">
+        <item>ドリブル</item>
+        <item>弾丸の保護</item>
+        <item>速度</item>
+        <item>エアデュエル</item>
+        <item>耐久</item>
+        <item>機会の創出</item>
+        <item>建設ゲーム</item>
+        <item>ペネトレーション</item>
+        <item>回復</item>
+        <item>ボールの保全</item>
+        <item>プレイ間隔</item>
+        <item>マーキング</item>
+        <item>遮断</item>
+        <item>タックル</item>
+        <item>頭のゲーム</item>
+        <item>シュート</item>
+        <item>コントロール</item>
+        <item>センター</item>
+        <item>フィニション</item>
+        <item>深いパス</item>
+        <item>ショートパス</item>
+        <item>ロングパス</item>
+        <item>ロングゲーム</item>
+        <item>ショートゲーム</item>
+        <item>戦闘力</item>
+        <item>濃度</item>
+        <item>1対1</item>
+        <item>パスゲーム</item>
+        <item>やめる</item>
+        <item>ゴール出口</item>
+        <item>復活</item>
+        <item>フリーキック</item>
+        <item>センター</item>
+        <item>マーキング</item>
+        <item>攻撃性</item>
+        <item>期待</item>
+        <item>機敏</item>
+    </string-array>
+    <string-array name="strength_basketball">
+        <item>ランニング</item>
+        <item>通過</item>
+        <item>撮影</item>
+        <item>ブロック</item>
+        <item>リバウンド</item>
+        <item>オフェンス</item>
+        <item>防衛</item>
+        <item>動く</item>
+        <item>違反</item>
+        <item>支援する</item>
+        <item>ファウル</item>
+    </string-array>
+    <string-array name="strength_american_football">
+        <item>ランニング</item>
+        <item>通過</item>
+        <item>ブロッキング</item>
+        <item>つかまえる</item>
+        <item>ラッシュ</item>
+        <item>ガード</item>
+        <item>三拍子</item>
+        <item>フルバック</item>
+        <item>Hバック</item>
+        <item>スロットバック</item>
+        <item>エンドコーナーバック</item>
+        <item>安全性</item>
+        <item>ハーフバック</item>
+        <item>ニッケルバック</item>
+        <item>ダイムバック</item>
+        <item>フィールドゴール</item>
+        <item>パントとキック</item>
+        <item>鯛</item>
+        <item>パントリターン</item>
+        <item>キックリターナー</item>
+        <item>ジャマー</item>
+        <item>アップマンガンナー</item>
+        <item>アップバック</item>
+        <item>ユーティリティ</item>
+    </string-array>
+    <string-array name="strength_cricket">
+        <item>フィールディング</item>
+        <item>ランニング</item>
+        <item>スタンス</item>
+        <item>バッティング</item>
+        <item>バックリフト</item>
+        <item>前後に</item>
+        <item>去る</item>
+        <item>ディフェンスショット</item>
+        <item>ドライブ</item>
+        <item>フリック</item>
+        <item>切る</item>
+        <item>スクエアドライブ</item>
+        <item>引っ張ってフック</item>
+        <item>スローグ</item>
+        <item>スローグスイープ</item>
+        <item>アッパーカット</item>
+        <item>スイッチヒット</item>
+        <item>スクープ/ランプ</item>
+        <item>ヘリコプターショット</item>
+        <item>高速ボウリング</item>
+        <item>スピンボウリング</item>
+        <item>ボウラーの迅速な配達</item>
+        <item>スピンボウラー配達</item>
+    </string-array>
+    <string-array name="strength_tennis">
+        <item>爆発性</item>
+        <item>バランスのとれた</item>
+        <item>手と目の調整</item>
+        <item>ボール判定</item>
+        <item>動機</item>
+        <item>濃度</item>
+        <item>右打</item>
+        <item>セットバック</item>
+        <item>サービス</item>
+        <item>足遊び</item>
+        <item>期待</item>
+        <item>ボレー</item>
+    </string-array>
+    <string-array name="strength_rugby">
+        <item>ランニング</item>
+        <item>通過</item>
+        <item>キャッチ</item>
+        <item>タックル</item>
+        <item>キック</item>
+        <item>ポジショナルスキル</item>
+        <item>ルール</item>
+        <item>チームワーク</item>
+        <item>ラック/モール</item>
+        <item>楽しみ</item>
+        <item>ボールを拾う</item>
+        <item>ハンドルボール</item>
+        <item>パスを受け取る</item>
+        <item>ボールを持って移動</item>
+        <item>ボールなしで動く</item>
+        <item>タックル</item>
+        <item>キックボール</item>
+        <item>回避タックル</item>
+        <item>忍耐</item>
+        <item>チームで働く</item>
+        <item>勇気</item>
+        <item>静けさ</item>
+        <item>ビジョン</item>
+        <item>耐久</item>
+    </string-array>
+    <string-array name="strength_golf">
+        <item>グリップ</item>
+        <item>スタンス</item>
+        <item>スイング</item>
+        <item>戦略</item>
+    </string-array>
+    <string-array name="strength_baseball">
+        <item>ヒッティング</item>
+        <item>飛ぶ</item>
+        <item>マーキング</item>
+        <item>フィールディング</item>
+        <item>投げ</item>
+        <item>キャッチ</item>
+        <item>手と目の調整</item>
+        <item>実行中の拠点</item>
+        <item> まずは投手がカバー</item>
+        <item> 虫歯を犠牲にする</item>
+        <item> バントを絞る</item>
+        <item>全拠点の荒廃</item>
+        <item>ヒットアンドラン</item>
+        <item>バントアンドラン</item>
+        <item>ダブルフライ</item>
+        <item>リレー</item>
+        <item>基本的なランナーを維持</item>
+        <item>ピックオフ</item>
+    </string-array>
+    <string-array name="strength_ice_hockey">
+        <item>パックの取り扱い</item>
+        <item>通過</item>
+        <item>撮影</item>
+        <item>ドリブル</item>
+        <item>パックコントロール</item>
+        <item>スティックの取り扱い</item>
+        <item>機敏</item>
+        <item>残高</item>
+        <item>エッジコントロール</item>
+        <item>フォワードスケート</item>
+        <item>後方スケート</item>
+        <item>旋回</item>
+        <item>クロスオーバー</item>
+        <item>遷移</item>
+        <item>クイックフィート</item>
+        <item>ゴールキーピング</item>
+    </string-array>
+    <string-array name="strength_field_hockey">
+        <item>パックの取り扱い</item>
+        <item>通過</item>
+        <item>撮影</item>
+        <item>ドリブル</item>
+        <item>パックコントロール</item>
+        <item>スティックの取り扱い</item>
+        <item>機敏</item>
+        <item>残高</item>
+        <item>エッジコントロール</item>
+        <item>フォワードランニング</item>
+        <item>逆走</item>
+        <item>旋回</item>
+        <item>クロスオーバー</item>
+        <item>遷移</item>
+        <item>クイックフィート</item>
+        <item>ゴールキーピング</item>
+    </string-array>
+    <string-array name="strength_volley">
+        <item>サービング</item>
+        <item>通過</item>
+        <item>設定</item>
+        <item>ヒッティング</item>
+        <item>掘る</item>
+        <item>ブロッキング</item>
+    </string-array>
+    <string-array name="strength_handball">
+        <item>ヒッティング</item>
+        <item>ドリブル</item>
+        <item>弾丸の保護</item>
+        <item>速度</item>
+        <item>エアデュエル</item>
+        <item>耐久</item>
+        <item>機会の創出</item>
+        <item>建設ゲーム</item>
+        <item>ペネトレーション</item>
+        <item>回復</item>
+        <item>ボールの保全</item>
+        <item>インターバルでプレイ</item>
+        <item>ドライクリーニング</item>
+        <item>マーキング</item>
+        <item>遮断</item>
+        <item>シュート</item>
+        <item>コントロール</item>
+        <item>センター</item>
+        <item>仕上げ</item>
+        <item>深いパス</item>
+        <item>ショートパス</item>
+        <item>ロングパス</item>
+        <item>ロングゲーム</item>
+        <item>ショートゲーム</item>
+        <item>キックを止めた</item>
+        <item>リーダーシップ</item>
+        <item>盗作</item>
+        <item>コミュニケーション</item>
+        <item>戦闘力</item>
+        <item>濃度</item>
+        <item>1対1</item>
+        <item>やめる</item>
+        <item>ゴール出口</item>
+        <item>復活</item>
+    </string-array>
+    <string-array name="strength_badminton">
+        <item>グリップ</item>
+        <item>滴</item>
+        <item>ロブ</item>
+        <item>自慢</item>
+        <item>ドライブ</item>
+        <item>スイング力学</item>
+        <item>裁判所の動き</item>
+        <item>コントロール</item>
+        <item>対戦相手を動かす</item>
+        <item>フォアハンド</item>
+        <item>バックハンド</item>
+        <item>オーバーヘッド</item>
+        <item>審判</item>
+        <item>ルールとマーキング</item>
+        <item>提供する</item>
+        <item>ショット</item>
+        <item>スマッシュ</item>
+    </string-array>
+    <string-array name="strength_squash">
+        <item>グリップ</item>
+        <item>滴</item>
+        <item>ロブ</item>
+        <item>自慢</item>
+        <item>ドライブ</item>
+        <item>スイング力学</item>
+        <item>裁判所の動き</item>
+        <item>コントロール</item>
+        <item>対戦相手を動かす</item>
+        <item>フォアハンド</item>
+        <item>バックハンド</item>
+        <item>オーバーヘッド</item>
+        <item>審判</item>
+        <item>ルールとマーキング</item>
+        <item> 提供する</item>
+    </string-array>
+    <string-array name="strength_table_tennis">
+        <item>フォアハンド</item>
+        <item>ファーストサーブ</item>
+        <item>フォアハンドプッシュ</item>
+        <item>バックハンドプッシュ</item>
+        <item>フォアハンドフリック。</item>
+        <item>バックハンドフリック。</item>
+        <item>バックハンドループ</item>
+        <item>フォアハンド攻撃</item>
+        <item>フォアハンドサーブ</item>
+        <item>バックハンドサーブ</item>
+    </string-array>
+    <string-array name="strength_boxing">
+        <item>ジャブ</item>
+        <item>クロス</item>
+        <item>針</item>
+        <item>アッパーカット</item>
+        <item>ボクシングスタンス</item>
+        <item>ボクシングフットワーク</item>
+        <item>パンチ</item>
+        <item>頭の動き</item>
+    </string-array>
+    <string-array name="strength_martial_art">
+        <item>フォーカス</item>
+        <item>規律</item>
+        <item>暗記</item>
+        <item>努力</item>
+        <item>ゴール</item>
+        <item>フットワーク</item>
+        <item>尊敬。</item>
+        <item>信頼</item>
+        <item>イニシアチブ</item>
+        <item>ダッジ</item>
+        <item>攻撃</item>
+        <item>パレード</item>
+        <item>ショット</item>
+        <item>ジェット</item>
+    </string-array>
+    <string-array name="strength_mma">
+        <item>レスリング</item>
+        <item>外道術</item>
+        <item>ムエタイ</item>
+        <item>ジャブ</item>
+        <item>アッパーカット</item>
+        <item>スプロールと乱闘</item>
+        <item>クリンチファイティング</item>
+        <item>グラウンド・アンド・パウンド</item>
+        <item>提出の格闘</item>
+        <item>ノックダウン</item>
+        <item>テイクダウン</item>
+        <item>提出物</item>
+    </string-array>
+    <string-array name="strength_kick_boxing">
+        <item>距離</item>
+        <item>防衛</item>
+        <item>パリー</item>
+        <item>ブロック</item>
+        <item>ダッジ</item>
+        <item>戻る</item>
+        <item>パンチを転がす</item>
+        <item>サイドステップ</item>
+        <item>失神</item>
+        <item>タイミング</item>
+        <item>頭の動き</item>
+        <item>急勾配</item>
+        <item>強力なガード</item>
+        <item>パンチ</item>
+        <item>蹴る</item>
+        <item>膝</item>
+        <item>肘ストライク</item>
+        <item>掃く</item>
+        <item> 株式</item>
+        <item>反撃</item>
+    </string-array>
+    <string-array name="strength_wrestling">
+        <item>攻撃</item>
+        <item>投げる</item>
+        <item>移行の動き</item>
+        <item>スタンス</item>
+        <item> モーション</item>
+        <item>レベル変更</item>
+        <item>ペネトレーション</item>
+        <item>持ち上げる</item>
+        <item>バックステップ</item>
+        <item>バックアーチ</item>
+    </string-array>
+    <string-array name="strength_gymnastic">
+        <item>アクロスキル</item>
+        <item>フォワードロール</item>
+        <item>後方回転</item>
+        <item>ターン</item>
+        <item>ジャンプ</item>
+        <item>飛躍</item>
+        <item>四捨五入</item>
+        <item>バックハンドスプリング</item>
+    </string-array>
+    <string-array name="strength_athletics">
+        <item>反応</item>
+        <item>コーディネーション</item>
+        <item>残高</item>
+        <item>しなやかさ</item>
+        <item>元気</item>
+        <item>力</item>
+        <item>力</item>
+        <item>速度</item>
+    </string-array>
+    <string-array name="strength_fencing">
+        <item>複合攻撃</item>
+        <item>ランジ</item>
+        <item>フェイント</item>
+        <item>パリー</item>
+        <item>リポスト</item>
+        <item>反撃</item>
+        <item>フットワーク</item>
+        <item>戦術ホイール</item>
+        <item>右打</item>
+        <item>クリアランス</item>
+        <item>切り刻まれた</item>
+        <item>防御行動</item>
+        <item>退職</item>
+    </string-array>
+    <string-array name="strength_judo">
+        <item>攻撃</item>
+        <item>守る</item>
+        <item>対戦相手をつかむ</item>
+        <item>対戦相手をコントロールする</item>
+        <item>不均衡を使用する</item>
+        <item>落とす</item>
+        <item>地面に持ってくる</item>
+        <item>固定する</item>
+        <item>固定解除</item>
+        <item>フリースタイルキック</item>
+    </string-array>
+    <string-array name="strength_swimming">
+        <item>平泳ぎ</item>
+        <item>蝶</item>
+        <item>クロール</item>
+        <item>バッククロール</item>
+        <item>水の快適さ</item>
+        <item>ブレスコントロール</item>
+        <item>フローティング</item>
+        <item>キック</item>
+        <item>ストローク</item>
+        <item>呼吸法</item>
+        <item>体の回転</item>
+        <item>プルテクニック</item>
+        <item>ストローク率</item>
+        <item>ストローク長</item>
+        <item>フリースタイルキック</item>
+    </string-array>
+    <string-array name="strength_water_sports">
+        <item>呼吸法</item>
+        <item>体の回転</item>
+        <item>強い</item>
+        <item>ストレッチコア</item>
+        <item>手入力</item>
+        <item>キャッチテクニック</item>
+        <item>プルテクニック</item>
+        <item>ストローク率</item>
+        <item>ストローク長</item>
+    </string-array>
+    <string-array name="strength_water_polo">
+        <item>耐久</item>
+        <item>チームワーク</item>
+        <item>投げ</item>
+        <item>キャッチ</item>
+        <item>通過</item>
+        <item>頭のゲーム</item>
+        <item>シュート</item>
+        <item>コントロール</item>
+        <item>センターフィニッシュ</item>
+        <item>深いパス</item>
+        <item>ショートパス</item>
+        <item>ロングパス</item>
+        <item>ロングゲーム</item>
+        <item>ショートゲーム</item>
+    </string-array>
+    <string-array name="strength_autoracing">
+        <item>濃度</item>
+        <item>速度</item>
+        <item>期待</item>
+        <item>穏やかな</item>
+        <item>反射</item>
+        <item>試薬</item>
+        <item>耐性</item>
+        <item>セキュリティルール。</item>
+        <item>チームワーク</item>
+        <item>マスタリーステアリング</item>
+        <item>順番</item>
+        <item>制動</item>
+        <item>見る</item>
+    </string-array>
+    <string-array name="strength_motoracing">
+        <item>濃度</item>
+        <item>速度</item>
+        <item>期待</item>
+        <item>穏やかな</item>
+        <item>反射</item>
+        <item>試薬</item>
+        <item>耐性</item>
+        <item>セキュリティルール。</item>
+        <item>チームワーク</item>
+        <item>マスタリーステアリング</item>
+        <item>順番</item>
+        <item>制動</item>
+        <item>見る</item>
+    </string-array>
+    <string-array name="strength_cycling">
+        <item>濃度</item>
+        <item>速度</item>
+        <item>期待</item>
+        <item>穏やかな</item>
+        <item>反射</item>
+        <item>試薬</item>
+        <item>耐性</item>
+        <item>セキュリティルール。</item>
+        <item>チームワーク</item>
+        <item>マスタリーステアリング</item>
+        <item>順番</item>
+        <item>制動</item>
+        <item>見る</item>
+        <item>残高</item>
+        <item>シフティング</item>
+        <item>ペダリング</item>
+        <item>降順</item>
+    </string-array>
+    <string-array name="strength_equestrian">
+        <item>馬場馬術</item>
+        <item>耐久ライディング</item>
+        <item>イベント</item>
+        <item>手綱</item>
+        <item>ショージャンプ</item>
+        <item>Entペギング</item>
+        <item>ヴォールティング</item>
+        <item>競馬</item>
+        <item>運転</item>
+        <item>ロデオ</item>
+    </string-array>
+    <string-array name="strength_polo">
+        <item> マスタリーボール</item>
+        <item>マスタリーマレット</item>
+        <item>馬場馬術</item>
+        <item>耐久ライディング</item>
+        <item>イベント</item>
+        <item>手綱</item>
+        <item>ショージャンプ</item>
+        <item>Entペギング</item>
+        <item>ヴォールティング</item>
+        <item>競馬</item>
+        <item>運転</item>
+        <item>ロデオ</item>
+        <item>ダブルスティール</item>
+    </string-array>
+    <string-array name="strength_dance">
+        <item>動き</item>
+        <item>ペース</item>
+        <item>ボディスペース</item>
+        <item>時間</item>
+        <item>エネルギー</item>
+        <item>パートナー関係</item>
+        <item>感情的なコミットメント</item>
+    </string-array>
+    <string-array name="strength_softball">
+        <item>ベースランニング</item>
+        <item>ランナーのタグ付け</item>
+        <item>ピッチング</item>
+        <item>投げ</item>
+        <item>ヒッティング</item>
+        <item>スライディング</item>
+        <item>フィールフライボール</item>
+        <item>フィールディングボール</item>
+        <item>ホオジロ</item>
+        <item>ボールをキャッチする</item>
+        <item>フットワーク</item>
+        <item>ベースランニング</item>
+        <item>防御を盗む</item>
+        <item>ホオジロ</item>
+        <item>バントディフェンス</item>
+        <item>ダブルプレイ</item>
+        <item>カット</item>
+    </string-array>
+    <string-array name="strength_sepak_takraw">
+        <item>インナーキック</item>
+        <item>屋外キック</item>
+        <item>膝のストローク</item>
+        <item>ヘッダ</item>
+        <item>サービス</item>
+        <item>サンバックスパイク</item>
+        <item>ローリングポイント</item>
+    </string-array>
+    <string-array name="strength_korfball">
+        <item>残高</item>
+        <item>体の向き</item>
+        <item>タイミングムーブメント</item>
+        <item>移動</item>
+        <item>ボールの取り扱い</item>
+        <item>ギャップボール</item>
+        <item>ボールを投げる</item>
+        <item>撮影</item>
+        <item>引っ越し</item>
+        <item>ランニング</item>
+        <item>モノコーフボール</item>
+    </string-array>
+    <string-array name="strength_floorball">
+        <item>個別テクニック</item>
+        <item> 通過</item>
+        <item>受け取る</item>
+        <item>撮影</item>
+        <item>ドリブル</item>
+        <item>個別の戦術</item>
+        <item> ゲームの役割</item>
+        <item>引っ越し</item>
+    </string-array>
+    <string-array name="strength_climbing">
+        <item>フットワークドリル</item>
+        <item>体位</item>
+        <item>報告</item>
+        <item> 平手打ち</item>
+        <item> ゆるい</item>
+        <item>ボリュームの使用</item>
+        <item>スロッパー</item>
+        <item> シットスタート</item>
+        <item> ルートリーディング</item>
+    </string-array>
+
+    <string-array name="strength_mountaineering">
+        <item>反応</item>
+        <item>コーディネーション</item>
+        <item>残高</item>
+        <item>しなやかさ</item>
+        <item>元気</item>
+        <item>力</item>
+        <item>力</item>
+        <item>速度</item>
+        <item>安全性</item>
+    </string-array>
+    <string-array name="strength_canyoning">
+        <item>強さが必要です。</item>
+        <item>心の強さ</item>
+        <item>フォーカス</item>
+        <item>自己満足を避ける</item>
+        <item>筋力ボディ</item>
+        <item>残高</item>
+        <item>さまざまな形。</item>
+    </string-array>
+    <string-array name="strength_trail">
+        <item>耐久</item>
+        <item>ペーシング</item>
+        <item>疾走</item>
+        <item>回復</item>
+        <item>反応</item>
+        <item>コーディネーション</item>
+        <item>残高</item>
+        <item>しなやかさ</item>
+        <item>元気</item>
+        <item>力</item>
+        <item>力</item>
+        <item>速度</item>
+        <item>リズム</item>
+    </string-array>
+    <string-array name="strength_triathlon">
+        <item>起動</item>
+        <item>止まる</item>
+        <item> コーナリング</item>
+        <item>取り扱い</item>
+        <item>トラフィック</item>
+        <item>シフティング</item>
+        <item>ケイデンス</item>
+        <item>クライミング</item>
+        <item>降順</item>
+        <item>グループ乗馬</item>
+    </string-array>
+    <string-array name="strength_archery">
+        <item>フォーカス</item>
+        <item>濃度</item>
+        <item>忍耐力</item>
+        <item>コーディネーション</item>
+        <item>残高</item>
+        <item>安定。 ...</item>
+        <item>距離能力</item>
+        <item>目的</item>
+        <item>見る</item>
+        <item>射撃サイト</item>
+    </string-array>
+    <string-array name="strength_snowboarding">
+        <item>前後のバランス。 ...</item>
+        <item>身体の自立</item>
+        <item>可動範囲</item>
+        <item>交代</item>
+        <item>安定を保つ</item>
+        <item>あなたの棒を植えること。</item>
+        <item>マスタリーエッジ</item>
+        <item>タックルディープ</item>
+        <item>フレッシュパウダー</item>
+    </string-array>
+    <string-array name="strength_skiing">
+        <item>前後のバランス。 ...</item>
+        <item>身体の自立</item>
+        <item>可動範囲</item>
+        <item>交代</item>
+        <item>安定を保つ</item>
+        <item>あなたの棒を植えること。</item>
+        <item>マスタリーエッジ</item>
+        <item>タックルディープ</item>
+        <item>フレッシュパウダー</item>
+        <item>彫刻</item>
+    </string-array>
+    <string-array name="strength_ice_skating">
+        <item>氷の上に座る</item>
+        <item>立ち上がる氷</item>
+        <item>前進滑走</item>
+        <item>浸漬</item>
+        <item>前方スウィズル</item>
+        <item>後ろに揺れる</item>
+        <item>除雪車</item>
+        <item>進む</item>
+        <item>後退</item>
+        <item>後方ストローク</item>
+        <item>片足スピン</item>
+        <item>Tストップ</item>
+    </string-array>
+    <string-array name="strength_bowls">
+        <item>ポイント</item>
+        <item>シュート</item>
+        <item>発売</item>
+        <item>精度</item>
+        <item>軌道ゲーム</item>
+        <item>立つかしゃがむ</item>
+        <item>スライディング</item>
+        <item>半分のトイレ</item>
+        <item>スコープ</item>
+        <item>シュート</item>
+        <item>いかだ</item>
+        <item>鉄</item>
+    </string-array>
+    <string-array name="strength_skateborard">
+        <item>キックフリップ</item>
+        <item>トリック</item>
+        <item>180°</item>
+        <item>360°</item>
+        <item>スライドグラインド</item>
+        <item>従わない</item>
+        <item>骨なし</item>
+        <item>ビッグスピン</item>
+        <item>ビッグフリップ</item>
+        <item>穴居人P</item>
+        <item>ハンドスタンド</item>
+        <item>Ollie</item>
+        <item>つかむ</item>
+    </string-array>
+    <string-array name="strength_crossfit_fitness">
+        <item>力</item>
+        <item>速度</item>
+        <item>機敏</item>
+        <item>手と足の調整</item>
+        <item>バランスのとれた</item>
+        <item>反応時間</item>
+        <item>心血管フォーム</item>
+        <item>体組成</item>
+        <item>ジャンプ</item>
+        <item>ピボット</item>
+        <item>可動性</item>
+        <item>力</item>
+    </string-array>
+    <string-array name="strength_weightlifting">
+        <item>力</item>
+        <item>速度</item>
+        <item>機敏</item>
+        <item>手と足の調整</item>
+        <item>バランスのとれた</item>
+        <item>反応時間</item>
+        <item>心血管フォーム</item>
+        <item>体組成</item>
+        <item>ジャンプ</item>
+        <item>ピボット</item>
+        <item>可動性</item>
+        <item>力</item>
+    </string-array>
+    <string-array name="strength_surf">
+        <item>彫刻</item>
+        <item>トリミング</item>
+        <item>スラッシュ</item>
+        <item>ラウンドハウスカットバック</item>
+        <item>オフザリップ</item>
+        <item>フォームクライム</item>
+        <item>フローター</item>
+        <item>テールスライド</item>
+        <item>ノセリディング</item>
+        <item>バリエーション</item>
+        <item>スイッチスタンス</item>
+        <item>360</item>
+        <item>キックフリップ</item>
+        <item>ライドチューブ</item>
+        <item>空気/空中</item>
+        <item>路地</item>
+        <item>ロデオフリップ</item>
+        <item>ケルプフリップ</item>
+        <item>フリンストーンフリップ</item>
+        <item>巻き寿司</item>
+    </string-array>
+    <string-array name="strength_sailing">
+        <item>帆を操縦します。</item>
+        <item>（船外）リードに到達</item>
+        <item>重い空気の帆を上げて</item>
+        <item>ひげ棒</item>
+        <item>帆の設定</item>
+        <item>ボートバランス</item>
+        <item>ヒール</item>
+        <item>フォアトリム</item>
+        <item>後部トリム</item>
+        <item>ポジション</item>
+        <item>タッキング</item>
+    </string-array>
+    <string-array name="strength_canoeing">
+        <item>グリップ</item>
+        <item>良い姿勢</item>
+        <item>ブレード制御</item>
+        <item>タイミング</item>
+        <item>残高</item>
+        <item>リズム</item>
+        <item>効率</item>
+        <item> 電源アプリケーション</item>
+        <item>漕ぎ手</item>
+        <item> ローイングスキル。</item>
+        <item>順方向ストローク</item>
+        <item>ストロークを描く</item>
+        <item>クロスドローストローク</item>
+        <item>スターンプライストローク</item>
+        <item>Jストローク</item>
+    </string-array>
+    <string-array name="strength_rowing">
+        <item>グリップ</item>
+        <item>良い姿勢</item>
+        <item>ブレード制御</item>
+        <item>タイミング</item>
+        <item>残高</item>
+        <item>リズム</item>
+        <item>効率</item>
+        <item> 電源アプリケーション</item>
+        <item>漕ぎ手</item>
+        <item> ローイングスキル。</item>
+        <item>オーワードストローク</item>
+        <item>ストロークを描く</item>
+        <item>クロスドローストローク</item>
+        <item>スターンプライストローク</item>
+        <item>Jストローク</item>
+    </string-array>
+    <string-array name="strength_winter_sport">
+        <item>反応</item>
+        <item>コーディネーション</item>
+        <item>残高</item>
+        <item>しなやかさ</item>
+        <item>元気</item>
+        <item>力</item>
+        <item>力</item>
+        <item>速度</item>
+        <item>ジャンプ</item>
+    </string-array>
+    <string-array name="strength_air_sport">
+        <item>反応</item>
+        <item>コーディネーション</item>
+        <item>残高</item>
+        <item>しなやかさ</item>
+        <item>元気</item>
+        <item>力</item>
+        <item>力</item>
+        <item>速度</item>
+        <item>ジャンプ</item>
+    </string-array>
+
+    <!--    stats arrays-->
+    <string-array name="stat_american_football_key">
+        <item>Games_played</item>
+        <item>Victories</item>
+        <item>Defeats</item>
+        <item>Draws</item>
+        <item>Points_scored</item>
+        <item>Touchdowns</item>
+        <item>Attempts</item>
+        <item>Yards</item>
+        <item>Assist</item>
+        <item>successful_races</item>
+        <item>Interceptions</item>
+        <item>Tackle</item>
+        <item>Completions</item>
+        <item>Sack</item>
+        <item>First_Down</item>
+        <item>Fumble</item>
+        <item>Reception</item>
+        <item>Blocked</item>
+    </string-array>
+    <string-array name="stat_american_football">
+        <item>プレイしたゲーム</item>
+        <item>勝利</item>
+        <item>負け</item>
+        <item>引き分け</item>
+        <item>得点</item>
+        <item>タッチダウン</item>
+        <item>試行</item>
+        <item>ヤード</item>
+        <item>アシスト</item>
+        <item>成功したレース</item>
+        <item>インターセプト</item>
+        <item>タックル</item>
+        <item>完了</item>
+        <item>袋</item>
+        <item>最初のダウン</item>
+        <item>ファンブル</item>
+        <item>受信成功</item>
+        <item>ブロッキング</item>
+    </string-array>
+    <string-array name="stat_american_football_s">
+        <item>Game.P</item>
+        <item>V</item>
+        <item>D</item>
+        <item>Drs</item>
+        <item>Pts.S</item>
+        <item>Tds</item>
+        <item>Att</item>
+        <item>Yds</item>
+        <item>Ast</item>
+        <item>S.R</item>
+        <item>Int</item>
+        <item>Tcl</item>
+        <item>Com</item>
+        <item>Sck</item>
+        <item>F.D</item>
+        <item>Fum</item>
+        <item>Rec</item>
+        <item>Blk</item>
+    </string-array>
+
+    <string-array name="stat_basketball_key">
+        <item>Games_played</item>
+        <item>Victories</item>
+        <item>Defeats</item>
+        <item>Draws</item>
+        <item>Points</item>
+        <item>Rebounds</item>
+        <item>Assists</item>
+        <item>Blocks</item>
+        <item>Steals</item>
+    </string-array>
+    <string-array name="stat_basketball">
+        <item>プレイしたゲーム</item>
+        <item>勝利</item>
+        <item>負け</item>
+        <item>引き分け</item>
+        <item>ポイント</item>
+        <item>リバウンド</item>
+        <item>アシスト</item>
+        <item>ブロック</item>
+        <item>インターセプト</item>
+    </string-array>
+    <string-array name="stat_basketball_s">
+        <item>Game.P</item>
+        <item>V</item>
+        <item>D</item>
+        <item>Drs</item>
+        <item>Pts</item>
+        <item>Rbd</item>
+        <item>Ast</item>
+        <item>Blk</item>
+        <item>Stl</item>
+    </string-array>
+
+    <string-array name="stat_football_key">
+        <item>Games_played</item>
+        <item>Victories</item>
+        <item>Defeats</item>
+        <item>Draws</item>
+        <item>Goals</item>
+        <item>Assists</item>
+        <item>Successful_passes</item>
+        <item>Interceptions</item>
+        <item>Clean_sheet</item>
+        <item>Goalkeeper_stop</item>
+        <item>Sanctions</item>
+    </string-array>
+    <string-array name="stat_football">
+        <item>プレイしたゲーム</item>
+        <item>勝利</item>
+        <item>負け</item>
+        <item>引き分け</item>
+        <item>ゴール</item>
+        <item>アシスト</item>
+        <item>成功したパス</item>
+        <item>インターセプト</item>
+        <item>白紙の状態</item>
+        <item>ゴールキーパーが停止</item>
+        <item>制裁措置</item>
+    </string-array>
+    <string-array name="stat_football_s">
+        <item>Game.P</item>
+        <item>V</item>
+        <item>D</item>
+        <item>Drs</item>
+        <item>G</item>
+        <item>Ast</item>
+        <item>S.P</item>
+        <item>Int</item>
+        <item>C.S</item>
+        <item>G.S</item>
+        <item>S</item>
+    </string-array>
+
+    <string-array name="stat_rugby_key">
+        <item>Games_played</item>
+        <item>Victories</item>
+        <item>Defeats</item>
+        <item>Draws</item>
+        <item>Points</item>
+        <item>Tries</item>
+        <item>Conversion</item>
+        <item>Tackle</item>
+        <item>Drops</item>
+        <item>Penalties</item>
+    </string-array>
+    <string-array name="stat_rugby">
+        <item>プレイしたゲーム</item>
+        <item>勝利</item>
+        <item>負け</item>
+        <item>引き分け</item>
+        <item>ポイント（ポイント）</item>
+        <item>試す</item>
+        <item>変換</item>
+        <item>タックル</item>
+        <item>ドロップ</item>
+        <item>ペナルティ</item>
+    </string-array>
+    <string-array name="stat_rugby_s">
+        <item>Game.P</item>
+        <item>V</item>
+        <item>D</item>
+        <item>Drs</item>
+        <item>Pts</item>
+        <item>T</item>
+        <item>Cvn</item>
+        <item>Tcl</item>
+        <item>Drp</item>
+        <item>P</item>
+    </string-array>
+
+    <string-array name="stat_cricket_key">
+        <item>Games_played</item>
+        <item>Victories</item>
+        <item>Defeats</item>
+        <item>Draws</item>
+        <item>Runs_scored</item>
+        <item>Batting_average</item>
+        <item>100s_50s</item>
+        <item>Top_score</item>
+        <item>Balls_bowled</item>
+        <item>Wickets</item>
+        <item>Bowling_average</item>
+        <item>5_wickets_in_innings</item>
+        <item>10_wickets_in_match</item>
+        <item>Best_bowling</item>
+        <item>Catches</item>
+        <item>Stumpings</item>
+    </string-array>
+    <string-array name="stat_cricket">
+        <item>プレイしたゲーム</item>
+        <item>勝利</item>
+        <item>負け</item>
+        <item>引き分け</item>
+        <item>得点ラン</item>
+        <item>打率</item>
+        <item>100/50秒</item>
+        <item>トップスコア </item>
+        <item>ボウリングされたボール </item>
+        <item>ウィケット </item>
+        <item>ボウリング平均 </item>
+        <item>イニングの5改札 </item>
+        <item>マッチで10ウィケット</item>
+        <item>最高のボウリング </item>
+        <item>キャッチ</item>
+        <item>切り株</item>
+    </string-array>
+    <string-array name="stat_cricket_s">
+        <item>Game.P</item>
+        <item>V</item>
+        <item>D</item>
+        <item>Drs</item>
+        <item>R.Sco</item>
+        <item>B.A</item>
+        <item>100s/50s</item>
+        <item>T.S</item>
+        <item>B.B</item>
+        <item>Wkt</item>
+        <item>Bow.A</item>
+        <item>Inns</item>
+        <item>10Wkts.M</item>
+        <item>B.B</item>
+        <item>C</item>
+        <item>S</item>
+    </string-array>
+
+    <string-array name="stat_hockey_key">
+        <item>Games_played</item>
+        <item>Victories</item>
+        <item>Defeats</item>
+        <item>Draws</item>
+        <item>Goals</item>
+        <item>Assists</item>
+        <item>Interceptions</item>
+        <item>Successful_stops</item>
+        <item>Penalties</item>
+    </string-array>
+    <string-array name="stat_hockey">
+        <item>プレイしたゲーム</item>
+        <item>勝利</item>
+        <item>負け</item>
+        <item>引き分け</item>
+        <item>ゴール</item>
+        <item>アシスト</item>
+        <item>インターセプト</item>
+        <item>成功した停止</item>
+        <item>ペナルティ</item>
+    </string-array>
+    <string-array name="stat_hockey_s">
+        <item>Game.P</item>
+        <item>V</item>
+        <item>D</item>
+        <item>Drs</item>
+        <item>G</item>
+        <item>Ast</item>
+        <item>Int</item>
+        <item>S.S</item>
+        <item>P</item>
+    </string-array>
+
+    <string-array name="stat_baseball_key">
+        <item>Games_played</item>
+        <item>Victories</item>
+        <item>Defeats</item>
+        <item>Draws</item>
+        <item>Home_Run</item>
+        <item>Hits</item>
+        <item>Runs</item>
+        <item>Bases_on_Balls</item>
+        <item>At_Bats</item>
+        <item>Assists</item>
+        <item>Sacrifice_Flies</item>
+        <item>Strikeouts</item>
+        <item>Hit_by_Pitch</item>
+    </string-array>
+    <string-array name="stat_baseball">
+        <item>プレイしたゲーム</item>
+        <item>勝利</item>
+        <item>負け</item>
+        <item>引き分け</item>
+        <item>ホームラン</item>
+        <item>ヒット</item>
+        <item>実行</item>
+        <item>ボールベース </item>
+        <item>で。 コウモリ</item>
+        <item>アシスト</item>
+        <item>犠牲ハエ</item>
+        <item>取り消し線</item>
+        <item>ヒットオブピッ</item>
+    </string-array>
+    <string-array name="stat_baseball_s">
+        <item>Game.P</item>
+        <item>V</item>
+        <item>D</item>
+        <item>Drs</item>
+        <item>H.R</item>
+        <item>H</item>
+        <item>R</item>
+        <item>B.B</item>
+        <item>AB</item>
+        <item>Ast</item>
+        <item>S.F</item>
+        <item>SO</item>
+        <item>HBP</item>
+    </string-array>
+
+    <string-array name="stat_handball_key">
+        <item>Games_played</item>
+        <item>Victories</item>
+        <item>Defeats</item>
+        <item>Draws</item>
+        <item>Goals</item>
+        <item>Assists</item>
+        <item>Successful_passes</item>
+        <item>Interceptions</item>
+        <item>Clean_sheet</item>
+        <item>Goalkeeper_stop</item>
+        <item>Penalties</item>
+    </string-array>
+    <string-array name="stat_handball">
+        <item>プレイしたゲーム</item>
+        <item>勝利</item>
+        <item>負け</item>
+        <item>引き分け</item>
+        <item>ゴール</item>
+        <item>アシスト</item>
+        <item>成功したパス</item>
+        <item>インターセプト</item>
+        <item>白紙の状態</item>
+        <item>ゴールキーパーが停止</item>
+        <item>制裁措置</item>
+    </string-array>
+    <string-array name="stat_handball_s">
+        <item>Game.P</item>
+        <item>V</item>
+        <item>D</item>
+        <item>D</item>
+        <item>G</item>
+        <item>Ast</item>
+        <item>S.P</item>
+        <item>Int</item>
+        <item>C.S</item>
+        <item>G.S</item>
+        <item>S</item>
+    </string-array>
+
+    <string-array name="stat_volleyball_key">
+        <item>Games_played</item>
+        <item>Victories</item>
+        <item>Defeats</item>
+        <item>Draws</item>
+        <item>Points</item>
+        <item>Assists</item>
+        <item>Successful_services</item>
+        <item>Successful_Receptions</item>
+        <item>Successful_passes</item>
+        <item>Bloc</item>
+    </string-array>
+    <string-array name="stat_volleyball">
+        <item>プレイしたゲーム</item>
+        <item>勝利</item>
+        <item>負け</item>
+        <item>引き分け</item>
+        <item>ポイント</item>
+        <item>アシスト</item>
+        <item>成功したサービス</item>
+        <item>受信成功</item>
+        <item>成功したパス</item>
+        <item>ブロック</item>
+    </string-array>
+    <string-array name="stat_volleyball_s">
+        <item>Game.P</item>
+        <item>V</item>
+        <item>D</item>
+        <item>Drs</item>
+        <item>Pts</item>
+        <item>Ast</item>
+        <item>S.Se</item>
+        <item>S.Re</item>
+        <item>S.P</item>
+        <item>Blk</item>
+    </string-array>
+
+    <string-array name="stat_tennis_key">
+        <item>Games_played</item>
+        <item>Victories</item>
+        <item>Defeats</item>
+        <item>Draws</item>
+        <item>Points_earned_in_the_service</item>
+        <item>Point_earned_in_Return_of_service</item>
+        <item>Ranking</item>
+        <item>PointsRanking</item>
+    </string-array>
+    <string-array name="stat_tennis">
+        <item>プレイしたゲーム</item>
+        <item>勝利</item>
+        <item>負け</item>
+        <item>引き分け</item>
+        <item>ポイント獲得サービス</item>
+        <item>ポイント獲得還元サービス</item>
+        <item>ランキング</item>
+        <item>ランキングポイント</item>
+    </string-array>
+    <string-array name="stat_tennis_s">
+        <item>Game.P</item>
+        <item>V</item>
+        <item>D</item>
+        <item>Drs</item>
+        <item>P.E.S</item>
+        <item>P.E.R.S</item>
+        <item>R</item>
+        <item>R.P</item>
+    </string-array>
+
+    <string-array name="stat_badminton_key">
+        <item>Games_played</item>
+        <item>Victories</item>
+        <item>Defeats</item>
+        <item>Draws</item>
+        <item>Points_earned_in_the_service</item>
+        <item>Point_earned_in_Return_of_service</item>
+        <item>Ranking</item>
+        <item>pointsRanking</item>
+    </string-array>
+    <string-array name="stat_badminton">
+        <item>プレイしたゲーム</item>
+        <item>勝利</item>
+        <item>負け</item>
+        <item>引き分け</item>
+        <item>ポイント獲得サービス</item>
+        <item>ポイント獲得還元サービス</item>
+        <item>ランキング</item>
+        <item>ランキングポイント</item>
+    </string-array>
+    <string-array name="stat_badminton_s">
+        <item>Game.P</item>
+        <item>V</item>
+        <item>D</item>
+        <item>Drs</item>
+        <item>P.E.S</item>
+        <item>P.E.R.S</item>
+        <item>R</item>
+        <item>R.P</item>
+    </string-array>
+
+    <string-array name="stat_golf_key">
+        <item>Games_played</item>
+        <item>Victories</item>
+        <item>Defeats</item>
+        <item>Draws</item>
+        <item>Fairway_InRegulation</item>
+        <item>Green_InRegulation</item>
+        <item>Number_of_putts</item>
+        <item>Ranking</item>
+        <item>PointsRanking</item>
+    </string-array>
+    <string-array name="stat_golf">
+        <item>プレイしたゲーム</item>
+        <item>勝利</item>
+        <item>負け</item>
+        <item>引き分け</item>
+        <item>フェアウェイインレギュレーション</item>
+        <item>グリーンインレギュレーション</item>
+        <item>パット数（パット）</item>
+        <item>ランキング</item>
+        <item>ランキングポイント</item>
+    </string-array>
+    <string-array name="stat_golf_s">
+        <item>Game.P</item>
+        <item>V</item>
+        <item>D</item>
+        <item>Drs</item>
+        <item>FIR</item>
+        <item>GIR</item>
+        <item>Putts</item>
+        <item>R</item>
+        <item>R.P</item>
+    </string-array>
+
+    <string-array name="stat_athletics_key">
+        <item>Games_played</item>
+        <item>Victories</item>
+        <item>Defeats</item>
+        <item>Draws</item>
+        <item>Performance</item>
+        <item>Ranking</item>
+        <item>Points_Ranking</item>
+    </string-array>
+    <string-array name="stat_athletics">
+        <item>プレイしたゲーム</item>
+        <item>勝利</item>
+        <item>負け</item>
+        <item>引き分け</item>
+        <item>パフォーマンス</item>
+        <item>ランキング</item>
+        <item>ランキングポイント</item>
+    </string-array>
+    <string-array name="stat_athletics_s">
+        <item>Game.P</item>
+        <item>V</item>
+        <item>D</item>
+        <item>Drs</item>
+        <item>Perf/Time</item>
+        <item>R</item>
+        <item>R.P</item>
+    </string-array>
+
+    <string-array name="stat_racing_key">
+        <item>Races</item>
+        <item>Victories</item>
+        <item>Defeats</item>
+        <item>Draws</item>
+        <item>Performance</item>
+        <item>Ranking</item>
+        <item>PointsRanking</item>
+    </string-array>
+    <string-array name="stat_racing">
+        <item>人種</item>
+        <item>勝利</item>
+        <item>負け</item>
+        <item>引き分け</item>
+        <item>パフォーマンス</item>
+        <item>ランキング</item>
+        <item>ランキングポイント</item>
+    </string-array>
+    <string-array name="stat_racing_s">
+        <item>Races</item>
+        <item>V</item>
+        <item>D</item>
+        <item>Drs</item>
+        <item>Perf/Time</item>
+        <item>R</item>
+        <item>R.P</item>
+    </string-array>
+
+    <string-array name="stat_judo_key">
+        <item>Games_played</item>
+        <item>Victories</item>
+        <item>Defeats</item>
+        <item>Draws</item>
+        <item>Ippons</item>
+        <item>Attempts</item>
+        <item>Waza_Ari</item>
+        <item>Ranking</item>
+        <item>PointsRanking</item>
+    </string-array>
+    <string-array name="stat_judo">
+        <item>プレイしたゲーム</item>
+        <item>勝利</item>
+        <item>負け</item>
+        <item>引き分け</item>
+        <item>一本</item>
+        <item>試行</item>
+        <item>技あり</item>
+        <item>ランキング</item>
+        <item>ランキングポイント</item>
+    </string-array>
+    <string-array name="stat_judo_s">
+        <item>Game.P</item>
+        <item>V</item>
+        <item>D</item>
+        <item>Drs</item>
+        <item>Ipp</item>
+        <item>Att</item>
+        <item>W.A</item>
+        <item>R</item>
+        <item>R.P</item>
+    </string-array>
+
+    <string-array name="stat_korfball_key">
+        <item>Games_played</item>
+        <item>Victories</item>
+        <item>Defeats</item>
+        <item>Draws</item>
+        <item>Points</item>
+        <item>Rebounds</item>
+        <item>Assists</item>
+        <item>Steals</item>
+        <item>Blocks</item>
+    </string-array>
+    <string-array name="stat_korfball">
+        <item>プレイしたゲーム</item>
+        <item>勝利</item>
+        <item>負け</item>
+        <item>引き分け</item>
+        <item> ポイント</item>
+        <item>リバウンド</item>
+        <item>アシスト</item>
+        <item>インターセプト</item>
+        <item>ブロック</item>
+    </string-array>
+    <string-array name="stat_korfball_s">
+        <item>Game.P</item>
+        <item>V</item>
+        <item>D</item>
+        <item>Drs</item>
+        <item>Pts</item>
+        <item>Rbd</item>
+        <item>Ast</item>
+        <item>Stl</item>
+        <item>Blk</item>
+    </string-array>
+
+    <string-array name="stat_softball_key">
+        <item>Games_played</item>
+        <item>Victories</item>
+        <item>Defeats</item>
+        <item>Draws</item>
+        <item>Home_Run</item>
+        <item>Hits</item>
+        <item>Runs</item>
+        <item>Bases_on_Balls</item>
+        <item>At_Bats</item>
+        <item>Assists</item>
+        <item>Sacrifice_Flies</item>
+        <item>Strikeouts</item>
+        <item>Hit_by_Pitch</item>
+    </string-array>
+    <string-array name="stat_softball">
+        <item>プレイしたゲーム</item>
+        <item>勝利</item>
+        <item>負け</item>
+        <item>引き分け</item>
+        <item>ホームラン</item>
+        <item>ヒット</item>
+        <item>実行</item>
+        <item>ボールベース </item>
+        <item>で。 コウモリ</item>
+        <item>アシスト</item>
+        <item>犠牲ハエ</item>
+        <item>取り消し線</item>
+        <item>ヒットオブピッ</item>
+    </string-array>
+    <string-array name="stat_softball_s">
+        <item>Game.P</item>
+        <item>V</item>
+        <item>D</item>
+        <item>Drs</item>
+        <item>H.R</item>
+        <item>H</item>
+        <item>R</item>
+        <item>B.B</item>
+        <item>AB</item>
+        <item>Ast</item>
+        <item>S.F</item>
+        <item>SO</item>
+        <item>HBP</item>
+    </string-array>
+
+    <string-array name="stat_floorball_key">
+        <item>Games_played</item>
+        <item>Victories</item>
+        <item>Defeats</item>
+        <item>Draws</item>
+        <item>Goals</item>
+        <item>Assists</item>
+        <item>Interceptions</item>
+        <item>Successful_stops</item>
+        <item>Penalties</item>
+    </string-array>
+    <string-array name="stat_floorball">
+        <item>プレイしたゲーム</item>
+        <item>勝利</item>
+        <item>負け</item>
+        <item>引き分け</item>
+        <item>ゴール</item>
+        <item>アシスト</item>
+        <item>インターセプト</item>
+        <item>成功した停止</item>
+        <item>ペナルティ</item>
+    </string-array>
+    <string-array name="stat_floorball_s">
+        <item>Game.P</item>
+        <item>V</item>
+        <item>D</item>
+        <item>Drs</item>
+        <item>G</item>
+        <item>Ast</item>
+        <item>Int</item>
+        <item>S.S</item>
+        <item>P</item>
+    </string-array>
+
+    <string-array name="stat_sepak_takraw_key">
+        <item>Games_played</item>
+        <item>Victories</item>
+        <item>Defeats</item>
+        <item>Draws</item>
+        <item>Points</item>
+        <item>Assists</item>
+        <item>Successful_services</item>
+        <item>Successful_Receptions</item>
+        <item>Successful_passes</item>
+        <item>Bloc</item>
+    </string-array>
+    <string-array name="stat_sepak_takraw">
+        <item>プレイしたゲーム</item>
+        <item>勝利</item>
+        <item>負け</item>
+        <item>引き分け</item>
+        <item>ポイント（ポイント）</item>
+        <item>アシスト</item>
+        <item>成功したサービス</item>
+        <item>受信成功</item>
+        <item>成功したパス</item>
+        <item>ブロック</item>
+    </string-array>
+    <string-array name="stat_sepak_takraw_s">
+        <item>Game.P</item>
+        <item>V</item>
+        <item>D</item>
+        <item>Drs</item>
+        <item>Pts</item>
+        <item>Ast</item>
+        <item>S.Se</item>
+        <item>S.Re</item>
+        <item>S.P</item>
+        <item>Blk</item>
+    </string-array>
+
+    <string-array name="stat_water_polo_key">
+        <item>Games_played</item>
+        <item>Victories</item>
+        <item>Defeats</item>
+        <item>Draws</item>
+        <item>Goals</item>
+        <item>Assists</item>
+        <item>Interceptions</item>
+        <item>Successful_stops</item>
+        <item>Penalties</item>
+    </string-array>
+    <string-array name="stat_water_polo">
+        <item>プレイしたゲーム</item>
+        <item>勝利</item>
+        <item>負け</item>
+        <item>引き分け</item>
+        <item>ゴール</item>
+        <item>アシスト</item>
+        <item>インターセプト</item>
+        <item>成功した停止</item>
+        <item>ペナルティ</item>
+    </string-array>
+    <string-array name="stat_water_polo_s">
+        <item>Game.P</item>
+        <item>V</item>
+        <item>D</item>
+        <item>Drs</item>
+        <item>G</item>
+        <item>Ast</item>
+        <item>Int</item>
+        <item>S.S</item>
+        <item>P</item>
+    </string-array>
+
+    <string-array name="stat_coach_key">
+        <item>Games_played</item>
+        <item>Victories</item>
+        <item>Defeats</item>
+        <item>Draws</item>
+        <item>Ranking</item>
+        <item>Points_Ranking</item>
+    </string-array>
+    <string-array name="stat_coach">
+        <item>プレイしたゲーム</item>
+        <item>勝利</item>
+        <item>負け</item>
+        <item>引き分け</item>
+        <item>ランキング</item>
+        <item>ランキングポイント</item>
+    </string-array>
+    <string-array name="stat_coach_s">
+        <item>Game.P</item>
+        <item>V</item>
+        <item>D</item>
+        <item>Drs</item>
+        <item>R</item>
+        <item>R.P</item>
+    </string-array>
+</resources>

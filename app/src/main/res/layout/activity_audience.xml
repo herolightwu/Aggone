@@ -1,0 +1,433 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Activity.Profile.AudienceActivity">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dp">
+        <ImageView
+            android:id="@+id/btn_back"
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:layout_marginLeft="15dp"
+            android:layout_marginTop="15dp"
+            android:src="@mipmap/back1"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_centerInParent="true"
+            android:gravity="center"
+            android:textSize="16sp"
+            android:fontFamily="@font/montserrat_bold"
+            android:textColor="#83BE3D"
+            android:text="@string/profile_audience"/>
+
+    </RelativeLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="50dp"
+        android:orientation="vertical">
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="290dp"
+                    android:layout_margin="16dp">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="24dp"
+                        android:layout_marginTop="10dp"
+                        android:fontFamily="@font/montserrat_regular"
+                        android:textSize="10sp"
+                        android:textColor="@color/txt_subject_color"
+                        android:text="@string/audience_story_views"/>
+
+                    <com.github.mikephil.charting.charts.BarChart
+                        android:id="@+id/chart1"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:layout_marginTop="32dp"/>
+
+                    <LinearLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentRight="true"
+                        android:layout_marginRight="10dp"
+                        android:layout_marginTop="40dp"
+                        android:orientation="horizontal">
+                        <ImageView
+                            android:layout_width="8dp"
+                            android:layout_height="8dp"
+                            android:layout_marginLeft="8dp"
+                            android:layout_marginRight="8dp"
+                            android:layout_gravity="center_vertical"
+                            android:src="@mipmap/ic_up_arrow"/>
+                        <TextView
+                            android:id="@+id/txt_storyview_count"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:fontFamily="@font/montserrat_semibold"
+                            android:textSize="16sp"
+                            android:textColor="@android:color/black"
+                            android:text="17,139,971"/>
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_gravity="bottom"
+                            android:fontFamily="@font/montserrat_semibold"
+                            android:textColor="@android:color/black"
+                            android:textSize="8sp"
+                            android:text="@string/views"/>
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_centerInParent="true"
+                        android:orientation="vertical">
+                        <TextView
+                            android:id="@+id/txt_views"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_gravity="center_horizontal"
+                            android:fontFamily="@font/montserrat_regular"
+                            android:textColor="@color/txt_active_color"
+                            android:textSize="8sp"/>
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_gravity="center_horizontal"
+                            android:fontFamily="@font/montserrat_regular"
+                            android:textSize="6sp"
+                            android:textColor="@color/txt_active_color"
+                            android:text="@string/views"/>
+                    </LinearLayout>
+
+                </RelativeLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/layout_period"
+                    android:layout_marginHorizontal="48dp"
+                    android:orientation="horizontal"
+                    android:checkedButton="@+id/rb_man"
+                    android:weightSum="3">
+
+                    <TextView
+                        android:layout_width="0dp"
+                        android:layout_height="36dp"
+                        android:id="@+id/btn_today"
+                        android:layout_weight="1"
+                        android:layout_marginRight="-1dp"
+                        android:fontFamily="@font/montserrat_regular"
+                        android:gravity="center"
+                        android:textSize="10sp"
+                        android:background="@drawable/gender_choose_active_male"
+                        android:textColor="@android:color/white"
+                        android:text="@string/audience_today" />
+
+                    <TextView
+                        android:layout_width="0dp"
+                        android:layout_height="36dp"
+                        android:id="@+id/btn_week"
+                        android:layout_weight="1"
+                        android:layout_marginLeft="-1dp"
+                        android:layout_marginRight="-1dp"
+                        android:fontFamily="@font/montserrat_regular"
+                        android:gravity="center"
+                        android:textSize="10sp"
+                        android:background="@drawable/gender_choose_inactive_female"
+                        android:textColor="@android:color/black"
+                        android:text="@string/audience_week" />
+
+                    <TextView
+                        android:layout_width="0dp"
+                        android:layout_height="36dp"
+                        android:id="@+id/btn_month"
+                        android:layout_weight="1"
+                        android:layout_marginLeft="-1dp"
+                        android:fontFamily="@font/montserrat_regular"
+                        android:gravity="center"
+                        android:textSize="10sp"
+                        android:background="@drawable/gender_choose_inactive_other"
+                        android:textColor="@android:color/black"
+                        android:text="@string/audience_month" />
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginHorizontal="48dp"
+                    android:layout_marginVertical="20dp"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginVertical="10dp"
+                        android:fontFamily="@font/montserrat_regular"
+                        android:textColor="@color/txt_subject_color"
+                        android:textSize="10sp"
+                        android:text="@string/audience_visitors"/>
+
+                    <LinearLayout
+                        android:id="@+id/layout_total"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginVertical="10dp"
+                        android:orientation="horizontal">
+
+                        <TextView
+                            android:layout_width="0dp"
+                            android:layout_weight="1"
+                            android:layout_height="wrap_content"
+                            android:fontFamily="@font/montserrat_semibold"
+                            android:textSize="12sp"
+                            android:textColor="@color/txt_item_color"
+                            android:text="@string/audience_total_profile"/>
+                        <TextView
+                            android:id="@+id/txt_total_profile"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_gravity="right"
+                            android:fontFamily="@font/montserrat_semibold"
+                            android:textSize="12sp"
+                            android:textColor="@color/txt_item_color"
+                            android:text="40 k"/>
+                    </LinearLayout>
+                    <LinearLayout
+                        android:id="@+id/layout_club"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginVertical="10dp"
+                        android:orientation="horizontal">
+
+                        <TextView
+                            android:layout_width="0dp"
+                            android:layout_weight="1"
+                            android:layout_height="wrap_content"
+                            android:fontFamily="@font/montserrat_semibold"
+                            android:textSize="12sp"
+                            android:textColor="@color/txt_item_color"
+                            android:text="@string/club"/>
+                        <TextView
+                            android:id="@+id/txt_club"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_gravity="right"
+                            android:fontFamily="@font/montserrat_semibold"
+                            android:textSize="12sp"
+                            android:textColor="@color/txt_item_color"
+                            android:text="20 k"/>
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:id="@+id/layout_agent"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginVertical="10dp"
+                        android:orientation="horizontal">
+
+                        <TextView
+                            android:layout_width="0dp"
+                            android:layout_weight="1"
+                            android:layout_height="wrap_content"
+                            android:fontFamily="@font/montserrat_semibold"
+                            android:textSize="12sp"
+                            android:textColor="@color/txt_item_color"
+                            android:text="@string/agent"/>
+                        <TextView
+                            android:id="@+id/txt_agent"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_gravity="right"
+                            android:fontFamily="@font/montserrat_semibold"
+                            android:textSize="12sp"
+                            android:textColor="@color/txt_item_color"
+                            android:text="10 k"/>
+                    </LinearLayout>
+                    <LinearLayout
+                        android:id="@+id/layout_coach"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginVertical="10dp"
+                        android:orientation="horizontal">
+
+                        <TextView
+                            android:layout_width="0dp"
+                            android:layout_weight="1"
+                            android:layout_height="wrap_content"
+                            android:fontFamily="@font/montserrat_semibold"
+                            android:textSize="12sp"
+                            android:textColor="@color/txt_item_color"
+                            android:text="@string/coach"/>
+                        <TextView
+                            android:id="@+id/txt_coach"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_gravity="right"
+                            android:fontFamily="@font/montserrat_semibold"
+                            android:textSize="12sp"
+                            android:textColor="@color/txt_item_color"
+                            android:text="7 k"/>
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:id="@+id/layout_player"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginVertical="10dp"
+                        android:orientation="horizontal">
+
+                        <TextView
+                            android:layout_width="0dp"
+                            android:layout_weight="1"
+                            android:layout_height="wrap_content"
+                            android:fontFamily="@font/montserrat_semibold"
+                            android:textSize="12sp"
+                            android:textColor="@color/txt_item_color"
+                            android:text="@string/player"/>
+                        <TextView
+                            android:id="@+id/txt_player"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_gravity="right"
+                            android:fontFamily="@font/montserrat_semibold"
+                            android:textSize="12sp"
+                            android:textColor="@color/txt_item_color"
+                            android:text="3 k"/>
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:id="@+id/layout_company"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginVertical="10dp"
+                        android:orientation="horizontal">
+
+                        <TextView
+                            android:layout_width="0dp"
+                            android:layout_weight="1"
+                            android:layout_height="wrap_content"
+                            android:fontFamily="@font/montserrat_semibold"
+                            android:textSize="12sp"
+                            android:textColor="@color/txt_item_color"
+                            android:text="@string/company"/>
+                        <TextView
+                            android:id="@+id/txt_company"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_gravity="right"
+                            android:fontFamily="@font/montserrat_semibold"
+                            android:textSize="12sp"
+                            android:textColor="@color/txt_item_color"
+                            android:text="3 k"/>
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:id="@+id/layout_staff"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginVertical="10dp"
+                        android:orientation="horizontal">
+
+                        <TextView
+                            android:layout_width="0dp"
+                            android:layout_weight="1"
+                            android:layout_height="wrap_content"
+                            android:fontFamily="@font/montserrat_semibold"
+                            android:textSize="12sp"
+                            android:textColor="@color/txt_item_color"
+                            android:text="@string/staff"/>
+                        <TextView
+                            android:id="@+id/txt_staff"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_gravity="right"
+                            android:fontFamily="@font/montserrat_semibold"
+                            android:textSize="12sp"
+                            android:textColor="@color/txt_item_color"
+                            android:text="3 k"/>
+                    </LinearLayout>
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="20dp"
+                        android:layout_marginBottom="10dp"
+                        android:fontFamily="@font/montserrat_regular"
+                        android:textColor="@color/txt_subject_color"
+                        android:textSize="10sp"
+                        android:text="@string/audience_total_views"/>
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginVertical="10dp"
+                        android:orientation="horizontal">
+
+                        <TextView
+                            android:layout_width="0dp"
+                            android:layout_weight="1"
+                            android:layout_height="wrap_content"
+                            android:fontFamily="@font/montserrat_semibold"
+                            android:textSize="12sp"
+                            android:textColor="@color/txt_item_color"
+                            android:text="@string/audience_view_video"/>
+                        <TextView
+                            android:id="@+id/txt_view_video"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_gravity="right"
+                            android:fontFamily="@font/montserrat_semibold"
+                            android:textSize="12sp"
+                            android:textColor="@color/txt_item_color"
+                            android:text="2 k"/>
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginVertical="10dp"
+                        android:orientation="horizontal">
+
+                        <TextView
+                            android:layout_width="0dp"
+                            android:layout_weight="1"
+                            android:layout_height="wrap_content"
+                            android:fontFamily="@font/montserrat_semibold"
+                            android:textSize="12sp"
+                            android:textColor="@color/txt_item_color"
+                            android:text="@string/audience_star_video"/>
+                        <TextView
+                            android:id="@+id/txt_star_video"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_gravity="right"
+                            android:fontFamily="@font/montserrat_semibold"
+                            android:textSize="12sp"
+                            android:textColor="@color/txt_item_color"
+                            android:text="6 k"/>
+                    </LinearLayout>
+                </LinearLayout>
+            </LinearLayout>
+        </ScrollView>
+    </LinearLayout>
+
+</RelativeLayout>
