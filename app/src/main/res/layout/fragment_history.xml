@@ -1,0 +1,345 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Fragment.Profile.HistoryFragment">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="24dp"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/txt_description"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/montserrat_regular"
+                android:textSize="8sp"
+                android:textColor="@color/tab_txt_normal"
+                android:text="@string/history_desc"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="16dp"
+                android:fontFamily="@font/montserrat_regular"
+                android:textSize="12sp"
+                android:textColor="@color/navigation_active"
+                android:text="@string/details"/>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="8dp"
+                android:layout_marginBottom="32dp"
+                android:orientation="vertical">
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="65dp"
+                    android:weightSum="2"
+                    android:orientation="horizontal">
+
+                    <RelativeLayout
+                        android:id="@+id/layout_city"
+                        android:layout_width="0dp"
+                        android:layout_height="match_parent"
+                        android:layout_weight="1"
+                        android:background="@drawable/gray_border_rect">
+
+                        <LinearLayout
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginLeft="16dp"
+                            android:layout_centerVertical="true"
+                            android:orientation="horizontal">
+                            <ImageView
+                                android:layout_width="24dp"
+                                android:layout_height="24dp"
+                                android:src="@mipmap/ic_city"/>
+                            <LinearLayout
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_marginLeft="12dp"
+                                android:orientation="vertical">
+                                <TextView
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:fontFamily="@font/montserrat_regular"
+                                    android:textSize="6sp"
+                                    android:textColor="@color/navigation_active"
+                                    android:text="@string/city"/>
+                                <TextView
+                                    android:id="@+id/txt_city"
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:fontFamily="@font/montserrat_semibold"
+                                    android:textSize="12sp"
+                                    android:textColor="@color/navigation_normal"
+                                    android:text="Berlin"/>
+                            </LinearLayout>
+                        </LinearLayout>
+
+                    </RelativeLayout>
+                    <RelativeLayout
+                        android:id="@+id/layout_email"
+                        android:layout_width="0dp"
+                        android:layout_height="match_parent"
+                        android:layout_weight="1"
+                        android:background="@drawable/gray_border_rect">
+
+                        <LinearLayout
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginLeft="16dp"
+                            android:layout_centerVertical="true"
+                            android:orientation="horizontal">
+                            <ImageView
+                                android:layout_width="24dp"
+                                android:layout_height="24dp"
+                                android:src="@mipmap/ic_email"/>
+                            <LinearLayout
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_marginLeft="12dp"
+                                android:orientation="vertical">
+                                <TextView
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:fontFamily="@font/montserrat_regular"
+                                    android:textSize="6sp"
+                                    android:textColor="@color/navigation_active"
+                                    android:text="@string/email"/>
+                                <TextView
+                                    android:id="@+id/txt_email"
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:fontFamily="@font/montserrat_semibold"
+                                    android:textSize="7sp"
+                                    android:textColor="@color/navigation_normal"
+                                    android:text="Kharbouchi@gmail.com"/>
+                            </LinearLayout>
+                        </LinearLayout>
+
+                        <ImageView
+                            android:id="@+id/img_edit_email"
+                            android:layout_width="12dp"
+                            android:layout_height="12dp"
+                            android:layout_margin="8dp"
+                            android:layout_alignParentRight="true"
+                            android:src="@mipmap/ic_edit"/>
+
+                    </RelativeLayout>
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="65dp"
+                    android:weightSum="2"
+                    android:orientation="horizontal">
+
+                    <RelativeLayout
+                        android:id="@+id/layout_country"
+                        android:layout_width="0dp"
+                        android:layout_height="match_parent"
+                        android:layout_weight="1"
+                        android:background="@drawable/gray_border_rect">
+
+                        <LinearLayout
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginLeft="16dp"
+                            android:layout_centerVertical="true"
+                            android:orientation="horizontal">
+                            <ImageView
+                                android:layout_width="24dp"
+                                android:layout_height="24dp"
+                                android:src="@mipmap/ic_country"/>
+                            <LinearLayout
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_marginLeft="12dp"
+                                android:orientation="vertical">
+                                <TextView
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:fontFamily="@font/montserrat_regular"
+                                    android:textSize="6sp"
+                                    android:textColor="@color/navigation_active"
+                                    android:text="@string/country"/>
+                                <TextView
+                                    android:id="@+id/txt_country"
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:fontFamily="@font/montserrat_semibold"
+                                    android:textSize="12sp"
+                                    android:textColor="@color/navigation_normal"
+                                    android:text="Germany"/>
+                            </LinearLayout>
+                        </LinearLayout>
+
+                    </RelativeLayout>
+                    <RelativeLayout
+                        android:id="@+id/layout_phone"
+                        android:layout_width="0dp"
+                        android:layout_height="match_parent"
+                        android:layout_weight="1"
+                        android:background="@drawable/gray_border_rect">
+
+                        <LinearLayout
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginLeft="16dp"
+                            android:layout_centerVertical="true"
+                            android:orientation="horizontal">
+                            <ImageView
+                                android:layout_width="24dp"
+                                android:layout_height="24dp"
+                                android:src="@mipmap/ic_phone"/>
+                            <LinearLayout
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_marginLeft="12dp"
+                                android:orientation="vertical">
+                                <TextView
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:fontFamily="@font/montserrat_regular"
+                                    android:textSize="6sp"
+                                    android:textColor="@color/navigation_active"
+                                    android:text="@string/phone"/>
+                                <TextView
+                                    android:id="@+id/txt_phone"
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:fontFamily="@font/montserrat_semibold"
+                                    android:textSize="8sp"
+                                    android:textColor="@color/navigation_normal"
+                                    android:text="+45 66 85 954"/>
+                            </LinearLayout>
+                        </LinearLayout>
+
+                        <ImageView
+                            android:id="@+id/img_edit_phone"
+                            android:layout_width="12dp"
+                            android:layout_height="12dp"
+                            android:layout_margin="8dp"
+                            android:layout_alignParentRight="true"
+                            android:src="@mipmap/ic_edit"/>
+
+                    </RelativeLayout>
+
+                </LinearLayout>
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="65dp"
+                    android:weightSum="2"
+                    android:orientation="horizontal">
+
+                    <RelativeLayout
+                        android:id="@+id/layout_website"
+                        android:layout_width="0dp"
+                        android:layout_height="match_parent"
+                        android:layout_weight="1"
+                        android:background="@drawable/gray_border_rect">
+
+                        <LinearLayout
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginLeft="16dp"
+                            android:layout_centerVertical="true"
+                            android:orientation="horizontal">
+                            <ImageView
+                                android:layout_width="24dp"
+                                android:layout_height="24dp"
+                                android:src="@mipmap/ic_website"/>
+                            <LinearLayout
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_marginLeft="12dp"
+                                android:orientation="vertical">
+                                <TextView
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:fontFamily="@font/montserrat_regular"
+                                    android:textSize="6sp"
+                                    android:textColor="@color/navigation_active"
+                                    android:text="@string/website"/>
+                                <TextView
+                                    android:id="@+id/txt_website"
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:fontFamily="@font/montserrat_semibold"
+                                    android:textSize="7sp"
+                                    android:textColor="@color/navigation_normal"
+                                    android:text="www.kharbouchiplayer2019.com"/>
+                            </LinearLayout>
+                        </LinearLayout>
+                        <ImageView
+                            android:id="@+id/img_edit_website"
+                            android:layout_width="12dp"
+                            android:layout_height="12dp"
+                            android:layout_margin="8dp"
+                            android:layout_alignParentRight="true"
+                            android:src="@mipmap/ic_edit"/>
+                    </RelativeLayout>
+                    <!--                <RelativeLayout-->
+                    <!--                    android:id="@+id/layout_email"-->
+                    <!--                    android:layout_width="0dp"-->
+                    <!--                    android:layout_height="match_parent"-->
+                    <!--                    android:layout_weight="1"-->
+                    <!--                    android:background="@drawable/gray_border_rect">-->
+
+                    <!--                    <LinearLayout-->
+                    <!--                        android:layout_width="wrap_content"-->
+                    <!--                        android:layout_height="wrap_content"-->
+                    <!--                        android:layout_marginLeft="16dp"-->
+                    <!--                        android:layout_centerVertical="true"-->
+                    <!--                        android:orientation="horizontal">-->
+                    <!--                        <ImageView-->
+                    <!--                            android:layout_width="24dp"-->
+                    <!--                            android:layout_height="24dp"-->
+                    <!--                            android:src="@mipmap/ic_city"/>-->
+                    <!--                        <LinearLayout-->
+                    <!--                            android:layout_width="wrap_content"-->
+                    <!--                            android:layout_height="wrap_content"-->
+                    <!--                            android:layout_marginLeft="16dp"-->
+                    <!--                            android:orientation="vertical">-->
+                    <!--                            <TextView-->
+                    <!--                                android:layout_width="wrap_content"-->
+                    <!--                                android:layout_height="wrap_content"-->
+                    <!--                                android:fontFamily="@font/montserrat_regular"-->
+                    <!--                                android:textSize="6sp"-->
+                    <!--                                android:textColor="@color/navigation_active"-->
+                    <!--                                android:text="@string/email"/>-->
+                    <!--                            <TextView-->
+                    <!--                                android:id="@+id/txt_email"-->
+                    <!--                                android:layout_width="wrap_content"-->
+                    <!--                                android:layout_height="wrap_content"-->
+                    <!--                                android:fontFamily="@font/montserrat_semibold"-->
+                    <!--                                android:textSize="12sp"-->
+                    <!--                                android:textColor="@color/navigation_normal"-->
+                    <!--                                android:text="Kharbouchi@gmail.com"/>-->
+                    <!--                        </LinearLayout>-->
+                    <!--                    </LinearLayout>-->
+
+                    <!--                    <ImageView-->
+                    <!--                        android:id="@+id/img_edit_email"-->
+                    <!--                        android:layout_width="12dp"-->
+                    <!--                        android:layout_height="12dp"-->
+                    <!--                        android:layout_margin="8dp"-->
+                    <!--                        android:layout_alignParentRight="true"-->
+                    <!--                        android:src="@mipmap/ic_edit"/>-->
+
+                    <!--                </RelativeLayout>-->
+                </LinearLayout>
+            </LinearLayout>
+
+
+        </LinearLayout>
+    </ScrollView>
+</FrameLayout>

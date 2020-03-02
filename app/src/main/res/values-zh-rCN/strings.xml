@@ -1,0 +1,2006 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Aggone</string>
+    <string name="splash_name">AGGONE</string>
+    <string name="splash_desc">Reveal your potential Revolutionize your sport</string>
+    <string name="access">评估</string>
+    <string name="activity">活动</string>
+    <string name="add">加</string>
+    <string name="add_description">添加说明</string>
+    <string name="add_more_prize">添加奖杯</string>
+    <string name="add_more_prize_description">你可以添加你在职业生涯中获得的合法奖品</string>
+    <string name="add_stats">添加统计信息</string>
+    <string name="advanced_stats">高级统计数据</string>
+    <string name="age">年龄</string>
+    <string name="american_football">美式足球</string>
+    <string name="athletics">田径运动</string>
+    <string name="badminton">羽毛球</string>
+    <string name="baseball">棒球棒</string>
+    <string name="basketball">篮球</string>
+    <string name="boxing">拳击</string>
+    <string name="climbing">攀登</string>
+    <string name="cricket">蟋蟀</string>
+    <string name="cycling">循环</string>
+    <string name="dance">舞蹈</string>
+    <string name="equestrianism">马术</string>
+    <string name="fencing">击剑</string>
+    <string name="football">足球</string>
+    <string name="golf">高尔夫球</string>
+    <string name="gymnastic">体操</string>
+    <string name="handball">手球</string>
+    <string name="judo">柔道</string>
+    <string name="martial_art">武术</string>
+    <string name="rugby">橄榄球</string>
+    <string name="skiing">滑雪</string>
+    <string name="snowboarding">单板滑雪</string>
+    <string name="squash">壁球</string>
+    <string name="swimming">游泳的</string>
+    <string name="table_tennis">乒乓球</string>
+    <string name="tennis">网球</string>
+    <string name="volleyball">排球</string>
+    <string name="water_sports">水上运动</string>
+    <string name="wrestling">摔角</string>
+    <string name="ice_hockey">冰球</string>
+    <string name="field_hockey">曲棍球</string>
+    <string name="mma">MMA</string>
+    <string name="kick_boxing">踢拳击</string>
+    <string name="water_polo">水球</string>
+    <string name="auto_racing">赛车</string>
+    <string name="moto_racing">摩托赛车</string>
+    <string name="polo_sport">马球运动</string>
+    <string name="softball">垒球</string>
+    <string name="sepak_takraw">塞帕克·塔克拉夫</string>
+    <string name="korfball">科尔夫鲍尔</string>
+    <string name="floorball">地板球</string>
+    <string name="mountaineering">登山</string>
+    <string name="canyoning">峡谷</string>
+    <string name="trail">线索</string>
+    <string name="triathlon">铁人三项</string>
+    <string name="ice_skating">滑冰</string>
+    <string name="petanque">佩坦克</string>
+    <string name="skate_board">滑板板</string>
+    <string name="weightlifting">举重</string>
+    <string name="crossfit_fitness">交叉健身</string>
+    <string name="surf">冲浪</string>
+    <string name="sailing">航行</string>
+    <string name="canoeing">划 独木舟</string>
+    <string name="rowing">划船</string>
+    <string name="air_sports">空气运动</string>
+    <string name="winter_sports">冬季运动</string>
+    <string name="bowling">保龄球</string>
+
+    <string name="add_description_description">这是一个很好的方式来展示自己作为一名球员的情况</string>
+    <string name="apply">应用</string>
+    <string name="as_coach">教练</string>
+    <string name="as_player">播放机</string>
+    <string name="block">阻止</string>
+    <string name="blocked">阻止</string>
+    <string name="blocked_user">用户被阻止</string>
+    <string name="bookmark">书签</string>
+    <string name="cancel">取消</string>
+    <string name="career">事业</string>
+    <string name="career_roadmap">事业</string>
+    <string name="career_roadmap_description">你可以添加你想向世界展示的所有俱乐部和特别活动</string>
+    <string name="category">类别</string>
+    <string name="change_password">更改密码</string>
+    <string name="change_photo">更改照片</string>
+    <string name="chat_hint">在这里输入一条消息</string>
+    <string name="chats">聊天</string>
+    <string name="city">市</string>
+    <string name="club">俱乐部</string>
+    <string name="club_name">俱乐部名称</string>
+    <string name="coach">教练</string>
+    <string name="confirm_password">确认你的密码</string>
+    <string name="contact_us">联系我们</string>
+    <string name="contract">合同</string>
+    <string name="create_ad">制作广告</string>
+    <string name="create_ad_description">让世界了解你的要求</string>
+    <string name="day">天</string>
+    <string name="delete">删除</string>
+    <string name="delete_message">你确定要删除这个吗</string>
+    <string name="description">描述</string>
+    <string name="discard">放弃</string>
+    <string name="edit_description">编辑说明</string>
+    <string name="edit_profile">编辑个人资料</string>
+    <string name="edit_stats">编辑统计信息</string>
+    <string name="email">电子邮件</string>
+    <string name="forgot_password_title">忘记密码</string>
+    <string name="forgot_password">忘记密码?</string>
+    <string name="from">从</string>
+    <string name="game_played">游戏玩了</string>
+    <string name="graphs">图</string>
+    <string name="height">高度</string>
+    <string name="home">家</string>
+    <string name="location">地点</string>
+    <string name="logo_description">在这里添加任何相关图片</string>
+    <string name="looking_club">我正在寻找一个俱乐部</string>
+    <string name="looking_player">我正在寻找一名球员</string>
+    <string name="looking_club_description">我正在寻找一个俱乐部</string>
+    <string name="looking_player_description">我正在寻找一名球员</string>
+    <string name="lookup">抬头</string>
+    <string name="match">比赛</string>
+    <string name="match_win_percent">匹配胜利％</string>
+    <string name="message">消息</string>
+    <string name="modify_profile">修改档案</string>
+    <string name="month">月</string>
+    <string name="my">我的</string>
+    <string name="my_news">我的新闻提要</string>
+    <string name="my_subscribers">我的订阅者</string>
+    <string name="my_subscription">我的订阅</string>
+    <string name="name">名</string>
+    <string name="news">新闻</string>
+    <string name="notification">通知</string>
+    <string name="password">密码</string>
+    <string name="performance">表现嬉戏</string>
+    <string name="player">玩家</string>
+    <string name="position">位置</string>
+    <string name="pref_indicator">性能指标</string>
+    <string name="prizes">奖杯</string>
+    <string name="profile">轮廓</string>
+    <string name="ratio">比</string>
+    <string name="recorded">记录</string>
+    <string name="remove">去掉</string>
+    <string name="report">报告</string>
+    <string name="search">搜索</string>
+    <string name="search_hint">搜索...</string>
+    <string name="select_icon">选择图标</string>
+    <string name="select_sport">选择运动</string>
+    <string name="send">发送</string>
+    <string name="sign_out">断开</string>
+    <string name="source">资源</string>
+    <string name="sport">运动</string>
+    <string name="stars">星</string>
+    <string name="statistics">统计</string>
+    <string name="stats">统计</string>
+
+    <string name="submit">提交</string>
+    <string name="subscribe_back">订阅回来</string>
+    <string name="subscribed">订阅</string>
+    <string name="terms_conditions">使用条件</string>
+    <string name="terms_text">同意我们的条款和条件</string>
+    <string name="the_filter">过滤器</string>
+    <string name="the_filter_description">" 高级搜索"</string>
+    <string name="title">标题</string>
+    <string name="to">至</string>
+    <string name="to_description">(如果你现在在这个俱乐部，请留下这个)</string>
+    <string name="total">总</string>
+    <string name="unblock">解除阻止</string>
+    <string name="upload">上传</string>
+    <string name="upload_video">下载视频</string>
+    <string name="upload_video_description">您可以直接上传视频或通过YouTube频道上传视频</string>
+    <string name="url">Youtube链接</string>
+    <string name="videos">影片</string>
+    <string name="views">意见</string>
+    <string name="weight">重量</string>
+    <string name="world">世界</string>
+    <string name="world_news">世界新闻</string>
+    <string name="year">年</string>
+    <string name="you_are_here">查找：</string>
+    <string name="unfollow">取消关注</string>
+    <string name="skills">技巧</string>
+    <string name="reset">重启</string>
+    <string name="following">退订</string>
+    <string name="follow">订阅</string>
+    <string name="description_1">速度</string>
+    <string name="description_10">进攻</string>
+    <string name="description_2">强度</string>
+    <string name="description_3">爆炸物</string>
+    <string name="description_4">促进</string>
+    <string name="description_5">耐力</string>
+    <string name="description_6">协调</string>
+    <string name="description_7">打击力量</string>
+    <string name="description_8">控制</string>
+    <string name="description_9">防御性</string>
+    <string name="description_11">准确性</string>
+    <string name="description_12">精加工</string>
+    <string name="description_13">动机</string>
+    <string name="description_14">专注</string>
+    <string name="description_15">反思</string>
+    <string name="description_16">适应</string>
+    <string name="description_17">心理</string>
+    <string name="description_18">沟通</string>
+    <string name="description_19">游戏智能</string>
+    <string name="description_20">团队精神</string>
+    <string name="description_21">创造力</string>
+    <string name="description_22">游戏的构建</string>
+    <string name="description_23">决策</string>
+    <string name="description_24">执行</string>
+    <string name="cdescription_1">技术和战术</string>
+    <string name="cdescription_10">确定进展</string>
+    <string name="cdescription_2">技术和战术</string>
+    <string name="cdescription_3">生理学概念</string>
+    <string name="cdescription_4">心理学的概念</string>
+    <string name="cdescription_5">组织游戏</string>
+    <string name="cdescription_6">游戏构建</string>
+    <string name="cdescription_7">训练运动员</string>
+    <string name="cdescription_8">教练员</string>
+    <string name="cdescription_9">评估运动员的水平</string>
+    <string name="cdescription_11">教育学</string>
+    <string name="cdescription_12">说明</string>
+    <string name="cdescription_13">管理力量</string>
+    <string name="cdescription_14">管理弱点</string>
+    <string name="cdescription_15">分析一场比赛</string>
+    <string name="cdescription_16">沟通</string>
+    <string name="cdescription_17">安全规则</string>
+    <string name="cdescription_18">行政管理</string>
+    <string name="cdescription_19">成为男人的领袖</string>
+    <string name="cdescription_20">性格的力量</string>
+    <string name="cdescription_21">团队精神</string>
+    <string name="cdescription_22">有说服力的</string>
+    <string name="cdescription_23">动态</string>
+    <string name="cdescription_24">观察者</string>
+    <string name="skill1">物理</string>
+    <string name="skill2">技术</string>
+    <string name="skill3">心理</string>
+    <string name="skill4">战术</string>
+    <string name="cskill1">知识</string>
+    <string name="cskill2">技术</string>
+    <string name="cskill3">管理技能</string>
+    <string name="cskill4">资格</string>
+    <string name="notification_follow">这个人跟着你</string>
+    <string name="notification_like">这个人喜欢您的影片</string>
+    <string name="notification_chat">此人向您发送了一条消息</string>
+    <string name="full_name">姓氏和名字</string>
+    <string name="nationality">国籍</string>
+    <string name="gender">性别</string>
+    <string name="team_club">团队/俱乐部</string>
+    <string name="agent">代理</string>
+    <string name="staff">员工</string>
+    <string name="company">公司</string>
+    <string name="company_desc">品牌/赞助商/媒体...</string>
+
+    <string name="people">人们</string>
+    <string name="country">国家</string>
+    <string name="gender_man">男人</string>
+    <string name="gender_woman">女人</string>
+    <string name="gender_other">其他</string>
+    <string name="advertisment">Ad</string>
+    <string name="stats_disable_noti">无法访问此页面</string>
+    <string name="stats_disable_desc">您的帐户类型无法访问此页面。可以从设置中更改帐户类型。</string>
+    <string name="current_password">当前密码</string>
+    <string name="new_password">新密码</string>
+    <string name="retype_password">重新键入密码</string>
+    <string name="btn_confirm">确认</string>
+    <string name="add_resume">添加简历</string>
+    <string name="download">下载</string>
+    <string name="summary">总结</string>
+
+    <string name="profile_news">新闻</string>
+    <string name="profile_trophies">奖杯</string>
+    <string name="profile_team">团队</string>
+    <string name="prifile_history">历史</string>
+    <string name="history_desc">写你的生物。。。</string>
+    <string name="details">细节</string>
+    <string name="phone">电话</string>
+    <string name="website">网站</string>
+    <string name="specialty">专业</string>
+    <string name="strengths">优势</string>
+    <string name="make_private">使私有</string>
+    <string name="make_public">公开</string>
+
+    <string name="add_more_news">添加更多新闻</string>
+    <string name="add_more_news_description">你可以在这里添加所有关于你的俱乐部的新趋势新闻。</string>
+    <string name="add_history">添加/编辑历史记录</string>
+    <string name="add_history_description">写你的简历</string>
+    <string name="attachable_description">0/3 可用的附件</string>
+    <string name="stories">故事</string>
+    <string name="recommendations">推荐</string>
+    <string name="forward">向前</string>
+    <string name="private_account">私人账户</string>
+    <string name="available_clubs">适用于俱乐部</string>
+    <string name="profile_audience">观众</string>
+    <string name="audience_story_views">故事视图</string>
+    <string name="audience_today">今天</string>
+    <string name="audience_week">星期</string>
+    <string name="audience_month">月</string>
+    <string name="audience_visitors">游客</string>
+    <string name="audience_total_profile">总配置文件</string>
+    <string name="audience_visits">访问</string>
+    <string name="audience_total_views">总视图数</string>
+    <string name="audience_view_video">视频视图</string>
+    <string name="audience_star_video">视频上的星星</string>
+    <string name="audience_views_suffix">视图</string>
+    <string name="team_category">团队类别</string>
+    <string name="txt_victory">胜利</string>
+    <string name="txt_defeat">失败</string>
+    <string name="txt_draw">平局</string>
+
+    <!-- Month name-->
+    <string name="txt_jan">一月</string>
+    <string name="txt_feb">二月</string>
+    <string name="txt_mar">三月</string>
+    <string name="txt_apr">四月</string>
+    <string name="txt_may">可以</string>
+    <string name="txt_jun">六月</string>
+    <string name="txt_jul">七月</string>
+    <string name="txt_aug">八月</string>
+    <string name="txt_sep">九月</string>
+    <string name="txt_oct">十月</string>
+    <string name="txt_nov">十一月</string>
+    <string name="txt_dec">十二月</string>
+
+    <string-array name="months_array">
+        <item>一月</item>
+        <item>二月</item>
+        <item>三月</item>
+        <item>四月</item>
+        <item>可以</item>
+        <item>六月</item>
+        <item>七月</item>
+        <item>八月</item>
+        <item>九月</item>
+        <item>十月</item>
+        <item>十一月</item>
+        <item>十二月</item>
+    </string-array>
+
+    <string-array name="month_name_array">
+        <item> </item>
+        <item>一月</item>
+        <item>二月</item>
+        <item>三月</item>
+        <item>四月</item>
+        <item>可以</item>
+        <item>六月</item>
+        <item>七月</item>
+        <item>八月</item>
+        <item>九月</item>
+        <item>十月</item>
+        <item>十一月</item>
+        <item>十二月</item>
+    </string-array>
+
+    <string-array name="week_day_array">
+        <item>星期日</item>
+        <item>星期一</item>
+        <item>星期二</item>
+        <item>星期三</item>
+        <item>星期四</item>
+        <item>星期五</item>
+        <item>星期六</item>
+    </string-array>
+
+    <string-array name="weeks_array">
+        <item>第一周</item>
+        <item>第二周</item>
+        <item>第三周</item>
+        <item>第四周</item>
+    </string-array>
+
+    <!-- String Array-->
+    <string-array name="strength_football">
+        <item>盘带</item>
+        <item>子弹防护</item>
+        <item>速度</item>
+        <item>空中决斗</item>
+        <item>耐力</item>
+        <item>创造机会</item>
+        <item>施工游戏</item>
+        <item>渗透</item>
+        <item>复苏</item>
+        <item>球保护</item>
+        <item>播放间隔</item>
+        <item>打标</item>
+        <item>拦截</item>
+        <item>抢断</item>
+        <item>头游戏</item>
+        <item>射击</item>
+        <item>控制</item>
+        <item>中央</item>
+        <item>资质</item>
+        <item>深度通行证</item>
+        <item>近路</item>
+        <item>长传</item>
+        <item>长游戏</item>
+        <item>短游戏</item>
+        <item>战斗力</item>
+        <item>浓度</item>
+        <item>一对一</item>
+        <item>传球游戏</item>
+        <item>停止</item>
+        <item>目标出口</item>
+        <item>复兴</item>
+        <item>任意球</item>
+        <item>中心</item>
+        <item>打标</item>
+        <item>进取心</item>
+        <item>预期</item>
+        <item>敏捷</item>
+    </string-array>
+    <string-array name="strength_basketball">
+        <item>跑步</item>
+        <item>通过</item>
+        <item>射击</item>
+        <item>块</item>
+        <item>反弹</item>
+        <item>罪行</item>
+        <item>防御</item>
+        <item>动作</item>
+        <item>违规</item>
+        <item>助攻</item>
+        <item>犯规</item>
+    </string-array>
+    <string-array name="strength_american_football">
+        <item>跑步</item>
+        <item>通过</item>
+        <item>受阻</item>
+        <item>赶上</item>
+        <item>拉什</item>
+        <item>守护</item>
+        <item>三重威胁</item>
+        <item>后卫</item>
+        <item>H背</item>
+        <item>后退</item>
+        <item>结束角背</item>
+        <item>安全</item>
+        <item>中卫</item>
+        <item>镍背</item>
+        <item>Dimeback</item>
+        <item>射门得分</item>
+        <item>平底锅和踢</item>
+        <item>长鲷鱼</item>
+        <item>平底锅归还者</item>
+        <item>回踢者</item>
+        <item>干扰器</item>
+        <item>炮手</item>
+        <item>倒立</item>
+        <item>效用</item>
+    </string-array>
+    <string-array name="strength_cricket">
+        <item>田野</item>
+        <item>跑步</item>
+        <item>姿态</item>
+        <item>棉絮</item>
+        <item>反向提升</item>
+        <item>前进和后退</item>
+        <item>离开</item>
+        <item>防守投篮</item>
+        <item>驾驶</item>
+        <item>轻弹</item>
+        <item>切</item>
+        <item>方驱动</item>
+        <item>拉钩</item>
+        <item>口号</item>
+        <item>扫掠</item>
+        <item>上切</item>
+        <item>切换命中</item>
+        <item>铲/坡道</item>
+        <item>直升机射击</item>
+        <item>快速保龄球</item>
+        <item>旋转保龄球</item>
+        <item>快速投球</item>
+        <item>旋转礼帽投递</item>
+    </string-array>
+    <string-array name="strength_tennis">
+        <item>爆炸性</item>
+        <item>均衡</item>
+        <item>手眼协调</item>
+        <item>球判断</item>
+        <item>动机</item>
+        <item>浓度</item>
+        <item>右击</item>
+        <item>挫折</item>
+        <item>服务</item>
+        <item>脚踢</item>
+        <item>预期</item>
+        <item>排球</item>
+    </string-array>
+    <string-array name="strength_rugby">
+        <item>跑步</item>
+        <item>通过</item>
+        <item>赶上</item>
+        <item>处理</item>
+        <item>踢</item>
+        <item>定位技能</item>
+        <item>规则</item>
+        <item>团队合作</item>
+        <item>卡车/槌</item>
+        <item>享受</item>
+        <item>捡球</item>
+        <item>处理球</item>
+        <item>收到通行证</item>
+        <item>带球移动</item>
+        <item>无球移动</item>
+        <item>抢断</item>
+        <item>踢球</item>
+        <item>躲避铲球</item>
+        <item>毅力</item>
+        <item>团队合作</item>
+        <item>勇气</item>
+        <item>冷静</item>
+        <item>视力</item>
+        <item>耐力</item>
+    </string-array>
+    <string-array name="strength_golf">
+        <item>握</item>
+        <item>姿态</item>
+        <item>摇摆</item>
+        <item>策略</item>
+    </string-array>
+    <string-array name="strength_baseball">
+        <item>打</item>
+        <item>飞</item>
+        <item>打标</item>
+        <item>调遣</item>
+        <item>投掷</item>
+        <item>赶上</item>
+        <item>手眼协调</item>
+        <item>基地正在运行</item>
+        <item> 投手首先覆盖</item>
+        <item> 牺牲腔</item>
+        <item> 挤压短打</item>
+        <item>减少所有基地</item>
+        <item>奔跑</item>
+        <item>奔跑</item>
+        <item>双飞</item>
+        <item>中继</item>
+        <item>保持基本的跑步者</item>
+        <item>皮卡</item>
+    </string-array>
+    <string-array name="strength_ice_hockey">
+        <item>冰球处理</item>
+        <item>通过</item>
+        <item>射击</item>
+        <item>盘带</item>
+        <item>冰球控制</item>
+        <item>棍子处理</item>
+        <item>敏捷</item>
+        <item>平衡</item>
+        <item>边缘控制</item>
+        <item>向前滑冰</item>
+        <item>向后滑冰</item>
+        <item>转弯</item>
+        <item>分频器</item>
+        <item>过渡</item>
+        <item>快速脚</item>
+        <item>守门员</item>
+    </string-array>
+    <string-array name="strength_field_hockey">
+        <item>冰球处理</item>
+        <item>通过</item>
+        <item>射击</item>
+        <item>盘带</item>
+        <item>冰球控制</item>
+        <item>棍子处理</item>
+        <item>敏捷</item>
+        <item>平衡</item>
+        <item>边缘控制</item>
+        <item>向前跑步</item>
+        <item>向后跑</item>
+        <item>转弯</item>
+        <item>分频器</item>
+        <item>过渡</item>
+        <item>快速脚</item>
+        <item>守门员</item>
+    </string-array>
+    <string-array name="strength_volley">
+        <item>服务</item>
+        <item>通过</item>
+        <item>设置</item>
+        <item>打</item>
+        <item>挖掘</item>
+        <item>封锁</item>
+    </string-array>
+    <string-array name="strength_handball">
+        <item>打</item>
+        <item>盘带</item>
+        <item>子弹防护</item>
+        <item>速度</item>
+        <item>空中决斗</item>
+        <item>耐力</item>
+        <item>创造机会</item>
+        <item>施工游戏</item>
+        <item>渗透</item>
+        <item>复苏</item>
+        <item>球保护</item>
+        <item>间隔播放</item>
+        <item>干洗</item>
+        <item>打标</item>
+        <item>拦截</item>
+        <item>射击</item>
+        <item>控制</item>
+        <item>中央</item>
+        <item>完</item>
+        <item>深度通行证</item>
+        <item>近路</item>
+        <item>长传</item>
+        <item>长游戏</item>
+        <item>短游戏</item>
+        <item>停止踢</item>
+        <item>领导</item>
+        <item>窃</item>
+        <item>通讯</item>
+        <item>战斗力</item>
+        <item>浓度</item>
+        <item>一对一</item>
+        <item>停止</item>
+        <item>目标出口</item>
+        <item>复兴</item>
+    </string-array>
+    <string-array name="strength_badminton">
+        <item>握</item>
+        <item>掉落</item>
+        <item>小叶</item>
+        <item>自夸</item>
+        <item>驱动器</item>
+        <item>摇摆力学</item>
+        <item>法院动向</item>
+        <item>控制</item>
+        <item>移动对手</item>
+        <item>正手</item>
+        <item>反手</item>
+        <item>高架</item>
+        <item>裁判员</item>
+        <item>规则与标记</item>
+        <item>供应</item>
+        <item>射门</item>
+        <item>粉碎</item>
+    </string-array>
+    <string-array name="strength_squash">
+        <item>握</item>
+        <item>掉落</item>
+        <item>小叶</item>
+        <item>自夸</item>
+        <item>驱动器</item>
+        <item>摇摆力学</item>
+        <item>法院动向</item>
+        <item>控制</item>
+        <item>移动对手</item>
+        <item>正手</item>
+        <item>反手</item>
+        <item>高架</item>
+        <item>裁判员</item>
+        <item>规则与标记</item>
+        <item> 供应</item>
+    </string-array>
+    <string-array name="strength_table_tennis">
+        <item>正手</item>
+        <item>快速上菜</item>
+        <item>正手推</item>
+        <item>反手推</item>
+        <item>正手轻弹。</item>
+        <item>反手轻弹。</item>
+        <item>反手循环</item>
+        <item>正手进攻</item>
+        <item>正手发球</item>
+        <item>反手发球</item>
+    </string-array>
+    <string-array name="strength_boxing">
+        <item>戳</item>
+        <item>交叉</item>
+        <item>钩</item>
+        <item>上切</item>
+        <item>拳击姿态</item>
+        <item>拳击步法</item>
+        <item>冲床</item>
+        <item>头部运动</item>
+    </string-array>
+    <string-array name="strength_martial_art">
+        <item>焦点</item>
+        <item>学科</item>
+        <item>背诵</item>
+        <item>努力</item>
+        <item>目标</item>
+        <item>步法</item>
+        <item>尊重。</item>
+        <item>置信度</item>
+        <item>主动</item>
+        <item>道奇</item>
+        <item>攻击</item>
+        <item>阅兵</item>
+        <item>射门</item>
+        <item>喷射机</item>
+    </string-array>
+    <string-array name="strength_mma">
+        <item>摔角</item>
+        <item>外道柔术</item>
+        <item>泰拳</item>
+        <item>戳刺</item>
+        <item>上击</item>
+        <item>俯卧撑与仰卧起坐</item>
+        <item>争夺战</item>
+        <item>地磅</item>
+        <item>提交抓斗</item>
+        <item>击倒</item>
+        <item>删除</item>
+        <item>意见书</item>
+    </string-array>
+    <string-array name="strength_kick_boxing">
+        <item>距离</item>
+        <item>防御</item>
+        <item>帕里</item>
+        <item>块</item>
+        <item>躲闪</item>
+        <item>返回</item>
+        <item>打孔</item>
+        <item>回避</item>
+        <item>假装</item>
+        <item>定时</item>
+        <item>头部运动</item>
+        <item>eep</item>
+        <item>强大的后卫</item>
+        <item>冲头</item>
+        <item>踢</item>
+        <item>膝盖</item>
+        <item>肘部罢工</item>
+        <item>扫地</item>
+        <item> 公平</item>
+        <item>反击</item>
+    </string-array>
+    <string-array name="strength_wrestling">
+        <item>进攻</item>
+        <item>投掷</item>
+        <item>过渡动作</item>
+        <item>姿态</item>
+        <item> 运动</item>
+        <item>等级变更</item>
+        <item>渗透</item>
+        <item>起重</item>
+        <item>退回一步</item>
+        <item>后拱</item>
+    </string-array>
+    <string-array name="strength_gymnastic">
+        <item>Acro技能</item>
+        <item>前滚</item>
+        <item>后滚</item>
+        <item>转弯</item>
+        <item>跳</item>
+        <item>飞跃</item>
+        <item>四舍五入</item>
+        <item>后手簧</item>
+    </string-array>
+    <string-array name="strength_athletics">
+        <item>反应</item>
+        <item>协调</item>
+        <item>平衡</item>
+        <item>柔顺</item>
+        <item>耐力</item>
+        <item>功率</item>
+        <item>强度</item>
+        <item>速度</item>
+    </string-array>
+    <string-array name="strength_fencing">
+        <item>联合攻击</item>
+        <item>刺</item>
+        <item>假装</item>
+        <item>帕里</item>
+        <item>里波斯特</item>
+        <item>反击</item>
+        <item>步法</item>
+        <item>战术轮</item>
+        <item>右击</item>
+        <item>间隙</item>
+        <item>砍掉</item>
+        <item>防御行动</item>
+        <item>退休</item>
+    </string-array>
+    <string-array name="strength_judo">
+        <item>攻击</item>
+        <item>防守</item>
+        <item>抓住对手</item>
+        <item>控制对手</item>
+        <item>使用不平衡</item>
+        <item>下降</item>
+        <item>接地</item>
+        <item>固定</item>
+        <item>脱离固定</item>
+        <item>自由式踢</item>
+    </string-array>
+    <string-array name="strength_swimming">
+        <item>蛙泳</item>
+        <item>蝴蝶</item>
+        <item>爬行</item>
+        <item>向后爬行</item>
+        <item>水舒适度</item>
+        <item>呼吸控制</item>
+        <item>漂浮的</item>
+        <item>踢</item>
+        <item>中风</item>
+        <item>呼吸技巧</item>
+        <item>身体旋转</item>
+        <item>拉技术</item>
+        <item>冲程率</item>
+        <item>行程长度</item>
+        <item>自由式踢</item>
+    </string-array>
+    <string-array name="strength_water_sports">
+        <item>呼吸技巧</item>
+        <item>身体旋转</item>
+        <item>强大</item>
+        <item>拉伸芯</item>
+        <item>手动输入</item>
+        <item>捕捉技术</item>
+        <item>拉技术</item>
+        <item>冲程率</item>
+        <item>行程长度</item>
+    </string-array>
+    <string-array name="strength_water_polo">
+        <item>耐力</item>
+        <item>团队合作</item>
+        <item>投掷</item>
+        <item>赶上</item>
+        <item>通过</item>
+        <item>头游戏</item>
+        <item>射击</item>
+        <item>控制</item>
+        <item>中心完成</item>
+        <item>深度通行证</item>
+        <item>近路</item>
+        <item>长传</item>
+        <item>长游戏</item>
+        <item>短游戏</item>
+    </string-array>
+    <string-array name="strength_autoracing">
+        <item>浓度</item>
+        <item>速度</item>
+        <item>预期</item>
+        <item>平静</item>
+        <item>反射</item>
+        <item>试剂</item>
+        <item>耐性</item>
+        <item>安全规则。</item>
+        <item>团队合作</item>
+        <item>精通转向</item>
+        <item>转</item>
+        <item>煞车</item>
+        <item>视图</item>
+    </string-array>
+    <string-array name="strength_motoracing">
+        <item>浓度</item>
+        <item>速度</item>
+        <item>预期</item>
+        <item>平静</item>
+        <item>反射</item>
+        <item>试剂</item>
+        <item>耐性</item>
+        <item>安全规则。</item>
+        <item>团队合作</item>
+        <item>精通转向</item>
+        <item>转</item>
+        <item>煞车</item>
+        <item>视图</item>
+    </string-array>
+    <string-array name="strength_cycling">
+        <item>浓度</item>
+        <item>速度</item>
+        <item>预期</item>
+        <item>平静</item>
+        <item>反射</item>
+        <item>试剂</item>
+        <item>耐性</item>
+        <item>安全规则。</item>
+        <item>团队合作</item>
+        <item>精通转向</item>
+        <item>转</item>
+        <item>煞车</item>
+        <item>视图</item>
+        <item>平衡</item>
+        <item>换档</item>
+        <item>踩踏板</item>
+        <item>降序</item>
+    </string-array>
+    <string-array name="strength_equestrian">
+        <item>盛装舞步</item>
+        <item>耐力骑行</item>
+        <item>三项赛</item>
+        <item>束缚</item>
+        <item>显示跳跃</item>
+        <item>耳鼻喉科</item>
+        <item>跳马</item>
+        <item>赛马</item>
+        <item>驾驶</item>
+        <item>圈地</item>
+    </string-array>
+    <string-array name="strength_polo">
+        <item> 精通球</item>
+        <item>精通槌</item>
+        <item>盛装舞步</item>
+        <item>耐力骑行</item>
+        <item>三项赛</item>
+        <item>束缚</item>
+        <item>显示跳跃</item>
+        <item>耳鼻喉科</item>
+        <item>跳马</item>
+        <item>赛马</item>
+        <item>驾驶</item>
+        <item>圈地</item>
+        <item>双重抢断</item>
+    </string-array>
+    <string-array name="strength_dance">
+        <item>机芯</item>
+        <item>步伐</item>
+        <item>身体空间</item>
+        <item>时间</item>
+        <item>能源</item>
+        <item>合作伙伴关系</item>
+        <item>情感承诺</item>
+    </string-array>
+    <string-array name="strength_softball">
+        <item>基础运行</item>
+        <item>标记跑步者</item>
+        <item>投球</item>
+        <item>投掷</item>
+        <item>打</item>
+        <item>滑行</item>
+        <item>守备飞球</item>
+        <item>守备地面球</item>
+        <item>彩旗</item>
+        <item>接球</item>
+        <item>步法</item>
+        <item>基础运行</item>
+        <item>防盗</item>
+        <item>彩旗</item>
+        <item>邦特防御</item>
+        <item>双打</item>
+        <item>那个切口</item>
+    </string-array>
+    <string-array name="strength_sepak_takraw">
+        <item>内踢</item>
+        <item>户外踢</item>
+        <item>膝盖中风</item>
+        <item>标头</item>
+        <item>服务</item>
+        <item>背刺刺</item>
+        <item>滚动点</item>
+    </string-array>
+    <string-array name="strength_korfball">
+        <item>平衡</item>
+        <item>身体方向</item>
+        <item>定时运动</item>
+        <item>运动</item>
+        <item>球处理</item>
+        <item>间隙球</item>
+        <item>投球</item>
+        <item>射击</item>
+        <item>移动</item>
+        <item>跑步</item>
+        <item>单人足球</item>
+    </string-array>
+    <string-array name="strength_floorball">
+        <item>个人技术</item>
+        <item> 通过</item>
+        <item>接收</item>
+        <item>射击</item>
+        <item>盘带</item>
+        <item>个人战术</item>
+        <item> 游戏角色</item>
+        <item>移动</item>
+    </string-array>
+    <string-array name="strength_climbing">
+        <item>步法练习</item>
+        <item>身体姿势</item>
+        <item>检举</item>
+        <item> 打耳光</item>
+        <item> 切割松动</item>
+        <item>使用卷</item>
+        <item>奴隶</item>
+        <item> 坐着开始</item>
+        <item> 路线阅读</item>
+    </string-array>
+
+    <string-array name="strength_mountaineering">
+        <item>反应</item>
+        <item>协调</item>
+        <item>均衡</item>
+        <item>灵活性</item>
+        <item>耐力</item>
+        <item>功率</item>
+        <item>强度</item>
+        <item>速度</item>
+        <item>安全</item>
+    </string-array>
+    <string-array name="strength_canyoning">
+        <item>需要力量。</item>
+        <item>精神力量</item>
+        <item>焦点</item>
+        <item>避免自满</item>
+        <item>力量体</item>
+        <item>平衡</item>
+        <item>各种形状。</item>
+    </string-array>
+    <string-array name="strength_trail">
+        <item>耐力</item>
+        <item>起搏</item>
+        <item>冲刺</item>
+        <item>复苏</item>
+        <item>反应</item>
+        <item>协调</item>
+        <item>平衡</item>
+        <item>柔顺</item>
+        <item>耐力</item>
+        <item>功率</item>
+        <item>强度</item>
+        <item>速度</item>
+        <item>节奏</item>
+    </string-array>
+    <string-array name="strength_triathlon">
+        <item>开始</item>
+        <item>正在停止</item>
+        <item> 转弯</item>
+        <item>处理方式</item>
+        <item>交通</item>
+        <item>换档</item>
+        <item>韵律</item>
+        <item>攀登</item>
+        <item>降序</item>
+        <item>团体赛</item>
+    </string-array>
+    <string-array name="strength_archery">
+        <item>焦点</item>
+        <item>浓度</item>
+        <item>耐心肌肉</item>
+        <item>协调</item>
+        <item>平衡</item>
+        <item>稳定性。 ...</item>
+        <item>距离能力</item>
+        <item>目标</item>
+        <item>视图</item>
+        <item>射击视线</item>
+    </string-array>
+    <string-array name="strength_snowboarding">
+        <item>前后平衡。 ...</item>
+        <item>身体独立</item>
+        <item>运动范围</item>
+        <item>轮流</item>
+        <item>保持稳定</item>
+        <item>种植电线杆。</item>
+        <item>精通边缘</item>
+        <item>处理深</item>
+        <item>鲜粉</item>
+    </string-array>
+    <string-array name="strength_skiing">
+        <item>前后平衡。 ...</item>
+        <item>身体独立</item>
+        <item>运动范围</item>
+        <item>轮流</item>
+        <item>保持稳定</item>
+        <item>种植电线杆。</item>
+        <item>精通边缘</item>
+        <item>处理深</item>
+        <item>鲜粉</item>
+        <item>雕刻</item>
+    </string-array>
+    <string-array name="strength_ice_skating">
+        <item>坐在冰上</item>
+        <item>站起来冰</item>
+        <item>向前滑行</item>
+        <item>蘸</item>
+        <item>前倾</item>
+        <item>向后摆动</item>
+        <item>雪犁</item>
+        <item>向前</item>
+        <item>向后移动</item>
+        <item>向后抚摸</item>
+        <item>单脚旋转</item>
+        <item>T站</item>
+    </string-array>
+    <string-array name="strength_bowls">
+        <item>点</item>
+        <item>射击</item>
+        <item>发射</item>
+        <item>精确</item>
+        <item>弹道游戏</item>
+        <item>站立或蹲</item>
+        <item>滑行</item>
+        <item>半丢</item>
+        <item>范围</item>
+        <item>射击</item>
+        <item>筏子</item>
+        <item>铁</item>
+    </string-array>
+    <string-array name="strength_skateborard">
+        <item>脚踢</item>
+        <item>技巧</item>
+        <item>180°</item>
+        <item>360°</item>
+        <item>滑磨</item>
+        <item>不遵守</item>
+        <item>无骨的</item>
+        <item>大旋风</item>
+        <item>Bigflip</item>
+        <item>穴居人P</item>
+        <item>手架</item>
+        <item>奥利</item>
+        <item>抓斗</item>
+    </string-array>
+    <string-array name="strength_crossfit_fitness">
+        <item>功率</item>
+        <item>速度</item>
+        <item>敏捷</item>
+        <item>手眼脚协调</item>
+        <item>均衡</item>
+        <item>反应时间</item>
+        <item>心血管形式</item>
+        <item>身体构成</item>
+        <item>跳</item>
+        <item>旋转</item>
+        <item>流动性</item>
+        <item>强度</item>
+    </string-array>
+    <string-array name="strength_weightlifting">
+        <item>功率</item>
+        <item>速度</item>
+        <item>敏捷</item>
+        <item>手眼脚协调</item>
+        <item>均衡</item>
+        <item>反应时间</item>
+        <item>心血管形式</item>
+        <item>身体构成</item>
+        <item>跳</item>
+        <item>旋转</item>
+        <item>流动性</item>
+        <item>强度</item>
+    </string-array>
+    <string-array name="strength_surf">
+        <item>雕刻</item>
+        <item>修整</item>
+        <item>削减</item>
+        <item>回旋削减</item>
+        <item>唇上</item>
+        <item>泡沫攀爬</item>
+        <item>浮子</item>
+        <item>尾滑</item>
+        <item>鼻塞</item>
+        <item>变化</item>
+        <item>切换姿态</item>
+        <item>360</item>
+        <item>脚踢</item>
+        <item>骑乘管</item>
+        <item>空中/空中</item>
+        <item>胡同</item>
+        <item>牛仔竞技表演</item>
+        <item>翻转翻转</item>
+        <item>弗林斯顿翻转</item>
+        <item>寿司卷</item>
+    </string-array>
+    <string-array name="strength_sailing">
+        <item>操纵帆。</item>
+        <item>到达（外部）线索</item>
+        <item>竖起沉重的风帆</item>
+        <item>晶须极</item>
+        <item>帆设置</item>
+        <item>船平衡</item>
+        <item>脚跟</item>
+        <item>前装饰</item>
+        <item>尾部装饰</item>
+        <item>位置</item>
+        <item>整理</item>
+    </string-array>
+    <string-array name="strength_canoeing">
+        <item>握</item>
+        <item>好姿势</item>
+        <item>刀片控制</item>
+        <item>定时</item>
+        <item>平衡</item>
+        <item>韵律</item>
+        <item>效率</item>
+        <item> 电源应用</item>
+        <item>赛艇运动员</item>
+        <item> 划船技巧。</item>
+        <item>顺风</item>
+        <item>描边</item>
+        <item>十字描边</item>
+        <item>严厉的中风</item>
+        <item>中风</item>
+    </string-array>
+    <string-array name="strength_rowing">
+        <item>握</item>
+        <item>好姿势</item>
+        <item>刀片控制</item>
+        <item>定时</item>
+        <item>平衡</item>
+        <item>韵律</item>
+        <item>效率</item>
+        <item> 电源应用</item>
+        <item>赛艇运动员</item>
+        <item> 划船技巧。</item>
+        <item>奥德中风</item>
+        <item>描边</item>
+        <item>十字描边</item>
+        <item>严厉的中风</item>
+        <item>中风</item>
+    </string-array>
+    <string-array name="strength_winter_sport">
+        <item>反应</item>
+        <item>协调</item>
+        <item>均衡</item>
+        <item>灵活性</item>
+        <item>耐力</item>
+        <item>功率</item>
+        <item>强度</item>
+        <item>速度</item>
+        <item>跳</item>
+    </string-array>
+    <string-array name="strength_air_sport">
+        <item>反应</item>
+        <item>协调</item>
+        <item>均衡</item>
+        <item>灵活性</item>
+        <item>耐力</item>
+        <item>功率</item>
+        <item>强度</item>
+        <item>速度</item>
+        <item>跳</item>
+    </string-array>
+
+    <!--    stats arrays-->
+    <string-array name="stat_american_football_key">
+        <item>Games_played</item>
+        <item>Victories</item>
+        <item>Defeats</item>
+        <item>Draws</item>
+        <item>Points_scored</item>
+        <item>Touchdowns</item>
+        <item>Attempts</item>
+        <item>Yards</item>
+        <item>Assist</item>
+        <item>successful_races</item>
+        <item>Interceptions</item>
+        <item>Tackle</item>
+        <item>Completions</item>
+        <item>Sack</item>
+        <item>First_Down</item>
+        <item>Fumble</item>
+        <item>Reception</item>
+        <item>Blocked</item>
+    </string-array>
+    <string-array name="stat_american_football">
+        <item>玩过的游戏</item>
+        <item>胜利</item>
+        <item>失败 </item>
+        <item>平局</item>
+        <item>得分</item>
+        <item>達陣</item>
+        <item>尝试次数</item>
+        <item>码</item>
+        <item>助攻   </item>
+        <item>成功种族</item>
+        <item>拦截</item>
+        <item>抢断</item>
+        <item>完成</item>
+        <item>麻袋</item>
+        <item>未降</item>
+        <item>摸索</item>
+        <item>成功接待</item>
+        <item>受阻</item>
+    </string-array>
+    <string-array name="stat_american_football_s">
+        <item>玩过的游戏</item>
+        <item>胜利</item>
+        <item>失败 </item>
+        <item>平局</item>
+        <item>得分</item>
+        <item>達陣</item>
+        <item>尝试次数</item>
+        <item>码</item>
+        <item>助攻</item>
+        <item>成功种族</item>
+        <item>拦截</item>
+        <item>抢断</item>
+        <item>完成</item>
+        <item>麻袋</item>
+        <item>未降</item>
+        <item>摸索</item>
+        <item>成功接待</item>
+        <item>受阻</item>
+    </string-array>
+
+    <string-array name="stat_basketball_key">
+        <item>Games_played</item>
+        <item>Victories</item>
+        <item>Defeats</item>
+        <item>Draws</item>
+        <item>Points</item>
+        <item>Rebounds</item>
+        <item>Assists</item>
+        <item>Blocks</item>
+        <item>Steals</item>
+    </string-array>
+    <string-array name="stat_basketball">
+        <item>玩过的游戏</item>
+        <item>胜利</item>
+        <item>失败 </item>
+        <item>平局</item>
+        <item>点</item>
+        <item>篮板</item>
+        <item>助攻</item>
+        <item>阻攻</item>
+        <item>拦截</item>
+    </string-array>
+    <string-array name="stat_basketball_s">
+        <item>玩过的游戏</item>
+        <item>胜利</item>
+        <item>失败 </item>
+        <item>平局</item>
+        <item>点</item>
+        <item>篮板</item>
+        <item>助攻</item>
+        <item>阻攻</item>
+        <item>拦截</item>
+    </string-array>
+
+    <string-array name="stat_football_key">
+        <item>Games_played</item>
+        <item>Victories</item>
+        <item>Defeats</item>
+        <item>Draws</item>
+        <item>Goals</item>
+        <item>Assists</item>
+        <item>Successful_passes</item>
+        <item>Interceptions</item>
+        <item>Clean_sheet</item>
+        <item>Goalkeeper_stop</item>
+        <item>Sanctions</item>
+    </string-array>
+    <string-array name="stat_football">
+        <item>玩过的游戏</item>
+        <item>胜利</item>
+        <item>失败 </item>
+        <item>平局</item>
+        <item>球门</item>
+        <item>助攻</item>
+        <item>成功通过</item>
+        <item>拦截</item>
+        <item>无尘纸</item>
+        <item>守门员站</item>
+        <item>制裁</item>
+    </string-array>
+    <string-array name="stat_football_s">
+        <item>玩过的游戏</item>
+        <item>胜利</item>
+        <item>失败 </item>
+        <item>平局</item>
+        <item>球门</item>
+        <item>助攻</item>
+        <item>成功通过</item>
+        <item>拦截</item>
+        <item>无尘纸</item>
+        <item>守门员站</item>
+        <item>制裁</item>
+    </string-array>
+
+    <string-array name="stat_rugby_key">
+        <item>Games_played</item>
+        <item>Victories</item>
+        <item>Defeats</item>
+        <item>Draws</item>
+        <item>Points</item>
+        <item>Tries</item>
+        <item>Conversion</item>
+        <item>Tackle</item>
+        <item>Drops</item>
+        <item>Penalties</item>
+    </string-array>
+    <string-array name="stat_rugby">
+        <item>玩过的游戏</item>
+        <item>胜利</item>
+        <item>失败 </item>
+        <item>平局</item>
+        <item>点</item>
+        <item>尝试</item>
+        <item>转换 </item>
+        <item>抢断</item>
+        <item>掉落</item>
+        <item>罚则 </item>
+    </string-array>
+    <string-array name="stat_rugby_s">
+        <item>玩过的游戏</item>
+        <item>胜利</item>
+        <item>失败 </item>
+        <item>平局</item>
+        <item>点</item>
+        <item>尝试</item>
+        <item>转换 </item>
+        <item>抢断</item>
+        <item>掉落</item>
+        <item>罚则 </item>
+    </string-array>
+
+    <string-array name="stat_cricket_key">
+        <item>Games_played</item>
+        <item>Victories</item>
+        <item>Defeats</item>
+        <item>Draws</item>
+        <item>Runs_scored</item>
+        <item>Batting_average</item>
+        <item>100s_50s</item>
+        <item>Top_score</item>
+        <item>Balls_bowled</item>
+        <item>Wickets</item>
+        <item>Bowling_average</item>
+        <item>5_wickets_in_innings</item>
+        <item>10_wickets_in_match</item>
+        <item>Best_bowling</item>
+        <item>Catches</item>
+        <item>Stumpings</item>
+    </string-array>
+    <string-array name="stat_cricket">
+        <item>玩过的游戏</item>
+        <item>胜利</item>
+        <item>失败 </item>
+        <item>平局</item>
+        <item>跑步得分 </item>
+        <item>平均命中率 </item>
+        <item>100秒/ 50秒</item>
+        <item>最高分 </item>
+        <item>滚球 </item>
+        <item>小门</item>
+        <item>保龄球平均</item>
+        <item>5局小门</item>
+        <item>比赛中有10个小门</item>
+        <item>最佳保龄球</item>
+        <item>接球</item>
+        <item>残端</item>
+    </string-array>
+    <string-array name="stat_cricket_s">
+        <item>玩过的游戏</item>
+        <item>胜利</item>
+        <item>失败 </item>
+        <item>平局</item>
+        <item>跑步得分 </item>
+        <item>平均命中率 </item>
+        <item>100秒/ 50秒</item>
+        <item>最高分 </item>
+        <item>滚球 </item>
+        <item>小门</item>
+        <item>保龄球平均</item>
+        <item>5局小门</item>
+        <item>比赛中有10个小门</item>
+        <item>最佳保龄球</item>
+        <item>接球</item>
+        <item>残端</item>
+    </string-array>
+
+    <string-array name="stat_hockey_key">
+        <item>Games_played</item>
+        <item>Victories</item>
+        <item>Defeats</item>
+        <item>Draws</item>
+        <item>Goals</item>
+        <item>Assists</item>
+        <item>Interceptions</item>
+        <item>Successful_stops</item>
+        <item>Penalties</item>
+    </string-array>
+    <string-array name="stat_hockey">
+        <item>玩过的游戏</item>
+        <item>胜利</item>
+        <item>失败</item>
+        <item>平局</item>
+        <item>球门</item>
+        <item>助攻</item>
+        <item>拦截</item>
+        <item>成功停止</item>
+        <item>罚则</item>
+    </string-array>
+    <string-array name="stat_hockey_s">
+        <item>玩过的游戏</item>
+        <item>胜利</item>
+        <item>失败</item>
+        <item>平局</item>
+        <item>球门</item>
+        <item>助攻</item>
+        <item>拦截</item>
+        <item>成功停止</item>
+        <item>罚则</item>
+    </string-array>
+
+    <string-array name="stat_baseball_key">
+        <item>Games_played</item>
+        <item>Victories</item>
+        <item>Defeats</item>
+        <item>Draws</item>
+        <item>Home_Run</item>
+        <item>Hits</item>
+        <item>Runs</item>
+        <item>Bases_on_Balls</item>
+        <item>At_Bats</item>
+        <item>Assists</item>
+        <item>Sacrifice_Flies</item>
+        <item>Strikeouts</item>
+        <item>Hit_by_Pitch</item>
+    </string-array>
+    <string-array name="stat_baseball">
+        <item>玩过的游戏</item>
+        <item>胜利</item>
+        <item>失败 </item>
+        <item>平局</item>
+        <item>本垒打</item>
+        <item>命中 </item>
+        <item>运行</item>
+        <item>基于球</item>
+        <item>打數</item>
+        <item>助攻</item>
+        <item>牺牲苍蝇</item>
+        <item>三振出局</item>
+        <item>觸身球</item>
+    </string-array>
+    <string-array name="stat_baseball_s">
+        <item>玩过的游戏</item>
+        <item>胜利</item>
+        <item>失败 </item>
+        <item>平局</item>
+        <item>本垒打</item>
+        <item>命中 </item>
+        <item>运行</item>
+        <item>基于球</item>
+        <item>打數</item>
+        <item>助攻</item>
+        <item>牺牲苍蝇</item>
+        <item>三振出局</item>
+        <item>觸身球</item>
+    </string-array>
+
+    <string-array name="stat_handball_key">
+        <item>Games_played</item>
+        <item>Victories</item>
+        <item>Defeats</item>
+        <item>Draws</item>
+        <item>Goals</item>
+        <item>Assists</item>
+        <item>Successful_passes</item>
+        <item>Interceptions</item>
+        <item>Clean_sheet</item>
+        <item>Goalkeeper_stop</item>
+        <item>Penalties</item>
+    </string-array>
+    <string-array name="stat_handball">
+        <item>玩过的游戏</item>
+        <item>胜利</item>
+        <item>失败 </item>
+        <item>平局</item>
+        <item>球门</item>
+        <item>助攻</item>
+        <item>成功通过</item>
+        <item>拦截</item>
+        <item>无尘纸</item>
+        <item>守门员站</item>
+        <item>制裁</item>
+    </string-array>
+    <string-array name="stat_handball_s">
+        <item>玩过的游戏</item>
+        <item>胜利</item>
+        <item>失败 </item>
+        <item>平局</item>
+        <item>球门</item>
+        <item>助攻</item>
+        <item>成功通过</item>
+        <item>拦截</item>
+        <item>无尘纸</item>
+        <item>守门员站</item>
+        <item>制裁</item>
+    </string-array>
+
+    <string-array name="stat_volleyball_key">
+        <item>Games_played</item>
+        <item>Victories</item>
+        <item>Defeats</item>
+        <item>Draws</item>
+        <item>Points</item>
+        <item>Assists</item>
+        <item>Successful_services</item>
+        <item>Successful_Receptions</item>
+        <item>Successful_passes</item>
+        <item>Bloc</item>
+    </string-array>
+    <string-array name="stat_volleyball">
+        <item>玩过的游戏</item>
+        <item>胜利</item>
+        <item>失败</item>
+        <item>平局</item>
+        <item>点</item>
+        <item>助攻</item>
+        <item>成功服务</item>
+        <item>成功接待</item>
+        <item>成功通过</item>
+        <item>阻攻</item>
+    </string-array>
+    <string-array name="stat_volleyball_s">
+        <item>玩过的游戏</item>
+        <item>胜利</item>
+        <item>失败</item>
+        <item>平局</item>
+        <item>点</item>
+        <item>助攻</item>
+        <item>成功服务</item>
+        <item>成功接待</item>
+        <item>成功通过</item>
+        <item>阻攻</item>
+    </string-array>
+
+    <string-array name="stat_tennis_key">
+        <item>Games_played</item>
+        <item>Victories</item>
+        <item>Defeats</item>
+        <item>Draws</item>
+        <item>Points_earned_in_the_service</item>
+        <item>Point_earned_in_Return_of_service</item>
+        <item>Ranking</item>
+        <item>PointsRanking</item>
+    </string-array>
+    <string-array name="stat_tennis">
+        <item>玩过的游戏</item>
+        <item>胜利</item>
+        <item>失败 </item>
+        <item>平局</item>
+        <item>积分服务</item>
+        <item>积分返还服务</item>
+        <item>排名</item>
+        <item>排名积分</item>
+    </string-array>
+    <string-array name="stat_tennis_s">
+        <item>玩过的游戏</item>
+        <item>胜利</item>
+        <item>失败 </item>
+        <item>平局</item>
+        <item>积分服务</item>
+        <item>积分返还服务</item>
+        <item>排名</item>
+        <item>排名积分</item>
+    </string-array>
+
+    <string-array name="stat_badminton_key">
+        <item>Games_played</item>
+        <item>Victories</item>
+        <item>Defeats</item>
+        <item>Draws</item>
+        <item>Points_earned_in_the_service</item>
+        <item>Point_earned_in_Return_of_service</item>
+        <item>Ranking</item>
+        <item>pointsRanking</item>
+    </string-array>
+    <string-array name="stat_badminton">
+        <item>玩过的游戏</item>
+        <item>胜利</item>
+        <item>失败 </item>
+        <item>平局</item>
+        <item>积分服务</item>
+        <item>积分返还服务</item>
+        <item>排名</item>
+        <item>排名积分</item>
+    </string-array>
+    <string-array name="stat_badminton_s">
+        <item>玩过的游戏</item>
+        <item>胜利</item>
+        <item>失败 </item>
+        <item>平局</item>
+        <item>积分服务</item>
+        <item>积分返还服务</item>
+        <item>排名</item>
+        <item>排名积分</item>
+    </string-array>
+
+    <string-array name="stat_golf_key">
+        <item>Games_played</item>
+        <item>Victories</item>
+        <item>Defeats</item>
+        <item>Draws</item>
+        <item>Fairway_InRegulation</item>
+        <item>Green_InRegulation</item>
+        <item>Number_of_putts</item>
+        <item>Ranking</item>
+        <item>PointsRanking</item>
+    </string-array>
+    <string-array name="stat_golf">
+        <item>玩过的游戏</item>
+        <item>胜利</item>
+        <item>失败 </item>
+        <item>平局</item>
+        <item>球道重组</item>
+        <item>绿色调节</item>
+        <item>推杆数</item>
+        <item>排名</item>
+        <item>排名积分</item>
+    </string-array>
+    <string-array name="stat_golf_s">
+        <item>玩过的游戏</item>
+        <item>胜利</item>
+        <item>失败 </item>
+        <item>平局</item>
+        <item>球道重组</item>
+        <item>绿色调节</item>
+        <item>推杆数</item>
+        <item>排名</item>
+        <item>排名积分</item>
+    </string-array>
+
+    <string-array name="stat_athletics_key">
+        <item>Games_played</item>
+        <item>Victories</item>
+        <item>Defeats</item>
+        <item>Draws</item>
+        <item>Performance</item>
+        <item>Ranking</item>
+        <item>Points_Ranking</item>
+    </string-array>
+    <string-array name="stat_athletics">
+        <item>玩过的游戏</item>
+        <item>胜利</item>
+        <item>失败 </item>
+        <item>平局</item>
+        <item>性能</item>
+        <item>排名</item>
+        <item>排名积分</item>
+    </string-array>
+    <string-array name="stat_athletics_s">
+        <item>玩过的游戏</item>
+        <item>胜利</item>
+        <item>失败 </item>
+        <item>平局</item>
+        <item>性能/时间</item>
+        <item>排名</item>
+        <item>排名积分</item>
+    </string-array>
+
+    <string-array name="stat_racing_key">
+        <item>Races</item>
+        <item>Victories</item>
+        <item>Defeats</item>
+        <item>Draws</item>
+        <item>Performance</item>
+        <item>Ranking</item>
+        <item>PointsRanking</item>
+    </string-array>
+    <string-array name="stat_racing">
+        <item>种族</item>
+        <item>胜利</item>
+        <item>失败 </item>
+        <item>平局</item>
+        <item>性能</item>
+        <item>排名</item>
+        <item>排名积分</item>
+    </string-array>
+    <string-array name="stat_racing_s">
+        <item>种族</item>
+        <item>胜利</item>
+        <item>失败 </item>
+        <item>平局</item>
+        <item>性能/时间</item>
+        <item>排名</item>
+        <item>排名积分</item>
+    </string-array>
+
+    <string-array name="stat_judo_key">
+        <item>Games_played</item>
+        <item>Victories</item>
+        <item>Defeats</item>
+        <item>Draws</item>
+        <item>Ippons</item>
+        <item>Attempts</item>
+        <item>Waza_Ari</item>
+        <item>Ranking</item>
+        <item>PointsRanking</item>
+    </string-array>
+    <string-array name="stat_judo">
+        <item>玩过的游戏</item>
+        <item>胜利</item>
+        <item>失败 </item>
+        <item>平局</item>
+        <item>一分</item>
+        <item>尝试次数</item>
+        <item>Waza-Ari</item>
+        <item>排名</item>
+        <item>排名积分</item>
+    </string-array>
+    <string-array name="stat_judo_s">
+        <item>玩过的游戏</item>
+        <item>胜利</item>
+        <item>失败 </item>
+        <item>平局</item>
+        <item>一分</item>
+        <item>尝试次数</item>
+        <item>W.A</item>
+        <item>排名</item>
+        <item>排名积分</item>
+    </string-array>
+
+    <string-array name="stat_korfball_key">
+        <item>Games_played</item>
+        <item>Victories</item>
+        <item>Defeats</item>
+        <item>Draws</item>
+        <item>Points</item>
+        <item>Rebounds</item>
+        <item>Assists</item>
+        <item>Steals</item>
+        <item>Blocks</item>
+    </string-array>
+    <string-array name="stat_korfball">
+        <item>玩过的游戏</item>
+        <item>胜利</item>
+        <item>失败 </item>
+        <item>平局</item>
+        <item>点</item>
+        <item>篮板</item>
+        <item>助攻</item>
+        <item>拦截</item>
+        <item>阻攻</item>
+    </string-array>
+    <string-array name="stat_korfball_s">
+        <item>玩过的游戏</item>
+        <item>胜利</item>
+        <item>失败 </item>
+        <item>平局</item>
+        <item>点</item>
+        <item>篮板</item>
+        <item>助攻</item>
+        <item>拦截</item>
+        <item>阻攻</item>
+    </string-array>
+
+    <string-array name="stat_softball_key">
+        <item>Games_played</item>
+        <item>Victories</item>
+        <item>Defeats</item>
+        <item>Draws</item>
+        <item>Home_Run</item>
+        <item>Hits</item>
+        <item>Runs</item>
+        <item>Bases_on_Balls</item>
+        <item>At_Bats</item>
+        <item>Assists</item>
+        <item>Sacrifice_Flies</item>
+        <item>Strikeouts</item>
+        <item>Hit_by_Pitch</item>
+    </string-array>
+    <string-array name="stat_softball">
+        <item>玩过的游戏</item>
+        <item>胜利</item>
+        <item>失败 </item>
+        <item>平局</item>
+        <item>本垒打</item>
+        <item>命中 </item>
+        <item>运行</item>
+        <item>基于球</item>
+        <item>打數</item>
+        <item>助攻</item>
+        <item>牺牲苍蝇</item>
+        <item>三振出局</item>
+        <item>觸身球</item>
+    </string-array>
+    <string-array name="stat_softball_s">
+        <item>玩过的游戏</item>
+        <item>胜利</item>
+        <item>失败 </item>
+        <item>平局</item>
+        <item>本垒打</item>
+        <item>命中 </item>
+        <item>运行</item>
+        <item>基于球</item>
+        <item>打數</item>
+        <item>助攻</item>
+        <item>牺牲苍蝇</item>
+        <item>三振出局</item>
+        <item>觸身球</item>
+    </string-array>
+
+    <string-array name="stat_floorball_key">
+        <item>Games_played</item>
+        <item>Victories</item>
+        <item>Defeats</item>
+        <item>Draws</item>
+        <item>Goals</item>
+        <item>Assists</item>
+        <item>Interceptions</item>
+        <item>Successful_stops</item>
+        <item>Penalties</item>
+    </string-array>
+    <string-array name="stat_floorball">
+        <item>玩过的游戏</item>
+        <item>胜利</item>
+        <item>失败 </item>
+        <item>平局</item>
+        <item>球门</item>
+        <item>助攻</item>
+        <item>拦截</item>
+        <item>成功停止</item>
+        <item>罚则</item>
+    </string-array>
+    <string-array name="stat_floorball_s">
+        <item>玩过的游戏</item>
+        <item>胜利</item>
+        <item>失败 </item>
+        <item>平局</item>
+        <item>球门</item>
+        <item>助攻</item>
+        <item>拦截</item>
+        <item>成功停止</item>
+        <item>罚则</item>
+    </string-array>
+
+    <string-array name="stat_sepak_takraw_key">
+        <item>Games_played</item>
+        <item>Victories</item>
+        <item>Defeats</item>
+        <item>Draws</item>
+        <item>Points</item>
+        <item>Assists</item>
+        <item>Successful_services</item>
+        <item>Successful_Receptions</item>
+        <item>Successful_passes</item>
+        <item>Bloc</item>
+    </string-array>
+    <string-array name="stat_sepak_takraw">
+        <item>玩过的游戏</item>
+        <item>胜利</item>
+        <item>失败 </item>
+        <item>平局</item>
+        <item>点</item>
+        <item>助攻</item>
+        <item>成功服务</item>
+        <item>成功接待</item>
+        <item>成功通过</item>
+        <item>阻攻</item>
+    </string-array>
+    <string-array name="stat_sepak_takraw_s">
+        <item>玩过的游戏</item>
+        <item>胜利</item>
+        <item>失败 </item>
+        <item>平局</item>
+        <item>点</item>
+        <item>助攻</item>
+        <item>成功服务</item>
+        <item>成功接待</item>
+        <item>成功通过</item>
+        <item>阻攻</item>
+    </string-array>
+
+    <string-array name="stat_water_polo_key">
+        <item>Games_played</item>
+        <item>Victories</item>
+        <item>Defeats</item>
+        <item>Draws</item>
+        <item>Goals</item>
+        <item>Assists</item>
+        <item>Interceptions</item>
+        <item>Successful_stops</item>
+        <item>Penalties</item>
+    </string-array>
+    <string-array name="stat_water_polo">
+        <item>玩过的游戏</item>
+        <item>胜利</item>
+        <item>失败 </item>
+        <item>平局</item>
+        <item>球门</item>
+        <item>助攻</item>
+        <item>拦截</item>
+        <item>成功停止</item>
+        <item>罚则</item>
+    </string-array>
+    <string-array name="stat_water_polo_s">
+        <item>玩过的游戏</item>
+        <item>胜利</item>
+        <item>失败 </item>
+        <item>平局</item>
+        <item>球门</item>
+        <item>助攻</item>
+        <item>拦截</item>
+        <item>成功停止</item>
+        <item>罚则</item>
+    </string-array>
+
+    <string-array name="stat_coach_key">
+        <item>Games_played</item>
+        <item>Victories</item>
+        <item>Defeats</item>
+        <item>Draws</item>
+        <item>Ranking</item>
+        <item>Points_Ranking</item>
+    </string-array>
+    <string-array name="stat_coach">
+        <item>玩过的游戏</item>
+        <item>胜利</item>
+        <item>失败</item>
+        <item>平局</item>
+        <item>排名</item>
+        <item>排名积分</item>
+    </string-array>
+    <string-array name="stat_coach_s">
+        <item>玩过的游戏</item>
+        <item>胜利</item>
+        <item>失败</item>
+        <item>平局</item>
+        <item>排名</item>
+        <item>排名积分</item>
+    </string-array>
+</resources>

@@ -1,0 +1,47 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <!--No Actionbar theme-->
+    <style name="AppTheme.NoActionBar" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+<!--        <item name="android:windowTranslucentStatus">true</item>-->
+<!--        <item name="android:statusBarColor">@android:color/transparent</item>-->
+    </style>
+
+    <style name="AuthHolderTextView">
+        <item name="android:color">#BCBCBD</item>
+        <item name="android:textSize">13dp</item>
+    </style>
+    <style name="AuthEditText">
+        <item name="android:color">#090909</item>
+        <item name="android:textSize">13dp</item>
+        <item name="android:padding">10dp</item>
+        <item name="android:background">@mipmap/auth_text_background</item>
+    </style>
+
+    <style name="AppTheme.NavigationView">
+        <item name="android:textColorSecondary">@color/navigation_active</item>
+        <item name="android:windowTranslucentStatus">true</item>
+        <item name="android:windowTranslucentNavigation">true</item>
+    </style>
+
+    <!--No Actionbar theme-->
+    <style name="AppTheme.NoActionBarStatus" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:windowTranslucentStatus">true</item>
+    </style>
+
+</resources>

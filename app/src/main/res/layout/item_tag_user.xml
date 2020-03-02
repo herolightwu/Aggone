@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="52dp"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_marginHorizontal="12dp"
+    android:id="@+id/layout_parent"
+    android:orientation="horizontal"
+    android:gravity="center_vertical">
+    <de.hdodenhof.circleimageview.CircleImageView
+        android:id="@+id/img_avata"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:src="@android:color/darker_gray"/>
+    <LinearLayout
+        android:layout_width="0dp"
+        android:layout_weight="1"
+        android:layout_height="match_parent"
+        android:gravity="center_vertical"
+        android:layout_marginHorizontal="20dp"
+        android:orientation="vertical">
+        <TextView
+            android:id="@+id/txt_name"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Steven Devasi"
+            android:textColor="#404040"
+            android:textStyle="bold"
+            android:textSize="12sp"/>
+        <TextView
+            android:id="@+id/txt_position"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Head Coach"
+            android:textColor="#BCBCBC"
+            android:textSize="8sp"/>
+    </LinearLayout>
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+        <TextView
+            android:id="@+id/btn_profile"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="16dp"
+            android:visibility="gone"
+            android:textColor="#BCBCBC"
+            android:textSize="8sp"
+            android:text="View Profile"/>
+        <de.hdodenhof.circleimageview.CircleImageView
+            android:id="@+id/img_check"
+            android:layout_width="12dp"
+            android:layout_height="12dp"
+            android:layout_marginRight="16dp"
+            android:layout_marginLeft="16dp"
+            android:src="@android:color/white"
+            app:civ_border_color="@color/colorPrimaryDark"
+            app:civ_border_width="2dp"/>
+    </RelativeLayout>
+</LinearLayout>

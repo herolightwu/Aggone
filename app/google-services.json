@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "793656763682",
+    "firebase_url": "https://aggone-25eb2.firebaseio.com",
+    "project_id": "aggone-25eb2",
+    "storage_bucket": "aggone-25eb2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:793656763682:android:b4375a27bf9a274193717b",
+        "android_client_info": {
+          "package_name": "com.odelan.yang.aggone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "793656763682-blansdokg695cekc97ei9c87u11r1ct6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.odelan.yang.aggone",
+            "certificate_hash": "2751a314d641140d21ca0dc004ebf2cf6c244e5f"
+          }
+        },
+        {
+          "client_id": "793656763682-rh69dl2gkgnh3qaa21a29r7j265pmd97.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhJSVnQ9zi5zr7lyxXP4WYfoj7SMrA67M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "793656763682-nll8aftu395dt107uakbqnv3tu0fib19.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "793656763682-got7iicka0bshjeto5lnpfit9m15nl1b.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.odelan.yang.aggone.new"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:id="@+id/layout_parent">
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:scaleType="fitXY"
+        android:layout_marginHorizontal="10dp"
+        android:src="@mipmap/stats_header"/>
+
+    <ImageView
+        android:id="@+id/outline_layout"
+        android:layout_width="match_parent"
+        android:layout_height="44dp"
+        android:layout_marginHorizontal="25dp"
+        android:layout_marginTop="16dp"
+        android:background="@drawable/rounded_select"/>
+    <TextView
+        android:id="@+id/txt_club"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="26dp"
+        android:layout_centerHorizontal="true"
+        android:text="Real Madrid"
+        android:fontFamily="@font/montserrat_semibold"
+        android:textColor="@color/txt_active_color"
+        android:textSize="17sp"/>
+
+    <ImageView
+        android:id="@+id/btn_delete"
+        android:layout_width="20dp"
+        android:layout_height="20dp"
+        android:visibility="gone"
+        android:layout_marginTop="26dp"
+        android:layout_marginRight="32dp"
+        android:layout_alignParentRight="true"
+        android:src="@mipmap/ic_delete"/>
+
+    <RelativeLayout
+        android:id="@+id/edit_layout"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_below="@+id/outline_layout">
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:scaleType="fitXY"
+            android:layout_marginHorizontal="10dp"
+            android:src="@mipmap/stats_item"/>
+
+        <Spinner
+            android:id="@+id/spinner_month"
+            android:layout_width="100dp"
+            android:layout_height="40dp"
+            android:layout_marginLeft="32dp"
+            android:layout_centerVertical="true"
+            android:gravity="center"
+            android:prompt="@string/month"
+            android:background="@drawable/search_gray_bg"/>
+
+        <Spinner
+            android:id="@+id/spinner_year"
+            android:layout_width="120dp"
+            android:layout_height="40dp"
+            android:layout_marginLeft="16dp"
+            android:layout_toRightOf="@+id/spinner_month"
+            android:layout_centerVertical="true"
+            android:gravity="center"
+            android:prompt="@string/year"
+            android:background="@drawable/search_gray_bg"/>
+
+        <ImageView
+            android:id="@+id/btn_edit"
+            android:layout_width="34dp"
+            android:layout_height="34dp"
+            android:layout_marginTop="8dp"
+            android:layout_marginRight="24dp"
+            android:layout_marginLeft="24dp"
+            android:layout_marginBottom="8dp"
+            android:layout_alignParentRight="true"
+            android:src="@mipmap/ic_edit_pen"/>
+
+    </RelativeLayout>
+
+</RelativeLayout>
